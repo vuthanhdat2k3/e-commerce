@@ -1,5 +1,5 @@
-import { useState } from "react";
-import { Typography } from "@mui/material";
+import { useEffect, useState } from "react";
+import { Alert, Typography } from "@mui/material";
 import {
   Grid,
   TextField,
@@ -14,18 +14,20 @@ import { Fragment } from "react";
 import "./CreateProductForm.css";
 import { useDispatch } from "react-redux";
 import { createProduct } from "../../../Redux/Customers/Product/Action";
-
+import { navigation } from "../../../config/navigationMenu";
 
 const initialSizes = [
-  { name: "S", quantity: 0 },
-  { name: "M", quantity: 0 },
-  { name: "L", quantity: 0 },
+  { name: "", quantity: 0 },
+  { name: "", quantity: 0 },
+  { name: "", quantity: 0 },
 ];
 
+const images = [{ src: "" }, { src: "" }, { src: "" }, { src: "" }];
+
 const CreateProductForm = () => {
-  
   const [productData, setProductData] = useState({
     imageUrl: "",
+    images: images,
     brand: "",
     title: "",
     color: "",
@@ -38,9 +40,77 @@ const CreateProductForm = () => {
     secondLavelCategory: "",
     thirdLavelCategory: "",
     description: "",
+    author: "",
   });
-const dispatch=useDispatch();
-const jwt=localStorage.getItem("jwt")
+  const dispatch = useDispatch();
+  const jwt = localStorage.getItem("jwt");
+
+  const [categories, setCategories] = useState({
+    topLevelCategories: [],
+    secondLevelCategories: [],
+    thirdLevelCategories: [],
+  });
+
+  useEffect(() => {
+    // Mapping the categories data from navigation to set the state
+    const topLevelCategories = navigation.categories.map((category) => ({
+      id: category.id,
+      name: category.name,
+    }));
+
+    setCategories({
+      topLevelCategories,
+      secondLevelCategories: [],
+      thirdLevelCategories: [],
+    });
+  }, []);
+  // console.log('categories', categories);
+  const [notification, setNotification] = useState({
+    message: "",
+    type: "", // 'success' or 'error'
+  });
+
+  const handleCategoryChange = (e) => {
+    const { name, value } = e.target;
+    setProductData((prevState) => ({
+      ...prevState,
+      [name]: value,
+    }));
+  
+    if (name === 'topLavelCategory') {
+      const selectedCategory = navigation.categories.find(
+        (category) => category.name === value
+      );
+      const secondLevelCategories = selectedCategory
+        ? selectedCategory.sections.map((section) => ({
+            id: section.id,
+            name: section.name,
+          }))
+        : [];
+      setCategories((prevState) => ({
+        ...prevState,
+        secondLevelCategories,
+        thirdLevelCategories: [], // Reset third level categories
+      }));
+    }
+  
+    if (name === 'secondLavelCategory') {
+      const selectedCategory = navigation.categories
+        .find((category) => category.name === productData.topLavelCategory)
+        .sections.find((section) => section.name === value);
+      const thirdLevelCategories = selectedCategory
+        ? selectedCategory.items.map((item) => ({
+            id: item.id,
+            name: item.name,
+          }))
+        : [];
+      setCategories((prevState) => ({
+        ...prevState,
+        thirdLevelCategories,
+      }));
+    }
+  };
+  
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -50,9 +120,16 @@ const jwt=localStorage.getItem("jwt")
     }));
   };
 
+  const handleImagesChange = (e, index) => {
+    let { name, value } = e.target;
+    const newImages = [...productData.images];
+    newImages[index].src = value;
+    setProductData((prevState) => ({ ...prevState, images: newImages }));
+  };
+
   const handleSizeChange = (e, index) => {
     let { name, value } = e.target;
-    name==="size_quantity"?name="quantity":name=e.target.name;
+    name === "size_quantity" ? (name = "quantity") : (name = e.target.name);
 
     const sizes = [...productData.size];
     sizes[index][name] = value;
@@ -62,18 +139,31 @@ const jwt=localStorage.getItem("jwt")
     }));
   };
 
-
-
-
   const handleSubmit = (e) => {
     e.preventDefault();
-    dispatch(createProduct({data:productData,jwt}))
-    console.log(productData);
+    console.log(productData)
+    dispatch(createProduct({ data: productData, jwt }))
+      .then((response) => {
+        setNotification({
+          message: "Product added successfully!",
+          type: "success",
+        });
+        // Reset the notification after 5 seconds
+        setTimeout(() => setNotification({ message: "", type: "" }), 5000);
+      })
+      .catch((error) => {
+        setNotification({
+          message: "Error adding product. Please try again.",
+          type: "error",
+        });
+        // Reset the notification after 5 seconds
+        setTimeout(() => setNotification({ message: "", type: "" }), 5000);
+      });
   };
 
 
   return (
-    <Fragment className="createProductContainer ">
+    <div className="createProductContainer ">
       <Typography
         variant="h3"
         sx={{ textAlign: "center" }}
@@ -81,6 +171,12 @@ const jwt=localStorage.getItem("jwt")
       >
         Add New Product
       </Typography>
+      {/* Display Notification */}
+      {notification.message && (
+        <Alert severity={notification.type} sx={{ marginBottom: 2 }}>
+          {notification.message}
+        </Alert>
+      )}
       <form
         onSubmit={handleSubmit}
         className="createProductContainer min-h-screen"
@@ -95,6 +191,19 @@ const jwt=localStorage.getItem("jwt")
               onChange={handleChange}
             />
           </Grid>
+          {productData?.images?.map((image, index) => (
+            <Grid container item spacing={3}>
+              <Grid item xs={12}>
+                <TextField
+                  label={`Image URL ${index + 1}`}
+                  name="imageUrl"
+                  value={image.src}
+                  onChange={(e) => handleImagesChange(e, index)}
+                  fullWidth
+                />
+              </Grid>
+            </Grid>
+          ))}
           <Grid item xs={12} sm={6}>
             <TextField
               fullWidth
@@ -104,7 +213,7 @@ const jwt=localStorage.getItem("jwt")
               onChange={handleChange}
             />
           </Grid>
-        
+
           <Grid item xs={12} sm={6}>
             <TextField
               fullWidth
@@ -153,7 +262,7 @@ const jwt=localStorage.getItem("jwt")
               type="number"
             />
           </Grid>
-          
+
           <Grid item xs={12} sm={4}>
             <TextField
               fullWidth
@@ -170,47 +279,64 @@ const jwt=localStorage.getItem("jwt")
               <Select
                 name="topLavelCategory"
                 value={productData.topLavelCategory}
-                onChange={handleChange}
+                onChange={handleCategoryChange}
                 label="Top Level Category"
               >
-                <MenuItem value="men">Men</MenuItem>
-                <MenuItem value="women">Women</MenuItem>
-                <MenuItem value="kids">Kids</MenuItem>
+                {categories.topLevelCategories.map((category) => (
+                  <MenuItem key={category.id} value={category.name}>
+                    {category.name}
+                  </MenuItem>
+                ))}
               </Select>
             </FormControl>
           </Grid>
+
           <Grid item xs={6} sm={4}>
             <FormControl fullWidth>
               <InputLabel>Second Level Category</InputLabel>
               <Select
                 name="secondLavelCategory"
                 value={productData.secondLavelCategory}
-                onChange={handleChange}
+                onChange={handleCategoryChange}
                 label="Second Level Category"
               >
-                <MenuItem value="clothing">Clothing</MenuItem>
-                <MenuItem value="accessories">Accessories</MenuItem>
-                <MenuItem value="brands">Brands</MenuItem>
+                {categories.secondLevelCategories.map((section) => (
+                  <MenuItem key={section.id} value={section.name}>
+                    {section.name}
+                  </MenuItem>
+                ))}
               </Select>
             </FormControl>
           </Grid>
+
           <Grid item xs={6} sm={4}>
             <FormControl fullWidth>
               <InputLabel>Third Level Category</InputLabel>
               <Select
                 name="thirdLavelCategory"
                 value={productData.thirdLavelCategory}
-                onChange={handleChange}
+                onChange={handleCategoryChange}
                 label="Third Level Category"
               >
-                <MenuItem value="top">Tops</MenuItem>
-                <MenuItem value="women_dress">Dresses</MenuItem>
-                <MenuItem value="t-shirts">T-Shirts</MenuItem>
-                <MenuItem value="saree">Saree</MenuItem>
-                <MenuItem value="lengha_choli">Lengha Choli</MenuItem>
+                {categories.thirdLevelCategories.map((item) => (
+                  <MenuItem key={item.id} value={item.id}>
+                    {item.name}
+                  </MenuItem>
+                ))}
               </Select>
             </FormControl>
           </Grid>
+          {productData.topLavelCategory === "Books" && (
+            <Grid item xs={12}>
+              <TextField
+                fullWidth
+                label="Author"
+                name="author"
+                value={productData.author}
+                onChange={handleChange}
+              />
+            </Grid>
+          )}
           <Grid item xs={12}>
             <TextField
               fullWidth
@@ -224,14 +350,13 @@ const jwt=localStorage.getItem("jwt")
             />
           </Grid>
           {productData.size.map((size, index) => (
-            <Grid container item spacing={3} >
+            <Grid container item spacing={3}>
               <Grid item xs={12} sm={6}>
                 <TextField
                   label="Size Name"
                   name="name"
                   value={size.name}
                   onChange={(event) => handleSizeChange(event, index)}
-                  required
                   fullWidth
                 />
               </Grid>
@@ -241,13 +366,12 @@ const jwt=localStorage.getItem("jwt")
                   name="size_quantity"
                   type="number"
                   onChange={(event) => handleSizeChange(event, index)}
-                  required
                   fullWidth
                 />
-              </Grid> </Grid>
-            
+              </Grid>{" "}
+            </Grid>
           ))}
-          <Grid item xs={12} >
+          <Grid item xs={12}>
             <Button
               variant="contained"
               sx={{ p: 0.7 }}
@@ -257,11 +381,10 @@ const jwt=localStorage.getItem("jwt")
             >
               Add New Product
             </Button>
-            
           </Grid>
         </Grid>
       </form>
-    </Fragment>
+    </div>
   );
 };
 
