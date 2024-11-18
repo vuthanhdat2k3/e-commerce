@@ -1,0 +1,283 @@
+[
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/4/p40_pro_0000_layer_2.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/4/p40_pro_0001_layer_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/4/p40_pro_0000_layer_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/4/p40_pro_0000_layer_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/4/p40_pro_0000_layer_2.jpg" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei P40 Pro",
+        "color": "Gray",
+        "discountedPrice": 14500000,
+        "price": 17990000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "128GB", "quantity": 80 },
+            { "name": "256GB", "quantity": 60 }
+        ],
+        "quantity": 140,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Flagship phone with 50MP Ultra Vision Camera and 5G support."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei-mate-40_2_.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei-mate-40_4_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei-mate-40_3_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei-mate-40_3_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei-mate-40_1_.jpg" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei Mate 40 Pro",
+        "color": "Black",
+        "discountedPrice": 16000000,
+        "price": 20000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "128GB", "quantity": 70 },
+            { "name": "256GB", "quantity": 50 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Premium smartphone with advanced AI and 5G capabilities."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/2/1233-500x500.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/2/1231-500x500.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/3/636892762954277372_huawei-p30-lite-trang-1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/2/1232-500x500.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/2/1232-500x500.png" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei P30 Lite",
+        "color": "White",
+        "discountedPrice": 6500000,
+        "price": 7800000,
+        "discountPersent": 16,
+        "size": [
+            { "name": "128GB", "quantity": 120 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Mid-range phone with 48MP camera and wide display."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei-y9s-breathing-crystal.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei_y9s_smartphone__6gb_128gb__-_black__main__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei_y9s.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei_y9s_smartphone__6gb_128gb__-_black__main__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei_y9s.png" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei Y9s",
+        "color": "Blue",
+        "discountedPrice": 7100000,
+        "price": 8500000,
+        "discountPersent": 16,
+        "size": [
+            { "name": "128GB", "quantity": 140 }
+        ],
+        "quantity": 140,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Affordable device with 48MP camera and 4000mAh battery."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/mate30__0004_layer_6.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/mate30__0005_layer_5.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/mate30__0006_layer_4.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/mate30__0007_layer_3.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/mate30__0003_layer_7.jpg" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei Mate 30 Pro",
+        "color": "Purple",
+        "discountedPrice": 13500000,
+        "price": 16000000,
+        "discountPersent": 15,
+        "size": [
+            { "name": "128GB", "quantity": 100 },
+            { "name": "256GB", "quantity": 80 }
+        ],
+        "quantity": 180,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Flagship with ultra-wide camera, 5G support, and Kirin 990 chip."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/3/637165989861768575_huawei-nova-5t-green-3.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/3/637165989863729451_huawei-nova-5t-green-4.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/3/637165989862080442_huawei-nova-5t-green-1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/3/637105309125166256_huawei-nova-5t-xanh-4.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/3/637105309125106244_huawei-nova-5t-xanh-3.png" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei Nova 5T",
+        "color": "Green",
+        "discountedPrice": 7200000,
+        "price": 8500000,
+        "discountPersent": 15,
+        "size": [
+            { "name": "128GB", "quantity": 100 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Affordable phone with powerful Kirin 980 and quad-camera setup."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei-y7a.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei-y7a.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei-y7a.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei-y7a.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/huawei-y7a.jpg" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei Y7a",
+        "color": "Green",
+        "discountedPrice": 5700000,
+        "price": 6700000,
+        "discountPersent": 15,
+        "size": [
+            { "name": "64GB", "quantity": 120 },
+            { "name": "128GB", "quantity": 90 }
+        ],
+        "quantity": 210,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Mid-range phone with 48MP quad camera and 5000mAh battery."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/2/p20-pro-pink-back.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/2/p20-pro-purple-back.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/2/p20-pro-blue-back_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/2/p20-pro-black-back.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/2/p20-pro.jpg" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei P20 Pro",
+        "color": "Beige",
+        "discountedPrice": 9500000,
+        "price": 11000000,
+        "discountPersent": 14,
+        "size": [
+            { "name": "128GB", "quantity": 70 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Flagship phone with triple Leica camera and fast charging."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/229272/huawei-p-smart-2021-xanh-600x600-600x600.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/42/229272/huawei-p-smart-2021-xanh-600x600-600x600.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/42/229272/huawei-p-smart-2021-xanh-600x600-600x600.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/42/229272/huawei-p-smart-2021-xanh-600x600-600x600.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/42/229272/huawei-p-smart-2021-xanh-600x600-600x600.jpg" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei P Smart 2021",
+        "color": "Green",
+        "discountedPrice": 5200000,
+        "price": 6000000,
+        "discountPersent": 13,
+        "size": [
+            { "name": "64GB", "quantity": 150 },
+            { "name": "128GB", "quantity": 100 }
+        ],
+        "quantity": 250,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Budget phone with 48MP quad camera and fast performance."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/7/_/7_13_2.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/_/5_29_4.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_34_4.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/3/637187431541640460_huawei-nova-7i-1_2.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/_/6_20_3.jpg" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei Nova 7i",
+        "color": "Black",
+        "discountedPrice": 8800000,
+        "price": 9900000,
+        "discountPersent": 11,
+        "size": [
+            { "name": "128GB", "quantity": 100 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Mid-range phone with 48MP quad-camera and Kirin 810 chipset."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/218468/huawei-p40-lite-600x600-600x600.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/42/218468/huawei-p40-lite-600x600-600x600.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/42/218468/huawei-p40-lite-600x600-600x600.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/42/218468/huawei-p40-lite-600x600-600x600.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/42/218468/huawei-p40-lite-600x600-600x600.jpg" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei P40 Lite",
+        "color": "Purple",
+        "discountedPrice": 7500000,
+        "price": 8900000,
+        "discountPersent": 16,
+        "size": [
+            { "name": "128GB", "quantity": 120 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Compact phone with quad-camera and 22.5W fast charging."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0000_huawei-mate-xs2-tren-tay-02.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0000_huawei-mate-xs2-tren-tay-02.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0001_huawei-mate-xs2-3.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0001_huawei-mate-xs2-3.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0001_huawei-mate-xs2-3.jpg" }
+        ],
+        "brand": "Huawei",
+        "title": "Huawei Mate Xs",
+        "color": "Gray",
+        "discountedPrice": 28000000,
+        "price": 35000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "512GB", "quantity": 30 }
+        ],
+        "quantity": 30,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Huawei",
+        "description": "Foldable phone with 8-inch display and 5G connectivity."
+    }
+]

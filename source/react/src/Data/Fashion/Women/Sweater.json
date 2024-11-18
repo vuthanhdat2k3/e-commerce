@@ -1,0 +1,382 @@
+[
+  {
+    "imageUrl": "https://i.etsystatic.com/9419193/r/il/1ab51d/2828120483/il_570xN.2828120483_n0r7.jpg",
+    "brand": "Zara",
+    "title": "Cozy Knit Sweater",
+    "color": "Beige",
+    "discountedPrice": 450000,
+    "price": 600000,
+    "discountPersent": 25,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "A soft and cozy knit sweater perfect for chilly days."
+  },
+  {
+    "imageUrl": "https://cdn.mall.adeptmind.ai/https%3A%2F%2Fcdni.llbean.net%2Fis%2Fimage%2Fwim%2F517929_179_41_large.webp",
+    "brand": "Uniqlo",
+    "title": "Classic Wool Sweater",
+    "color": "Gray",
+    "discountedPrice": 500000,
+    "price": 700000,
+    "discountPersent": 28,
+    "size": [
+      { "name": "S", "quantity": 15 },
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "A classic wool sweater to keep you warm and stylish."
+  },
+  {
+    "imageUrl": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1485505_lifestyle?$rl_4x5_zoom$",
+    "brand": "H&M",
+    "title": "V-Neck Sweater",
+    "color": "Blue",
+    "discountedPrice": 380000,
+    "price": 500000,
+    "discountPersent": 24,
+    "size": [
+      { "name": "S", "quantity": 25 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 45 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "A feminine V-neck sweater, perfect for layering."
+  },
+  {
+    "imageUrl": "https://www.fairindigo.com/cdn/shop/products/BG_OF_03881_Black_1123_FW22.jpg?crop=center&height=550&v=1693359591&width=550",
+    "brand": "Forever 21",
+    "title": "Ribbed Turtleneck Sweater",
+    "color": "Black",
+    "discountedPrice": 550000,
+    "price": 750000,
+    "discountPersent": 27,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "A ribbed turtleneck sweater for a sleek, warm look."
+  },
+  {
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71BT3jvh3+L.jpg",
+    "brand": "Mango",
+    "title": "Cable Knit Sweater",
+    "color": "white",
+    "discountedPrice": 620000,
+    "price": 800000,
+    "discountPersent": 22,
+    "size": [
+      { "name": "S", "quantity": 15 },
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Classic cable knit design with a modern fit."
+  },
+  {
+    "imageUrl": "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2023/09/ao-ni-sweater-nam-lacoste-brushed-fleece-colourblock-sh5605-mau-xanh-blue-64f58dc2d874e-04092023145650.jpg",
+    "brand": "Gap",
+    "title": "Fleece Sweater",
+    "color": "Blue",
+    "discountedPrice": 540000,
+    "price": 700000,
+    "discountPersent": 23,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Soft fleece sweater with a relaxed fit."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnH37V2XHn5NMjGi0ly2LTe0dE7tHp4PM4fA&s",
+    "brand": "Topshop",
+    "title": "Striped Sweater",
+    "color": "White",
+    "discountedPrice": 460000,
+    "price": 600000,
+    "discountPersent": 23,
+    "size": [
+      { "name": "S", "quantity": 15 },
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Trendy striped sweater with a classic appeal."
+  },
+  {
+    "imageUrl": "https://i.etsystatic.com/14654083/r/il/e49844/3548067964/il_570xN.3548067964_5l89.jpg",
+    "brand": "Levi's",
+    "title": "Oversized Sweater",
+    "color": "Green",
+    "discountedPrice": 580000,
+    "price": 750000,
+    "discountPersent": 23,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Stylish oversized sweater perfect for layering."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HjbO7geeAtPYsyQ7WOUEVlCsz1WEc5yAxQ&s",
+    "brand": "Nike",
+    "title": "Athletic Sweater",
+    "color": "White",
+    "discountedPrice": 530000,
+    "price": 700000,
+    "discountPersent": 24,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Perfect athletic sweater for outdoor activities."
+  },
+  {
+    "imageUrl": "https://www.norsestore.com/shared/164/731/stuessy-stussy-sport-sweater_u.jpg",
+    "brand": "Adidas",
+    "title": "Sport Sweater",
+    "color": "Red",
+    "discountedPrice": 480000,
+    "price": 650000,
+    "discountPersent": 26,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "A sporty sweater for a comfortable fit."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW9ZpN6UFwyvK9UNQ4fp3mYvKsRlUneRcNIQ&s",
+    "brand": "Massimo Dutti",
+    "title": "Chunky Knit Sweater",
+    "color": "Green",
+    "discountedPrice": 620000,
+    "price": 800000,
+    "discountPersent": 22,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Chunky knit sweater for a cozy winter look."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71GVhK81zIL._AC_UY1000_.jpg",
+    "brand": "Pull&Bear",
+    "title": "Cropped Sweater",
+    "color": "Green",
+    "discountedPrice": 470000,
+    "price": 600000,
+    "discountPersent": 22,
+    "size": [
+      { "name": "S", "quantity": 15 },
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "A trendy cropped sweater, perfect for layering."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiCvMvnhNSl3nRa908JgiIyb_KShyIi6kddw&s",
+    "brand": "Bershka",
+    "title": "Patterned Sweater",
+    "color": "Multicolor",
+    "discountedPrice": 550000,
+    "price": 750000,
+    "discountPersent": 27,
+    "size": [
+      { "name": "S", "quantity": 25 },
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "A colorful patterned sweater that stands out."
+  },
+  {
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/12/cashmeresweaters-2048px-0995-3x2-1.jpg?auto=webp&quality=75&crop=4:3,smart&width=1024",
+    "brand": "COS",
+    "title": "Soft Cashmere Sweater",
+    "color": "Blue",
+    "discountedPrice": 820000,
+    "price": 1000000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "S", "quantity": 15 },
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Luxurious cashmere sweater, incredibly soft and warm."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-JecGTm3zFqYggvoR8c_NInpsKkR0tjRkw&s",
+    "brand": "Monki",
+    "title": "Oversized Cable Knit Sweater",
+    "color": "White",
+    "discountedPrice": 520000,
+    "price": 650000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "A chunky cable knit sweater with a cozy, oversized fit."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQTPMgAH8hSmGkT77Vo16tv3_AJtVBeJhSQ&s",
+    "brand": "Reserved",
+    "title": "Mock Neck Sweater",
+    "color": "Brown",
+    "discountedPrice": 430000,
+    "price": 550000,
+    "discountPersent": 22,
+    "size": [
+      { "name": "S", "quantity": 15 },
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Stylish mock neck sweater in a warm caramel shade."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQS9-7B7t33WBbZkNeHeQHJr0KxWA10IAeQ&s",
+    "brand": "Stradivarius",
+    "title": "Embroidered Sweater",
+    "color": "White",
+    "discountedPrice": 570000,
+    "price": 750000,
+    "discountPersent": 24,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Sweater with delicate embroidery detail."
+  },
+  {
+    "imageUrl": "https://i.etsystatic.com/5035475/r/il/0247af/3247386675/il_570xN.3247386675_qnow.jpg",
+    "brand": "& Other Stories",
+    "title": "Mohair Sweater",
+    "color": "Blue",
+    "discountedPrice": 620000,
+    "price": 850000,
+    "discountPersent": 27,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Warm mohair sweater in a vibrant mustard hue."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBaVtMfTjM-d02rzihyfd7M-cUyUXJ-i4pw&s",
+    "brand": "Urban Outfitters",
+    "title": "Fitted Sweater",
+    "color": "Brown",
+    "discountedPrice": 480000,
+    "price": 600000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "S", "quantity": 25 },
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Fitted sweater for a sleek and modern look."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVynOMdPjDoH3USVU7ZrSLUgbz093AotxYKQ&s",
+    "brand": "Madewell",
+    "title": "Crewneck Sweater",
+    "color": "Black",
+    "discountedPrice": 530000,
+    "price": 700000,
+    "discountPersent": 24,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_sweater",
+    "description": "Classic crewneck sweater with a soft, comfortable fit."
+  }
+]

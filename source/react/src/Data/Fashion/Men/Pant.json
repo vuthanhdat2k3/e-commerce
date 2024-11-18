@@ -1,0 +1,502 @@
+[
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61vY4V-lxvL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/612uKqPKecL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71cVQ9FqY-L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/9113L9nSerL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71NQfgAl2XL._AC_SY879_.jpg" }
+    ],
+    "brand": "Levi's",
+    "title": "Levi's Slim Fit Chinos",
+    "color": "Khaki",
+    "discountedPrice": 1200000,
+    "price": 1500000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 25 },
+      { "name": "XL", "quantity": 20 }
+    ],
+    "quantity": 75,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Classic slim fit chinos with a versatile style, suitable for both casual and formal occasions."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61D2SLraq5L._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/6184PvKoXjL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61ZpOEbcooL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71qcLMk4JtL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71BIwJGu0IL._AC_SY879_.jpg" }
+    ],
+    "brand": "Uniqlo",
+    "title": "Uniqlo Stretch Trousers",
+    "color": "Navy",
+    "discountedPrice": 800000,
+    "price": 1000000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 40 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 20 }
+    ],
+    "quantity": 90,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Comfortable stretch trousers made from lightweight, breathable fabric for all-day wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71di9+JLdFL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71+r6E2bwSL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61gQoBhyXxL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81jI+98wP+L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81kkRmlOeUL._AC_SY879_.jpg" }
+    ],
+    "brand": "Dockers",
+    "title": "Dockers Classic Fit Pants",
+    "color": "Dura Flex Cougar",
+    "discountedPrice": 1100000,
+    "price": 1300000,
+    "discountPersent": 15,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 20 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 60,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Classic fit pants featuring a tailored design with durable and soft fabric."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51P8q8q4E4L._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61u-Fvx5C+L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51WUB3bDKUL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61tWaUE2iHL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81WMtEVtTwL._AC_SX679_.jpg" }
+    ],
+    "brand": "Gap",
+    "title": "Gap Straight Fit Jeans",
+    "color": "Stone",
+    "discountedPrice": 1500000,
+    "price": 1800000,
+    "discountPersent": 17,
+    "size": [
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 25 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 70,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Straight fit jeans designed with a modern aesthetic and exceptional comfort."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81OWtiu+MTL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61atP6JpqpL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81FHDgqevsL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91Ksd2ysu0L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71xnyfbr3fL._AC_SX679_.jpg" }
+    ],
+    "brand": "H&M",
+    "title": "H&M Skinny Fit Pants",
+    "color": "Black",
+    "discountedPrice": 700000,
+    "price": 900000,
+    "discountPersent": 22,
+    "size": [
+      { "name": "M", "quantity": 50 },
+      { "name": "L", "quantity": 40 },
+      { "name": "XL", "quantity": 35 }
+    ],
+    "quantity": 125,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Skinny fit pants offering a sleek silhouette and great flexibility."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81Avaxt+atL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81RRxdmuBBL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81GXt2AuFoL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51BVGze03uL._AC_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51qOIL2KWlL._AC_.jpg" }
+    ],
+    "brand": "Nike",
+    "title": "Nike Sportswear Joggers",
+    "color": "Heather Gray",
+    "discountedPrice": 1100000,
+    "price": 1300000,
+    "discountPersent": 15,
+    "size": [
+      { "name": "M", "quantity": 40 },
+      { "name": "L", "quantity": 35 },
+      { "name": "XL", "quantity": 25 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Athletic joggers crafted for ultimate comfort and functionality during workouts."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51lrvBS8lRL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61gg6s3QyNL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61BvM-8P8LL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61XLNWT7l3L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81hDp-LeIRL._AC_SY879_.jpg" }
+    ],
+    "brand": "Adidas",
+    "title": "Adidas Originals Track Pants",
+    "color": "Black",
+    "discountedPrice": 1300000,
+    "price": 1600000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 20 }
+    ],
+    "quantity": 85,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Iconic track pants with signature stripes, blending sport and casual fashion."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71Q3qu9gWoL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81rNuF8Fl5L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81HgMyyxsxL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/810g4H2OD7L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71CbytWXMYL._AC_SY879_.jpg" }
+    ],
+    "brand": "Ralph Lauren",
+    "title": "Ralph Lauren Pleated Dress Pants",
+    "color": "Green Brown Camo",
+    "discountedPrice": 2500000,
+    "price": 3000000,
+    "discountPersent": 17,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 5 }
+    ],
+    "quantity": 30,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Tailored dress pants with a pleated design, ideal for formal occasions."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71P81JmZv-L._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71PvY1jIb-L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/7169dIo7nRL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91Zh0PdI4jL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71XcA1fZUoL._AC_SX679_.jpg" }
+    ],
+    "brand": "Under Armour",
+    "title": "Under Armour Training Pants",
+    "color": "Dark Gray",
+    "discountedPrice": 1400000,
+    "price": 1700000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Performance-oriented training pants with a modern design."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71Fo0AlxOyL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71wj+mV5MaL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91IdQD4q7fL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71NZ3vp-ZAL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71m5wxQPFkL._AC_SX679_.jpg" }
+    ],
+    "brand": "Calvin Klein",
+    "title": "Calvin Klein Slim Dress Pants",
+    "color": "Navy Blue",
+    "discountedPrice": 2700000,
+    "price": 3200000,
+    "discountPersent": 16,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Sophisticated slim-fit dress pants for professional settings."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/618SPgDphBL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/611TKt2C-5L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61GUyWgwLoL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71GjizEvcNL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71EsZwvRvBL._AC_SY879_.jpg" }
+    ],
+    "brand": "Zara",
+    "title": "Zara Tapered Fit Trousers",
+    "color": "Sedona Cougar",
+    "discountedPrice": 1300000,
+    "price": 1500000,
+    "discountPersent": 13,
+    "size": [
+      { "name": "M", "quantity": 40 },
+      { "name": "L", "quantity": 35 },
+      { "name": "XL", "quantity": 25 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Tapered fit trousers crafted from premium fabric, suitable for modern casual looks."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61cIunJBJzL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61DRaYPMUfL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61O01hZdWBL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81kOb1XByYL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71uA3Qq7GwL._AC_SX679_.jpg" }
+    ],
+    "brand": "Wrangler",
+    "title": "Wrangler Relaxed Fit Jeans",
+    "color": "Navy Blue",
+    "discountedPrice": 1000000,
+    "price": 1300000,
+    "discountPersent": 23,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 20 }
+    ],
+    "quantity": 75,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Comfortable relaxed fit jeans designed for everyday wear and durability."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71qRO0sMPhL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71Bjzbbn+kL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/716IlKTcqdL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71cDNdGSJXL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91WM2iQ98aL._AC_SY879_.jpg" }
+    ],
+    "brand": "The North Face",
+    "title": "The North Face Cargo Pants",
+    "color": "Morel",
+    "discountedPrice": 1500000,
+    "price": 1800000,
+    "discountPersent": 17,
+    "size": [
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 20 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 65,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Functional cargo pants with multiple pockets, perfect for outdoor adventures."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61L6u0c9xgL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/41GL4fsB-CL._AC_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51dXoHoA2jL._AC_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/411W8esd2fL._AC_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/41Mfl+hGBmL._AC_.jpg" }
+    ],
+    "brand": "GAP",
+    "title": "Gap Chino Jogger Pants",
+    "color": "Light Grey",
+    "discountedPrice": 1200000,
+    "price": 1500000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 45 },
+      { "name": "L", "quantity": 35 },
+      { "name": "XL", "quantity": 25 }
+    ],
+    "quantity": 105,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Chino joggers combining style and comfort with an elastic waistband and cuffs."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/5121+ANt0aL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81dXvGwXBxL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81XCw9jTQIL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91nbNEnVD0L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81YMhWoZMZL._AC_SX679_.jpg" }
+    ],
+    "brand": "Lululemon",
+    "title": "Lululemon ABC Jogger Pants",
+    "color": "Grey",
+    "discountedPrice": 2000000,
+    "price": 2300000,
+    "discountPersent": 13,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 5 }
+    ],
+    "quantity": 30,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "High-performance jogger pants featuring sweat-wicking fabric and a tailored fit."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51Crt9Ro1sL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81UfpFs38kL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81ayi19GbfL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81xUiYD3P5L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/817tNKHQDkL._AC_SY879_.jpg" }
+    ],
+    "brand": "Banana Republic",
+    "title": "Banana Republic Tailored Chinos",
+    "color": "Black",
+    "discountedPrice": 1800000,
+    "price": 2200000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 20 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 65,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Tailored chinos with a refined silhouette for both business and casual settings."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71mkhtxkS+L._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/51EKr54eMsL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/711wV5247tL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/819Zk7UxEZL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71eoAoZEIBL._AC_SX679_.jpg" }
+    ],
+    "brand": "Puma",
+    "title": "Puma Essentials Sweatpants",
+    "color": "Black",
+    "discountedPrice": 900000,
+    "price": 1200000,
+    "discountPersent": 25,
+    "size": [
+      { "name": "M", "quantity": 50 },
+      { "name": "L", "quantity": 45 },
+      { "name": "XL", "quantity": 35 }
+    ],
+    "quantity": 130,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Essential sweatpants made for relaxation and light workouts."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81w0wW0DLWL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/8147NyHaMbL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/518JthLVHpL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81FkiM1xmwL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71sC1UqHk0L._AC_SY879_.jpg" }
+    ],
+    "brand": "Tommy Hilfiger",
+    "title": "Tommy Hilfiger Straight-Leg Pants",
+    "color": "Cloud",
+    "discountedPrice": 1900000,
+    "price": 2300000,
+    "discountPersent": 17,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 50,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Straight-leg pants combining modern style and classic details."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61vC6UbpqdL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/51S9ieFCmPL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/7140XdNOjuL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71j05KbVTpL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81qu-jQvQNL._AC_SX679_.jpg" }
+    ],
+    "brand": "Patagonia",
+    "title": "Patagonia Outdoor Hiking Pants",
+    "color": "Black",
+    "discountedPrice": 1700000,
+    "price": 2100000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 20 }
+    ],
+    "quantity": 85,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Outdoor hiking pants designed for durability and comfort during adventures."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71OR-bGAjeL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71-+7ppMXrL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81DRTWksXKL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71LxHJM0lXL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71cknJAghBL._AC_SX679_.jpg" }
+    ],
+    "brand": "Armani Exchange",
+    "title": "Armani Slim Tapered Pants",
+    "color": "Black",
+    "discountedPrice": 2500000,
+    "price": 3000000,
+    "discountPersent": 17,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "pant",
+    "description": "Luxury slim tapered pants crafted for a sleek and sophisticated look."
+  }
+]

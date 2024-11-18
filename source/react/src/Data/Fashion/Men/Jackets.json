@@ -1,0 +1,502 @@
+[
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51qis98GkeL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/51FKWwFlIDL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51kS8OJ0DGL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51s8Bey2NzL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51yruuVbWyL._AC_SX679_.jpg" }
+    ],
+    "brand": "Nike",
+    "title": "Nike Sportswear Windbreaker",
+    "color": "Black",
+    "discountedPrice": 1200000,
+    "price": 1500000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "A lightweight black windbreaker jacket, perfect for outdoor activities and casual wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61Z8yebcTjL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61kNQpEaBpL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61-cl3SQ4dL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51oUVdQmTAL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61aCViurCeL._AC_SX679_.jpg" }
+    ],
+    "brand": "Adidas",
+    "title": "Adidas Originals Track Jacket",
+    "color": "Black",
+    "discountedPrice": 1500000,
+    "price": 1800000,
+    "discountPersent": 16,
+    "size": [
+      { "name": "M", "quantity": 18 },
+      { "name": "L", "quantity": 16 },
+      { "name": "XL", "quantity": 14 }
+    ],
+    "quantity": 48,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Black track jacket with a sleek design, made with breathable fabric for comfort and style."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81Y5sBJ54kL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71r1Mn3q1fL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/812dIzUZMBL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81mNdN0R0KL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81YVNC0N0JL._AC_SX679_.jpg" }
+    ],
+    "brand": "Levi's",
+    "title": "Levi's Trucker Jacket",
+    "color": "Khaki",
+    "discountedPrice": 1800000,
+    "price": 2200000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 20 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 60,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Classic khaki denim trucker jacket from Levi's with a stylish and timeless appeal."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61Q9ErC94QL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/51GnciacgHL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51uRhjKZp6L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61NN5M6OoCL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61mL6pCneDL._AC_SX679_.jpg" }
+    ],
+    "brand": "The North Face",
+    "title": "The North Face Denali Jacket",
+    "color": "Blue",
+    "discountedPrice": 2500000,
+    "price": 3000000,
+    "discountPersent": 16,
+    "size": [
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 25 },
+      { "name": "XL", "quantity": 20 }
+    ],
+    "quantity": 75,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Red fleece jacket from The North Face, perfect for cold weather, providing warmth and comfort."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61flGDsSexL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61G1cxLYgHL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51UAKUyi2+L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51mJO+n6nlL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51y1bJheMwL._AC_SX679_.jpg" }
+    ],
+    "brand": "Columbia",
+    "title": "Columbia Bugaboo Jacket",
+    "color": "Tarmac",
+    "discountedPrice": 2800000,
+    "price": 3500000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 40 },
+      { "name": "L", "quantity": 35 },
+      { "name": "XL", "quantity": 30 }
+    ],
+    "quantity": 105,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Versatile black jacket designed for extreme weather, featuring waterproof and insulated technology."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81wrdmGR8vL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71k7qDgMK4L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/919A4u9biTL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81APDdkv4DL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81OJ6qjRmWL._AC_SY879_.jpg" }
+    ],
+    "brand": "Puma",
+    "title": "Puma Training Jacket",
+    "color": "Light Olive",
+    "discountedPrice": 1200000,
+    "price": 1500000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 18 },
+      { "name": "L", "quantity": 16 },
+      { "name": "XL", "quantity": 12 }
+    ],
+    "quantity": 46,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Gray training jacket with moisture-wicking technology, ideal for athletic activities or casual wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81OJ6qjRmWL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/618p5TeHvBL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71puq4C+CzL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71AfrguuQ-L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71AfrguuQ-L._AC_SY879_.jpg" }
+    ],
+    "brand": "Uniqlo",
+    "title": "Uniqlo BlockTech Jacket",
+    "color": "Barley",
+    "discountedPrice": 1500000,
+    "price": 1800000,
+    "discountPersent": 16,
+    "size": [
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 25 },
+      { "name": "XL", "quantity": 20 }
+    ],
+    "quantity": 75,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Dark green jacket with BlockTech fabric technology to protect against wind and rain."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71GMMwPCLOL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71K5wEzKWQL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71JybJi-lAL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/711IaJ7lkiL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61xk+YXa3hL._AC_SX679_.jpg" }
+    ],
+    "brand": "H&M",
+    "title": "H&M Puffer Jacket",
+    "color": "Black",
+    "discountedPrice": 2000000,
+    "price": 2500000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 22 },
+      { "name": "L", "quantity": 20 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 57,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Black puffer jacket designed for maximum warmth, ideal for winter activities and casual wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51RANvNSgLL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61IVjxmMaEL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71i9KOSoByL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71laccmDTGL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71ZPApwkrSL._AC_SY879_.jpg" }
+    ],
+    "brand": "Timberland",
+    "title": "Timberland Waterproof Jacket",
+    "color": "Black",
+    "discountedPrice": 2400000,
+    "price": 3000000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 12 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 37,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Brown waterproof jacket designed for outdoor adventures, with enhanced durability and comfort."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61tH2PbyAyL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/511gBrCxLKL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61O0ey22g1L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71Gg5qY-T2L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61c6Vpj7HsL._AC_SX679_.jpg" }
+    ],
+    "brand": "Patagonia",
+    "title": "Patagonia Nano Puff Jacket",
+    "color": "Chestnut",
+    "discountedPrice": 3200000,
+    "price": 4000000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 18 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 53,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Yellow Nano Puff jacket with lightweight insulation, perfect for cold and wet conditions."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61QcnH-yDML._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/51gdnLuu25L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61acjXNsfoL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51InBoinLxL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51UA8C1l-UL._AC_SX679_.jpg" }
+    ],
+    "brand": "Puma",
+    "title": "Puma Essential Hoodie Jacket",
+    "color": "Optifade Elevated",
+    "discountedPrice": 1600000,
+    "price": 2000000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 18 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 12 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Soft hoodie jacket from Puma, perfect for cool weather and casual outings."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61Q7Sra269L._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81pbUg5P3HL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81BhUcpr+pL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/711k3-F7RQL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71vwkBCthrL._AC_SY879_.jpg" }
+    ],
+    "brand": "Zara",
+    "title": "Zara Quilted Bomber Jacket",
+    "color": "Turmeric",
+    "discountedPrice": 1700000,
+    "price": 2000000,
+    "discountPersent": 15,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 18 },
+      { "name": "XL", "quantity": 12 }
+    ],
+    "quantity": 50,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Stylish quilted bomber jacket in turmeric, perfect for casual and semi-formal wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61+PjlqAlQL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71dwJ6+vd-L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/718dUBxJg2L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71qYX+ky-FL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71HiEoTA2CL._AC_SX679_.jpg" }
+    ],
+    "brand": "Hugo Boss",
+    "title": "Hugo Boss Wool Blend Coat",
+    "color": "Green",
+    "discountedPrice": 3000000,
+    "price": 3500000,
+    "discountPersent": 14,
+    "size": [
+      { "name": "M", "quantity": 10 },
+      { "name": "L", "quantity": 8 },
+      { "name": "XL", "quantity": 7 }
+    ],
+    "quantity": 25,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Sophisticated wool blend coat in green, offering timeless elegance for cold days."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61iL9uXYnDL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61iL9uXYnDL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71g1lyaeCiL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71jzxbFX3bL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61EzALWEBML._AC_SX679_.jpg" }
+    ],
+    "brand": "Gap",
+    "title": "Gap Lightweight Hooded Jacket",
+    "color": "Beige",
+    "discountedPrice": 1400000,
+    "price": 1600000,
+    "discountPersent": 12,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 20 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 60,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Lightweight hooded jacket with a minimalist design, great for transitional weather."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51pR6vTbrcL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/51UgjafLhcL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51176uIErFL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61xhA7aKlxL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61EjWOm17vL._AC_SY879_.jpg" }
+    ],
+    "brand": "Tommy Hilfiger",
+    "title": "Tommy Hilfiger Packable Puffer Jacket",
+    "color": "Black",
+    "discountedPrice": 2600000,
+    "price": 3200000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 12 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 37,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Packable puffer jacket in black with a sleek and warm design, easy to store and carry."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/712hzvl7gDL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61HyvbOEPYL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71xoZFTUJ9L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71BMjULcy-L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71Q4hFDmBML._AC_SX679_.jpg" }
+    ],
+    "brand": "Calvin Klein",
+    "title": "Calvin Klein Faux Leather Jacket",
+    "color": "Brite Lime",
+    "discountedPrice": 2200000,
+    "price": 2600000,
+    "discountPersent": 15,
+    "size": [
+      { "name": "M", "quantity": 18 },
+      { "name": "L", "quantity": 14 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 42,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Edgy faux leather jacket in black with a classic biker design, ideal for casual outings."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/512uDgwvwOL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/51oJ57zx2FL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/510bdB+ER5L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51bFHfO+f8L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51PcPtUX1dL._AC_SX679_.jpg" }
+    ],
+    "brand": "Superdry",
+    "title": "Superdry Arctic Windcheater Jacket",
+    "color": "Red",
+    "discountedPrice": 2100000,
+    "price": 2700000,
+    "discountPersent": 22,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 35,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "High-performance windcheater jacket in red, designed for harsh weather conditions."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71HGfWSeYNL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61+Icqf7-8L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71wT9sPQffL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/612HKBzFpwL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/715xHNKEHGL._AC_SX679_.jpg" }
+    ],
+    "brand": "Burberry",
+    "title": "Burberry Kensington Trench Coat",
+    "color": "Forest Olive",
+    "discountedPrice": 8000000,
+    "price": 10000000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 5 },
+      { "name": "L", "quantity": 3 },
+      { "name": "XL", "quantity": 2 }
+    ],
+    "quantity": 10,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Iconic beige trench coat with signature Burberry check lining, combining elegance and utility."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71LxdafUCUL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71F7DCTB4FL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71h55uRnmEL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81av9RGSqdL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81L8kz3Uf4L._AC_SX679_.jpg" }
+    ],
+    "brand": "Canada Goose",
+    "title": "Canada Goose Expedition Parka",
+    "color": "White",
+    "discountedPrice": 12000000,
+    "price": 14000000,
+    "discountPersent": 14,
+    "size": [
+      { "name": "M", "quantity": 8 },
+      { "name": "L", "quantity": 5 },
+      { "name": "XL", "quantity": 3 }
+    ],
+    "quantity": 16,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Extreme weather parka with thermal insulation, suitable for sub-zero conditions."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71OzB339KRL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71OkE-9HmWL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71zgI6z2waL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71GO1qBdZBL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71XVjFqS0HL._AC_SX679_.jpg" }
+    ],
+    "brand": "Ralph Lauren",
+    "title": "Ralph Lauren Corduroy Jacket",
+    "color": "Brown",
+    "discountedPrice": 2700000,
+    "price": 3200000,
+    "discountPersent": 15,
+    "size": [
+      { "name": "M", "quantity": 12 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 8 }
+    ],
+    "quantity": 30,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_jacket",
+    "description": "Stylish corduroy jacket with vintage-inspired design, perfect for semi-formal occasions."
+  }
+]

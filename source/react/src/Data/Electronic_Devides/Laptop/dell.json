@@ -1,0 +1,690 @@
+[
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/0/20_6_3.jpg",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/1/21_4_3.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/2/22_14_3.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/3/23_6_4.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/4/24_3_4.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell XPS 13",
+        "color": "Gray",
+        "discountedPrice": 28000000,
+        "price": 35000000,
+        "discountPersent": 20,
+        "size": [
+            {
+                "name": "13.3 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "High-performance ultrabook with compact design."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_6_39.png",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_1__3_36.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_3__3_28.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_5__4_26.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_4__4_26.png"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Inspiron 15",
+        "color": "Black",
+        "discountedPrice": 16000000,
+        "price": 20000000,
+        "discountPersent": 20,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Affordable laptop for students and professionals."
+    },
+    {
+        "imageUrl": "https://www.laptopvip.vn/images/detailed/34/la7420t-ctb-00000ff090-gy-fpr-www.laptopvip.vn-1697528456.png",
+        "images": [
+            {
+                "src": "https://www.laptopvip.vn/images/detailed/34/la7420t-ctb-00090lp090-bk-www.laptopvip.vn-1697528456.png"
+            },
+            {
+                "src": "https://www.laptopvip.vn/images/detailed/34/la7420t-ctb-90000td110-gy-fpr-www.laptopvip.vn-1697528456.png"
+            },
+            {
+                "src": "https://www.laptopvip.vn/images/detailed/34/la7420nt-cnb-00055lf110-gy-www.laptopvip.vn-1697528456.png"
+            },
+            {
+                "src": "https://www.laptopvip.vn/images/detailed/34/la7420nt-cnb-00060rb055-bk-www.laptopvip.vn-1697528456.png"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Latitude 14",
+        "color": "Gray",
+        "discountedPrice": 24000000,
+        "price": 30000000,
+        "discountPersent": 20,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Business laptop with security and durability."
+    },
+    {
+        "imageUrl": "https://laptoptld.com/wp-content/uploads/2023/06/Laptop-Dell-Alienware-M15-R2-111-600x338.jpeg",
+        "images": [
+            {
+                "src": "https://laptoptld.com/wp-content/uploads/2023/06/Laptop-Dell-Alienware-M15-R2-99-600x338.jpeg"
+            },
+            {
+                "src": "https://laptoptld.com/wp-content/uploads/2023/06/Laptop-Dell-Alienware-M15-R2-666-600x432.png"
+            },
+            {
+                "src": "https://laptoptld.com/wp-content/uploads/2023/06/Laptop-Dell-Alienware-M15-R2-1-600x314.jpeg"
+            },
+            {
+                "src": "https://laptoptld.com/wp-content/uploads/2023/06/Laptop-Dell-Alienware-M15-R2-55-600x337.jpeg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Alienware M15",
+        "color": "Black",
+        "discountedPrice": 55000000,
+        "price": 70000000,
+        "discountPersent": 21,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 90
+            },
+            {
+                "name": "17 inch",
+                "quantity": 10
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "High-end gaming laptop with powerful graphics."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-dell-gaming-g3-3500_4_.jpg",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-dell-gaming-g3-3500_2_.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-dell-gaming-g3-3500_3_.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-dell-gaming-g3-3500_1_.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-dell-gaming-g3-3500_2_.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell G3 15",
+        "color": "Black",
+        "discountedPrice": 21000000,
+        "price": 26000000,
+        "discountPersent": 19,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Affordable gaming laptop for casual players."
+    },
+    {
+        "imageUrl": "https://product.hstatic.net/1000381339/product/dell-precision-3470_425fe07cdb8e4addad330d6dbe226832_master.png",
+        "images": [
+            {
+                "src": "https://product.hstatic.net/1000381339/product/1web_141a29a98d9e4090a787d06895610d5e_master.png"
+            },
+            {
+                "src": "https://product.hstatic.net/1000381339/product/dell-precision-3470-laptop-moi_0614ce5e220d40bc98a5fb6bfe56f2b0_master.png"
+            },
+            {
+                "src": "https://product.hstatic.net/1000381339/product/dell-precision-3470-laptop-new_ab952390db3b457e902ccd8c78dcb717_master.png"
+            },
+            {
+                "src": "https://product.hstatic.net/1000381339/product/dell-precision-3470-laptop-moi_0614ce5e220d40bc98a5fb6bfe56f2b0_master.png"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Precision 15",
+        "color": "Gray",
+        "discountedPrice": 35000000,
+        "price": 42000000,
+        "discountPersent": 17,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Powerful workstation for designers and engineers."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_2__5_36.png",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_16__5_18.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_13__6_19.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_15__7_20.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_14__5_21.png"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Vostro 14",
+        "color": "Gray",
+        "discountedPrice": 18000000,
+        "price": 22000000,
+        "discountPersent": 18,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Small business laptop with essential features."
+    },
+    {
+        "imageUrl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9530/media-gallery/touch-black/notebook-xps-15-9530-t-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3778&hei=2323&qlt=100,1&resMode=sharp2&size=3778,2323&chrss=full&imwidth=5000",
+        "images": [
+            {
+                "src": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9530/media-gallery/touch-black/notebook-xps-15-9530-t-black-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3482&hei=2067&qlt=100,1&resMode=sharp2&size=3482,2067&chrss=full&imwidth=5000"
+            },
+            {
+                "src": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9530/media-gallery/touch-black/notebook-xps-15-9530-t-black-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3481&hei=2067&qlt=100,1&resMode=sharp2&size=3481,2067&chrss=full&imwidth=5000"
+            },
+            {
+                "src": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9530/media-gallery/touch-black/notebook-xps-15-9530-t-black-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3328&hei=2585&qlt=100,1&resMode=sharp2&size=3328,2585&chrss=full&imwidth=5000"
+            },
+            {
+                "src": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9530/media-gallery/touch-black/notebook-xps-15-9530-t-black-gallery-12.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3677&hei=2045&qlt=100,1&resMode=sharp2&size=3677,2045&chrss=full&imwidth=5000"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell XPS 15",
+        "color": "Gray",
+        "discountedPrice": 42000000,
+        "price": 50000000,
+        "discountPersent": 16,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Premium ultrabook with high-performance capabilities."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/8/18_2_115.jpg",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0003_s-l640.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0001_s-l1600_1_.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0002_s-l1600.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0000_s-l1600_2_.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Inspiron 13",
+        "color": "Gray",
+        "discountedPrice": 19000000,
+        "price": 24000000,
+        "discountPersent": 21,
+        "size": [
+            {
+                "name": "13.3 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Compact laptop for home and office use."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-dell-gaming-g5-15-5500-70252797-1.jpg",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-dell-gaming-g5-15-5500-70252797-4.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-dell-gaming-g5-15-5500-70252797-3.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-dell-gaming-g3-15-3500-70253721-1-ksp2222.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-dell-gaming-g5-15-5500-70252797-2.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell G5 15",
+        "color": "Black",
+        "discountedPrice": 24000000,
+        "price": 30000000,
+        "discountPersent": 20,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 80
+            },
+            {
+                "name": "17 inch",
+                "quantity": 20
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Gaming laptop with immersive graphics."
+    },
+    {
+        "imageUrl": "https://nhatminhlaptop.com/Upload/FileAttach/dellxps179730-2023-03-23-17-24-40.jpg",
+        "images": [
+            {
+                "src": "https://nhatminhlaptop.com/Upload/FileAttach/dellxps1797301-2023-03-23-17-28-05.jpg"
+            },
+            {
+                "src": "https://nhatminhlaptop.com/Upload/FileAttach/dellxps1797302-2023-03-23-17-28-13.jpg"
+            },
+            {
+                "src": "https://nhatminhlaptop.com/Upload/FileAttach/dellxps1797303-2023-03-23-17-29-08.jpg"
+            },
+            {
+                "src": "https://nhatminhlaptop.com/upload/products/97301-2023-06-17-15-41-20.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell XPS 17",
+        "color": "Gray",
+        "discountedPrice": 45000000,
+        "price": 55000000,
+        "discountPersent": 18,
+        "size": [
+            {
+                "name": "17 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Large screen ultrabook with high-end specs."
+    },
+    {
+        "imageUrl": "https://maytinhnhapkhau.com.vn/wp-content/uploads/2019/01/dell-g7-hanoilab-510x510.jpg",
+        "images": [
+            {
+                "src": "https://maytinhnhapkhau.com.vn/wp-content/uploads/2019/01/51dlOqxcs2L._SL1000_-510x328.jpg"
+            },
+            {
+                "src": "https://maytinhnhapkhau.com.vn/wp-content/uploads/2019/01/51VqSZAzsIL._SL1000_-510x328.jpg"
+            },
+            {
+                "src": "https://maytinhnhapkhau.com.vn/wp-content/uploads/2019/01/51yassVjycL._SL1000_-510x369.jpg"
+            },
+            {
+                "src": "https://maytinhnhapkhau.com.vn/wp-content/uploads/2019/01/61Ot2mbdkWL._SL1000_-510x383.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell G7 15",
+        "color": "Black",
+        "discountedPrice": 29000000,
+        "price": 36000000,
+        "discountPersent": 19,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "High-performance gaming laptop with advanced cooling."
+    },
+    {
+        "imageUrl": "https://laptopaz.vn/media/product/2226_1.jpg",
+        "images": [
+            {
+                "src": "https://laptopaz.vn/media/product/2226_6.jpg"
+            },
+            {
+                "src": "https://laptopaz.vn/media/product/2226_5.jpg"
+            },
+            {
+                "src": "https://laptopaz.vn/media/product/2226_4.jpg"
+            },
+            {
+                "src": "https://laptopaz.vn/media/product/2226_3.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Inspiron 14 5000",
+        "color": "Gray",
+        "discountedPrice": 20000000,
+        "price": 25000000,
+        "discountPersent": 20,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Sleek and compact laptop for everyday tasks."
+    },
+    {
+        "imageUrl": "https://laptopxachtayshop.com/uploads/2021/10/Dell-Vostro-15-35001.jpg",
+        "images": [
+            {
+                "src": "https://laptopxachtayshop.com/uploads/2022/04/product_s4692_7.jpg"
+            },
+            {
+                "src": "https://laptopxachtayshop.com/uploads/2022/04/product_s4692_6.jpg"
+            },
+            {
+                "src": "https://laptopxachtayshop.com/uploads/2022/04/product_s4692_5.jpg"
+            },
+            {
+                "src": "https://laptopxachtayshop.com/uploads/2022/04/product_s4692_1.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Vostro 15",
+        "color": "Black",
+        "discountedPrice": 17000000,
+        "price": 21000000,
+        "discountPersent": 19,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Reliable laptop for small businesses and startups."
+    },
+    {
+        "imageUrl": "https://www.laptopvip.vn/images/ab__webp/detailed/34/notebook-inspiron-16-7630-nt-ff-emza-fpr-silver-gallery-2-www.laptopvip.vn-1700204826.webp",
+        "images": [
+            {
+                "src": "https://www.laptopvip.vn/images/ab__webp/detailed/34/notebook-inspiron-16-7630-nt-lb-e-silver-gallery-7-www.laptopvip.vn-1700204826.webp"
+            },
+            {
+                "src": "https://www.laptopvip.vn/images/ab__webp/detailed/34/notebook-inspiron-16-7630-nt-lp-e-silver-gallery-9-www.laptopvip.vn-1700204826.webp"
+            },
+            {
+                "src": "https://www.laptopvip.vn/images/ab__webp/detailed/34/notebook-inspiron-16-7630-nt-rb-e-silver-gallery-6-www.laptopvip.vn-1700204826.webp"
+            },
+            {
+                "src": "https://www.laptopvip.vn/images/ab__webp/detailed/34/notebook-inspiron-16-7630-nt-td-fhd-fpr-silver-gallery-3-www.laptopvip.vn-1700204826.webp"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Inspiron 16 Plus",
+        "color": "Gray",
+        "discountedPrice": 31000000,
+        "price": 38000000,
+        "discountPersent": 18,
+        "size": [
+            {
+                "name": "16 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "16-inch laptop with stunning visuals and powerful performance."
+    },
+    {
+        "imageUrl": "https://www.laptopvip.vn/images/detailed/35/workstation-precision-14-5470-gallery-3-www.laptopvip.vn-1704510986.png",
+        "images": [
+            {
+                "src": "https://www.laptopvip.vn/images/detailed/35/workstation-precision-14-5470-gallery-5-www.laptopvip.vn-1704510986.png"
+            },
+            {
+                "src": "https://www.laptopvip.vn/images/detailed/35/workstation-precision-14-5470-gallery-6-www.laptopvip.vn-1704510986.png"
+            },
+            {
+                "src": "https://www.laptopvip.vn/images/thumbnails/1100/900/detailed/35/workstation-precision-14-5470-gallery-1-www.laptopvip.vn-1704510986.png.png"
+            },
+            {
+                "src": "https://www.laptopvip.vn/images/thumbnails/1100/900/detailed/35/workstation-precision-14-5470-gallery-2-www.laptopvip.vn-1704510986.png.png"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Precision 14",
+        "color": "Black",
+        "discountedPrice": 34000000,
+        "price": 41000000,
+        "discountPersent": 17,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Compact workstation with high-end processing power."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0002_dell-gaming-g15-5515-70266675-r7_2_.jpg",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0003_dell-gaming-g15-5515-70266675_09.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0000_dell-gaming-g15-5515-70266675-r7.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0001_dell-gaming-g15-5515-70266675-r7_1_.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0001_dell-gaming-g15-5515-70266675-r7_1_.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell G15 Ryzen Edition",
+        "color": "Gray",
+        "discountedPrice": 25000000,
+        "price": 32000000,
+        "discountPersent": 22,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Gaming laptop with AMD Ryzen processor for smooth performance."
+    },
+    {
+        "imageUrl": "https://ttcenter.com.vn/uploads/product/zmkf3omz-1305-dell-xps-13-plus-9320-core-i7-1360p-16gb-512gb-13-4-3-5k-oled-touch-new.jpg",
+        "images": [
+            {
+                "src": "https://ttcenter.com.vn/uploads/photos/1717636403_2747_0e2b4a0abebe00c82ff3f761cca113b8.jpg"
+            },
+            {
+                "src": "https://ttcenter.com.vn/uploads/photos/1717636403_2747_83e93d5552b96847773306cdf16d5152.jpg"
+            },
+            {
+                "src": "https://ttcenter.com.vn/uploads/photos/1717636403_2747_72bda5cd549b4221ae1d256b97b58934.jpg"
+            },
+            {
+                "src": "https://ttcenter.com.vn/uploads/photos/1717636403_2747_97c68505db3a077ee4682ba541ba8308.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell XPS 13 Plus",
+        "color": "Black",
+        "discountedPrice": 38000000,
+        "price": 45000000,
+        "discountPersent": 15,
+        "size": [
+            {
+                "name": "13.4 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Innovative ultrabook with seamless edge-to-edge display."
+    },
+    {
+        "imageUrl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-13-7340-laptop-2-in-1/media-gallery/notebook-latitude-13-7340-t-gray-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=568&qlt=100,1&resMode=sharp2&size=568,402&chrss=full",
+        "images": [
+            {
+                "src": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-13-7340-laptop-2-in-1/media-gallery/notebook-latitude-13-7340-t-gray-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=5000&hei=5000&qlt=100,1&resMode=sharp2&size=5000,5000&chrss=full&imwidth=5000"
+            },
+            {
+                "src": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-13-7340-laptop-2-in-1/media-gallery/notebook-latitude-13-7340-t-wwan-gray-gallery-7.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3345&hei=3252&qlt=100,1&resMode=sharp2&size=3345,3252&chrss=full&imwidth=5000"
+            },
+            {
+                "src": "https://i.dell.com/is/image/DellContent/content/dam/images/products/laptops-and-2-in-1s/latitude/13-7340-2n1-ms/la7340t-ms-ctb-00180bf090-gy.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3385&hei=2422&qlt=100,1&resMode=sharp2&size=3385,2422&chrss=full&imwidth=5000"
+            },
+            {
+                "src": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-13-7340-laptop-2-in-1/media-gallery/notebook-latitude-13-7340-t-fpr-gray-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&wid=5000&hei=5000&qlt=100,1&resMode=sharp2&size=5000,5000&chrss=full&imwidth=5000"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Latitude 13",
+        "color": "Gray",
+        "discountedPrice": 21000000,
+        "price": 26000000,
+        "discountPersent": 19,
+        "size": [
+            {
+                "name": "13.3 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "Compact and lightweight laptop ideal for professionals."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/0/_0000_dcb0db71a65588ee0146da791698d073.jpg",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/0/_0000_dcb0db71a65588ee0146da791698d073.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/0/_0000_dcb0db71a65588ee0146da791698d073.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/0/_0000_dcb0db71a65588ee0146da791698d073.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/0/_0000_dcb0db71a65588ee0146da791698d073.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "title": "Dell Precision 15 5000",
+        "color": "Gray",
+        "discountedPrice": 38000000,
+        "price": 45000000,
+        "discountPersent": 16,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "dell",
+        "description": "High-powered laptop for professional creative work."
+    }
+]

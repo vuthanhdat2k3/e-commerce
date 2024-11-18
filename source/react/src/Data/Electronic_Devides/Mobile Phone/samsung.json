@@ -1,0 +1,314 @@
+[
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s21-ultra-1_1_1_2.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s21-ultra-2_1_1_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s21-ultra-1_1_1_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s21-ultra-2_1_1_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s21-ultra-1_1_1_2.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy S21 Ultra",
+        "color": "Brown",
+        "discountedPrice": 25000000,
+        "price": 30000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "128GB", "quantity": 60 },
+            { "name": "256GB", "quantity": 40 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Flagship phone with 108MP camera and 100x Space Zoom."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-20-fe_3_.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s20-fe.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-20-fe_4_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s20-fe_9__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s20-fe_6__1.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy S20 FE",
+        "color": "Blue",
+        "discountedPrice": 15000000,
+        "price": 18000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "128GB", "quantity": 80 },
+            { "name": "256GB", "quantity": 60 }
+        ],
+        "quantity": 140,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Affordable flagship with excellent performance and camera."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-note-20-ultra.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/y/e/yellow_final.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/w/h/white_final.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-note-20-ultra-12.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-note-20-ultra-14.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy Note 20 Ultra",
+        "color": "Black",
+        "discountedPrice": 28000000,
+        "price": 34000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "128GB", "quantity": 50 },
+            { "name": "256GB", "quantity": 30 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Stylish phone with S Pen, perfect for productivity."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a72-29.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a72-30.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a72-31.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a72-32.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a72_2.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy A72",
+        "color": "Black",
+        "discountedPrice": 10000000,
+        "price": 12000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "128GB", "quantity": 90 },
+            { "name": "256GB", "quantity": 70 }
+        ],
+        "quantity": 160,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Mid-range phone with excellent camera and battery."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a52-26.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a52-25.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a52-24.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a52-27.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung_a52.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy A52",
+        "color": "Purple",
+        "discountedPrice": 8500000,
+        "price": 10000000,
+        "discountPersent": 15,
+        "size": [
+            { "name": "128GB", "quantity": 100 },
+            { "name": "256GB", "quantity": 60 }
+        ],
+        "quantity": 160,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Affordable mid-range phone with great camera quality."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/8/0/800x800_flip_3_cream_4.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/8/0/800x800_flip_3_black_4.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/8/0/800x800_flip_3_lavender_4.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/8/0/800x800_flip_3_green_4.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/g/a/galaxy-z-flip3-kv_5g__1p_cmyk_1.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy Z Flip 3",
+        "color": "Beige",
+        "discountedPrice": 21000000,
+        "price": 26000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "128GB", "quantity": 40 },
+            { "name": "256GB", "quantity": 30 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Foldable smartphone with unique flip design."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/3/_/3_210.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/_/1_237.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2_227.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/0/20.1_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/0/20.2.png" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy M32",
+        "color": "White",
+        "discountedPrice": 7500000,
+        "price": 9000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "64GB", "quantity": 120 },
+            { "name": "128GB", "quantity": 100 }
+        ],
+        "quantity": 220,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Affordable phone with large AMOLED display."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/1/s10_plus_xl1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/1/s10_plus_tr1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/1/s10_plus_dn1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/3/636863636051023338_ss-galaxy-s10-plus-den-1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/3/636863648672228468_ss-galaxy-s10-plus-trang-1.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy S10 Plus",
+        "color": "Green",
+        "discountedPrice": 18000000,
+        "price": 22000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "128GB", "quantity": 50 },
+            { "name": "512GB", "quantity": 30 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Premium smartphone with dual front cameras and AMOLED display."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a02s-1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a02s-trang-600x600-200x200.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a02s-2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/0/0/001_galaxy-a12-a02s_product-combo_blue-white_1p.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/0/0/006_galaxy_a02s_blue_front_r30.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy A02s",
+        "color": "Red",
+        "discountedPrice": 5000000,
+        "price": 6000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "32GB", "quantity": 150 },
+            { "name": "64GB", "quantity": 100 }
+        ],
+        "quantity": 250,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Budget phone with large display and long battery life."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a51-white-400x400_1_2_5_2.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/3/637184848297996483_ss-a51-hong-1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_34_19.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/g/a/galaxy-a51-2020_qaus-sa_2_2_6_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/a/5/a51_bac.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy A51",
+        "color": "White",
+        "discountedPrice": 9500000,
+        "price": 11500000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "64GB", "quantity": 100 },
+            { "name": "128GB", "quantity": 70 }
+        ],
+        "quantity": 170,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Mid-range phone with impressive camera and performance."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/g/a/galaxy-z-fold3-kv_5g__1p_cmyk_1_1_1_1_1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/m/sm-f926_zfold3_5g_openback_phantomsilver_210611_1_1_2_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/m/sm-f926_zfold3_5g_openback_phantomgreen_210602_3_1_1_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/m/sm-f926_zfold3_5g_openback_phantomblack_210601_3_1_1_2_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/z/f/zfold-3-bac01_1_1_1_1_1.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy Z Fold 3",
+        "color": "Black",
+        "discountedPrice": 35000000,
+        "price": 40000000,
+        "discountPersent": 12,
+        "size": [
+            { "name": "256GB", "quantity": 30 },
+            { "name": "512GB", "quantity": 20 }
+        ],
+        "quantity": 50,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Innovative foldable phone with large screen for multitasking."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-m11-1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-m11-1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-m11-1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-m11-1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-m11-1.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy M12",
+        "color": "Blue",
+        "discountedPrice": 6500000,
+        "price": 8000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "64GB", "quantity": 100 },
+            { "name": "128GB", "quantity": 80 }
+        ],
+        "quantity": 180,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Affordable smartphone with massive 6000mAh battery and 48MP camera."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a32-3_1_1_1_1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a32-19_2_2_1_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a32-20_2_2_2_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a32-4_1_1_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a32-17_3_2_2_2.jpg" }
+        ],
+        "brand": "Samsung",
+        "title": "Samsung Galaxy A32",
+        "color": "White",
+        "discountedPrice": 9500000,
+        "price": 11500000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "64GB", "quantity": 120 },
+            { "name": "128GB", "quantity": 90 }
+        ],
+        "quantity": 210,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Samsung",
+        "description": "Mid-range phone with Super AMOLED display and 64MP camera."
+    }
+]

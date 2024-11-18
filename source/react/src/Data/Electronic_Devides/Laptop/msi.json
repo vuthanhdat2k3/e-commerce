@@ -1,0 +1,463 @@
+[
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-msi-prestige-14-evo-089vn_3_.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-msi-prestige-14-evo-089vn_1_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-msi-prestige-14-evo-089vn_2_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/8/_/8.15_1_2.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/8/_/8.15_1_2.png" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Prestige 14",
+        "color": "Black",
+        "discountedPrice": 32000000,
+        "price": 40000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "14 inch", "quantity": 50 }
+        ],
+        "quantity": 50,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Slim and powerful laptop for creators and professionals."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0003_msi-creator-z16-a11uet-217vn-i7.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0000_msi-creator-z16-a11uet-217vn-i7_1_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0001_msi-creator-z16-a11uet-217vn-i7_2_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0002_msi-creator-z16-a11uet-217vn-i7_3_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0002_msi-creator-z16-a11uet-217vn-i7_3_.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Creator Z16",
+        "color": "Gray",
+        "discountedPrice": 60000000,
+        "price": 75000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "16 inch", "quantity": 30 }
+        ],
+        "quantity": 30,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "High-end laptop with a QHD+ display and RTX graphics."
+    },
+    {
+        "imageUrl": "https://lapvip.vn/upload/products/thumb_800x0/msi-stealth-15m-1644382690.jpg",
+        "images": [
+            { "src": "https://lapvip.vn/upload/products/thumb_800x0/msi-stealth-15m-1-1644382568.jpg" },
+            { "src": "https://lapvip.vn/upload/products/thumb_800x0/msi-stealth-15m-5-1644382568.jpg" },
+            { "src": "https://lapvip.vn/upload/products/thumb_800x0/msi-stealth-15m-2-1644382568.jpg" },
+            { "src": "https://lapvip.vn/upload/products/thumb_800x0/msi-stealth-15m-3-1644382568.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Stealth 15M",
+        "color": "Black",
+        "discountedPrice": 45000000,
+        "price": 57000000,
+        "discountPersent": 21,
+        "size": [
+            { "name": "15.6 inch", "quantity": 40 }
+        ],
+        "quantity": 40,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Lightweight gaming laptop with powerful hardware."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-3-750x500.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-2-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-3-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-5-750x500.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI GF63 Thin",
+        "color": "Black",
+        "discountedPrice": 25000000,
+        "price": 32000000,
+        "discountPersent": 22,
+        "size": [
+            { "name": "15.6 inch", "quantity": 80 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Affordable gaming laptop with a sleek design."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/_/1_323_3.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2_310_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_253_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/3/_/3_296_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/_/5_214_2.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Katana GF66",
+        "color": "Black",
+        "discountedPrice": 36000000,
+        "price": 45000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 60 },
+            { "name": "17.3 inch", "quantity": 40 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Gaming laptop with stunning visuals and RGB keyboard."
+    },
+    {
+        "imageUrl": "https://cdn.ankhang.vn/media/product/25932_laptop_msi_modern_15_h_c13m_216vn_1.jpg",
+        "images": [
+            { "src": "https://cdn.ankhang.vn/media/product/25932_laptop_msi_modern_15_h_c13m_216vn_2.jpg" },
+            { "src": "https://cdn.ankhang.vn/media/product/25932_laptop_msi_modern_15_h_c13m_216vn_3.jpg" },
+            { "src": "https://cdn.ankhang.vn/media/product/25932_laptop_msi_modern_15_h_c13m_216vn_4.jpg" },
+            { "src": "https://cdn.ankhang.vn/media/product/25932_laptop_msi_modern_15_h_c13m_216vn_8.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Modern 14",
+        "color": "Black",
+        "discountedPrice": 20000000,
+        "price": 25000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "14 inch", "quantity": 100 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Compact and versatile laptop for daily tasks."
+    },
+    {
+        "imageUrl": "https://nvs.tn-cdn.net/2023/03/laptop-msi-raider-ge78-hx-13vh-076vn-nguyenvu.store01-510x510.jpg",
+        "images": [
+            { "src": "https://nvs.tn-cdn.net/2023/03/laptop-msi-raider-ge78-hx-13vh-076vn-nguyenvu.store02-510x510.png" },
+            { "src": "https://nvs.tn-cdn.net/2023/03/laptop-msi-raider-ge78-hx-13vh-076vn-nguyenvu.store03-510x510.png" },
+            { "src": "https://nvs.tn-cdn.net/2023/03/laptop-msi-raider-ge78-hx-13vh-076vn-nguyenvu.store04-510x510.png" },
+            { "src": "https://nvs.tn-cdn.net/2023/03/laptop-msi-raider-ge78-hx-13vh-076vn-nguyenvu.store05-510x510.png" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Raider GE78",
+        "color": "Black",
+        "discountedPrice": 55000000,
+        "price": 69000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "17.3 inch", "quantity": 20 }
+        ],
+        "quantity": 20,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "High-performance gaming laptop for enthusiasts."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_4__4_18.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_2__4_20.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_3__3_20.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_18__2_9.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_19__1_8.png" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Bravo 15",
+        "color": "Black",
+        "discountedPrice": 28000000,
+        "price": 35000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 90 }
+        ],
+        "quantity": 90,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Gaming laptop with AMD Ryzen processor."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-msi-summit-e13-flip-evo-a11mt-211vn-4.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-msi-summit-e13-flip-evo-a11mt-211vn-2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-msi-summit-e13-flip-evo-a11mt-211vn-3.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-msi-summit-e13-flip-evo-a11mt-211vn-1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-msi-summit-e13-flip-evo-a11mt-211vn-1897.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Summit E13 Flip",
+        "color": "Black",
+        "discountedPrice": 42000000,
+        "price": 52000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "13.3 inch", "quantity": 70 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Premium 2-in-1 laptop with a stunning touchscreen."
+    },
+    {
+        "imageUrl": "https://cdn.ankhang.vn/media/product/24957_laptop_msi_cyborg_15_a13vfk_876vn_1.jpg",
+        "images": [
+            { "src": "https://cdn.ankhang.vn/media/product/24957_laptop_msi_cyborg_15_a13vfk_876vn_3.jpg" },
+            { "src": "https://cdn.ankhang.vn/media/product/24957_laptop_msi_cyborg_15_a13vfk_876vn_2.jpg" },
+            { "src": "https://cdn.ankhang.vn/media/product/24957_laptop_msi_cyborg_15_a13vfk_876vn_4.jpg" },
+            { "src": "https://cdn.ankhang.vn/media/product/24957_laptop_msi_cyborg_15_a13vfk_876vn_5.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Titan GT77",
+        "color": "Black",
+        "discountedPrice": 90000000,
+        "price": 110000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "17.3 inch", "quantity": 15 }
+        ],
+        "quantity": 15,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Ultimate gaming laptop with cutting-edge performance."
+    },
+    {
+        "imageUrl": "https://bizweb.dktcdn.net/100/329/122/products/laptop-gaming-msi-vector-gp66-12ugs-422vn-3.png?v=1698894421577",
+        "images": [
+            { "src": "https://bizweb.dktcdn.net/100/329/122/products/laptop-gaming-msi-vector-gp66-12ugs-422vn-4.png?v=1698894421577" },
+            { "src": "https://bizweb.dktcdn.net/100/329/122/products/laptop-gaming-msi-vector-gp66-12ugs-422vn-5.png?v=1698894421577" },
+            { "src": "https://bizweb.dktcdn.net/100/329/122/products/laptop-gaming-msi-vector-gp66-12ugs-422vn-1.png?v=1698894421577" },
+            { "src": "https://bizweb.dktcdn.net/100/329/122/products/laptop-gaming-msi-vector-gp66-12ugs-422vn-2.png?v=1698894421577" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Vector GP66",
+        "color": "Black",
+        "discountedPrice": 40000000,
+        "price": 50000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 50 }
+        ],
+        "quantity": 50,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Powerful laptop for high-performance gaming and work."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_-_2023-06-20t120755.118.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_-_2023-06-20t120809.309.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_-_2023-06-20t120839.441.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_-_2023-06-20t120823.489.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_-_2023-06-20t120851.612.png" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Alpha 15",
+        "color": "Gray",
+        "discountedPrice": 28000000,
+        "price": 35000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 70 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Gaming laptop with FreeSync technology for smooth visuals."
+    },
+    {
+        "imageUrl": "https://product.hstatic.net/200000722513/product/pulse_gl76_11uek_048vn_2f01e0d5c7e54b1d814deffceb682d12_5c7091945cde4c0ba25168c8650ee432_1024x1024.png",
+        "images": [
+            { "src": "https://product.hstatic.net/200000722513/product/p-gaming-msi-pulse-gl76-11uek-048vn-1_5a077a7fb62241cb8fc4b19d609cb29b_2baaf8434a334e54bf525f403239d67b_compact.jpeg" },
+            { "src": "https://product.hstatic.net/200000722513/product/p-gaming-msi-pulse-gl76-11uek-048vn-2_f0194173680f47a0b522d13d00becda9_f6f09cc0d9d5478d95158592aac34457_compact.jpg" },
+            { "src": "https://product.hstatic.net/200000722513/product/p-gaming-msi-pulse-gl76-11uek-048vn-3_febd9f0aaf2244be8bae14cd42d1df70_e58da42b0d654f2c872cb93a147d059a_compact.png" },
+            { "src": "https://product.hstatic.net/200000722513/product/p-gaming-msi-pulse-gl76-11uek-048vn-4_7244c3afc7a049d0aa3d1cdf6a6d040f_e05aacb03c3c4d2aba5cd69fc39579f2_compact.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Pulse GL76",
+        "color": "Black",
+        "discountedPrice": 47000000,
+        "price": 58000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "17.3 inch", "quantity": 40 }
+        ],
+        "quantity": 40,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Large screen gaming laptop with impressive thermal design."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/insecure/rs:fill:58:58/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-msi-summit-e16-flip-a11uct-030vn-4.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:58:58/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-msi-summit-e16-flip-a11uct-030vn-3.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:58:58/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-msi-summit-e16-flip-a11uct-030vn-2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:58:58/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-msi-summit-e16-flip-a11uct-030vn-5.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:58:58/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-msi-summit-e16-flip-a11uct-030vn-1.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Summit E16 Flip",
+        "color": "Black",
+        "discountedPrice": 54000000,
+        "price": 68000000,
+        "discountPersent": 21,
+        "size": [
+            { "name": "16 inch", "quantity": 30 }
+        ],
+        "quantity": 30,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Premium 2-in-1 laptop with long battery life and sleek design."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/225857/msi-gaming-leopard-10sdr-gl65-i7-242vn-3-1-750x500.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/225857/msi-gaming-leopard-10sdr-gl65-i7-242vn-2-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/225857/msi-gaming-leopard-10sdr-gl65-i7-242vn-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/225857/msi-gaming-leopard-10sdr-gl65-i7-242vn-4-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/225857/msi-gaming-leopard-10sdr-gl65-i7-242vn-7-750x500.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI GL66 Leopard",
+        "color": "Black",
+        "discountedPrice": 37000000,
+        "price": 47000000,
+        "discountPersent": 21,
+        "size": [
+            { "name": "15.6 inch", "quantity": 60 }
+        ],
+        "quantity": 60,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Durable and versatile laptop for gamers and professionals."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/225857/msi-gaming-leopard-10sdr-gl65-i7-242vn-3-1-750x500.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/225857/msi-gaming-leopard-10sdr-gl65-i7-242vn-2-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/225857/msi-gaming-leopard-10sdr-gl65-i7-242vn-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/225857/msi-gaming-leopard-10sdr-gl65-i7-242vn-4-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/225857/msi-gaming-leopard-10sdr-gl65-i7-242vn-7-750x500.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI GP66 Leopard",
+        "color": "Black",
+        "discountedPrice": 50000000,
+        "price": 63000000,
+        "discountPersent": 21,
+        "size": [
+            { "name": "15.6 inch", "quantity": 50 }
+        ],
+        "quantity": 50,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Performance-driven laptop designed for demanding applications."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_4__4_18.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_2__4_20.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_3__3_20.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_18__2_9.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_19__1_8.png" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Bravo 17",
+        "color": "Gray",
+        "discountedPrice": 30000000,
+        "price": 37000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "17.3 inch", "quantity": 80 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Cost-effective gaming laptop with a large screen."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop_msi_crosshair_15_b12uez-460vn.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/g/e/gearvn-laptop-gaming-msi-crosshair-15-b12uez-460vn-2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/g/e/gearvn-laptop-gaming-msi-crosshair-15-b12uez-460vn-3.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/g/e/gearvn-laptop-gaming-msi-crosshair-15-b12uez-460vn-5.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/g/e/gearvn-laptop-gaming-msi-crosshair-15-b12uez-460vn-1.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Crosshair 15",
+        "color": "Black",
+        "discountedPrice": 34000000,
+        "price": 42000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "15.6 inch", "quantity": 70 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Distinctive gaming laptop with innovative design."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/insecure/rs:fill:58:58/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-msi-prestige-15-a10sc-222vn_1_.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:58:58/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-msi-prestige-15-a10sc-222vn_3_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:58:58/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-msi-prestige-15-a10sc-222vn_4_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:58:58/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-msi-prestige-15-a10sc-222vn_5_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/insecure/rs:fill:58:58/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-msi-prestige-15-a10sc-222vn_2_.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI Prestige 15",
+        "color": "Black",
+        "discountedPrice": 41000000,
+        "price": 51000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 40 }
+        ],
+        "quantity": 40,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "Stylish and portable laptop for creators."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/249147/msi-gaming-gs66-stealth-11ug-i7-219vn-2-2-750x500.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/249147/msi-gaming-gs66-stealth-11ug-i7-219vn-3-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/249147/msi-gaming-gs66-stealth-11ug-i7-219vn-4-2-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/249147/msi-gaming-gs66-stealth-11ug-i7-219vn-2-2-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/249147/msi-gaming-gs66-stealth-11ug-i7-219vn-6-2-750x500.jpg" }
+        ],
+        "brand": "MSI",
+        "title": "MSI GS66 Stealth",
+        "color": "Black",
+        "discountedPrice": 60000000,
+        "price": 75000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 30 }
+        ],
+        "quantity": 30,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "msi",
+        "description": "High-performance gaming laptop with a discreet design."
+    }
+]

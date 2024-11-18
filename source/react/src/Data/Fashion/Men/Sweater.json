@@ -1,0 +1,502 @@
+[
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81brfHNmSDL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81e0t2x8UNL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71QyWoCbymL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61edc5nTknL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81X05g3yIpL._AC_SX679_.jpg" }
+    ],
+    "brand": "Hugo Boss",
+    "title": "Hugo Boss Wool Knit Sweater",
+    "color": "Black",
+    "discountedPrice": 1200000,
+    "price": 1500000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 10 },
+      { "name": "L", "quantity": 8 },
+      { "name": "XL", "quantity": 5 }
+    ],
+    "quantity": 23,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Premium wool sweater with a slim fit design. Ideal for winter styling."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81D7Jnhp4cL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81eHz7ZCzWL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81xjLgaS0cL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/9121c5KiUDL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81Ji7JtGDwL._AC_SX679_.jpg" }
+    ],
+    "brand": "Tommy Hilfiger",
+    "title": "Tommy Hilfiger Classic V-Neck Sweater",
+    "color": "Light Grey",
+    "discountedPrice": 1000000,
+    "price": 1300000,
+    "discountPersent": 23,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 7 }
+    ],
+    "quantity": 32,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "A classic V-neck sweater in high-quality cotton, perfect for both casual and office wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61zst8vvf2L._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81N7FRONz4L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81ZIgXrdm3L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81D0we67LLL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71RrPnaHhXL._AC_SX679_.jpg" }
+    ],
+    "brand": "Ralph Lauren",
+    "title": "Ralph Lauren Crewneck Sweater",
+    "color": "Black",
+    "discountedPrice": 1100000,
+    "price": 1400000,
+    "discountPersent": 21,
+    "size": [
+      { "name": "M", "quantity": 12 },
+      { "name": "L", "quantity": 9 },
+      { "name": "XL", "quantity": 6 }
+    ],
+    "quantity": 27,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Soft cotton crewneck sweater designed for comfort and style."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71SoL-SWmfL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71FRnaB+9AL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71qHnKp7ToL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/713UjX3R4QL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71WTfVG0AdL._AC_SY879_.jpg" }
+    ],
+    "brand": "Calvin Klein",
+    "title": "Calvin Klein Merino Wool Sweater",
+    "color": "Green",
+    "discountedPrice": 950000,
+    "price": 1200000,
+    "discountPersent": 21,
+    "size": [
+      { "name": "M", "quantity": 18 },
+      { "name": "L", "quantity": 13 },
+      { "name": "XL", "quantity": 8 }
+    ],
+    "quantity": 39,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "A premium merino wool sweater that adds sophistication to any outfit."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61EydiQtkmL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71OruiE3QlL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81CdOcNpT-L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81LVteSKo7L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/814ANJAhdTL._AC_SY879_.jpg" }
+    ],
+    "brand": "Gant",
+    "title": "Gant Modern Fit Wool Sweater",
+    "color": "Violet",
+    "discountedPrice": 1150000,
+    "price": 1400000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 16 },
+      { "name": "L", "quantity": 14 },
+      { "name": "XL", "quantity": 5 }
+    ],
+    "quantity": 35,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Modern fit wool sweater perfect for layering in colder weather."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/91Y58fuaVuL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/91mtze-7XvL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91Y58fuaVuL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91Y58fuaVuL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81qp+um41VL._AC_SX679_.jpg" }
+    ],
+    "brand": "Nike",
+    "title": "Nike Sports Performance Sweater",
+    "color": "Black",
+    "discountedPrice": 1050000,
+    "price": 1300000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "M", "quantity": 14 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 9 }
+    ],
+    "quantity": 33,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Sports-inspired sweater with breathable material for active wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71uC2anMMAL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71uC2anMMAL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71enldyQ6qL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71enldyQ6qL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81csr473jEL._AC_SX679_.jpg" }
+    ],
+    "brand": "Polo Ralph Lauren",
+    "title": "Polo Ralph Lauren Zip-Up Sweater",
+    "color": "Brown",
+    "discountedPrice": 1300000,
+    "price": 1600000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Zip-up sweater with a classic style, perfect for chilly weather."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81AIGoL0qSL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81FnQVuMI-L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81q9mQ1gG8L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61Qu499Ju3L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/914r4yWBbpL._AC_SY879_.jpg" }
+    ],
+    "brand": "Uniqlo",
+    "title": "Uniqlo Ultra Light Sweater",
+    "color": "Khaki",
+    "discountedPrice": 800000,
+    "price": 1000000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 18 },
+      { "name": "XL", "quantity": 7 }
+    ],
+    "quantity": 50,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Lightweight sweater made with soft, breathable fabric for everyday wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71jcZDYIrvL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71t5SFPEl2L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/819UuOqNQTL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71UvuEcbpnL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71YdXcHzz9L._AC_SY879_.jpg" }
+    ],
+    "brand": "Zara",
+    "title": "Zara Casual Knit Sweater",
+    "color": "Black",
+    "discountedPrice": 900000,
+    "price": 1100000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 17 },
+      { "name": "L", "quantity": 14 },
+      { "name": "XL", "quantity": 9 }
+    ],
+    "quantity": 40,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "A soft and comfortable knit sweater, great for casual outings."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81ZjbggnxoL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71q57tMyLNL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81+n2dnO-nL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71ysq8FdEvL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71lybfLgCGL._AC_SY879_.jpg" }
+    ],
+    "brand": "Ben Sherman",
+    "title": "Ben Sherman Textured Knit Sweater",
+    "color": "Coffe",
+    "discountedPrice": 1100000,
+    "price": 1300000,
+    "discountPersent": 15,
+    "size": [
+      { "name": "M", "quantity": 12 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 8 }
+    ],
+    "quantity": 30,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "A textured knit sweater that combines modern style with comfort."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71CKxuiO7YL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81AJteft5rL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61HTL6K14LL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71JnV-5OK8L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71JnV-5OK8L._AC_SX679_.jpg" }
+    ],
+    "brand": "Puma",
+    "title": "Puma Sporty Zip Sweater",
+    "color": "Black",
+    "discountedPrice": 900000,
+    "price": 1100000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 13 },
+      { "name": "L", "quantity": 12 },
+      { "name": "XL", "quantity": 5 }
+    ],
+    "quantity": 30,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Zip-up sporty sweater, designed for comfort and performance."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61i7Ff9kFzL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61yEEcH3b4L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61uPHjV2t2L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61pcGYWK9rL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51bZOhCx+oL._AC_SY879_.jpg" }
+    ],
+    "brand": "Dockers",
+    "title": "Dockers Classic Crew Sweater",
+    "color": "Brown",
+    "discountedPrice": 850000,
+    "price": 1050000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "M", "quantity": 14 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 6 }
+    ],
+    "quantity": 30,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Classic crewneck sweater in versatile olive green, perfect for everyday wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51xnl8V71zL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61sp+7KrZeL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61fKNpl+HuL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81OCq72zw5L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71PWrsv-PKL._AC_SX679_.jpg" }
+    ],
+    "brand": "J.Crew",
+    "title": "J.Crew Merino Wool Blend Sweater",
+    "color": "White",
+    "discountedPrice": 1300000,
+    "price": 1600000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "M", "quantity": 19 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 11 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Luxurious merino wool blend sweater for a refined and polished look."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81cA3ubtXwL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71A-6k6cJwL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81+VegRTRHL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81Lx8JbO6dL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81ZUBBxuoAL._AC_SX679_.jpg" }
+    ],
+    "brand": "Levi's",
+    "title": "Levi's Cotton Knit Sweater",
+    "color": "Khaki",
+    "discountedPrice": 900000,
+    "price": 1100000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 12 },
+      { "name": "XL", "quantity": 6 }
+    ],
+    "quantity": 33,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Casual cotton knit sweater with a comfortable fit for everyday wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81tRVSU99lL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81PNuu+-2lL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81zusBsSgLL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71frXDNbbVL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81yota5Sr2L._AC_SX679_.jpg" }
+    ],
+    "brand": "H&M",
+    "title": "H&M Regular Fit Sweater",
+    "color": "Green",
+    "discountedPrice": 700000,
+    "price": 900000,
+    "discountPersent": 22,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 5 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Regular fit sweater made from high-quality materials for everyday comfort."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81UI6oYlFHL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/816rzeWRUUL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81BOcCg5bfL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91diuQPJrML._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81OS1vi87jL._AC_SX679_.jpg" }
+    ],
+    "brand": "Mango",
+    "title": "Mango Slim Fit Merino Sweater",
+    "color": "Black",
+    "discountedPrice": 950000,
+    "price": 1150000,
+    "discountPersent": 17,
+    "size": [
+      { "name": "M", "quantity": 18 },
+      { "name": "L", "quantity": 12 },
+      { "name": "XL", "quantity": 9 }
+    ],
+    "quantity": 39,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Merino wool sweater with a slim fit for a stylish and modern look."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/91Ikg1Sny4L._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81BmYXtcqPL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81E0MXA6ngL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81D1uVm1eDL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81wVguBAYRL._AC_SY879_.jpg" }
+    ],
+    "brand": "The North Face",
+    "title": "The North Face Fleece Sweater",
+    "color": "Dark Gray",
+    "discountedPrice": 1100000,
+    "price": 1300000,
+    "discountPersent": 15,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Durable and warm fleece sweater, ideal for outdoor activities and cold weather."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81crLc3wbyL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81dZwqDOlkL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81eEoHp8m9L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81YgWwXC7bL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81fBCOATp9L._AC_SY879_.jpg" }
+    ],
+    "brand": "Adidas",
+    "title": "Adidas Performance Knit Sweater",
+    "color": "gingerbread",
+    "discountedPrice": 1050000,
+    "price": 1250000,
+    "discountPersent": 16,
+    "size": [
+      { "name": "M", "quantity": 22 },
+      { "name": "L", "quantity": 18 },
+      { "name": "XL", "quantity": 12 }
+    ],
+    "quantity": 52,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Performance-driven knit sweater with moisture-wicking technology for active wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71b5EgAfgrL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/810a-LZwUgL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81GNh5VhWxL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81GNh5VhWxL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81GNh5VhWxL._AC_SY879_.jpg" }
+    ],
+    "brand": "BOSS Athleisure",
+    "title": "BOSS Athleisure Regular Fit Sweater",
+    "color": "Black",
+    "discountedPrice": 1150000,
+    "price": 1400000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 14 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 6 }
+    ],
+    "quantity": 30,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "Casual yet stylish sweater from the BOSS Athleisure collection, perfect for the weekend."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81DGRDqBPWL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81DGRDqBPWL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71TB5kUoq9L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81i-OFMfLUL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91z6lZ+1eML._AC_SX679_.jpg" }
+    ],
+    "brand": "Superdry",
+    "title": "Superdry Vintage Logo Sweater",
+    "color": "Beige",
+    "discountedPrice": 950000,
+    "price": 1150000,
+    "discountPersent": 17,
+    "size": [
+      { "name": "M", "quantity": 16 },
+      { "name": "L", "quantity": 12 },
+      { "name": "XL", "quantity": 8 }
+    ],
+    "quantity": 36,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_sweater",
+    "description": "A stylish vintage logo sweater, great for casual looks with a touch of retro flair."
+  }
+]

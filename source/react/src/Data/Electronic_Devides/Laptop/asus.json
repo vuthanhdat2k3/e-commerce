@@ -1,0 +1,492 @@
+[
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/a/s/asus-zenbook-14-oled-ux3405ma-ultra-5-pp151w-3.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/a/s/asus-zenbook-14-oled-ux3405ma-ultra-5-pp151w-2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/a/s/asus-zenbook-14-oled-ux3405ma-ultra-5-pp151w-1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/a/s/asus-zenbook-14-oled-ux3405ma-ultra-5-pp151w-5.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/a/s/asus-zenbook-14-oled-ux3405ma-ultra-5-pp151w-6.jpg" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ZenBook 14 OLED",
+        "color": "Black",
+        "discountedPrice": 28000000,
+        "price": 35000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "14 inch", "quantity": 100 },
+            { "name": "15.6 inch", "quantity": 50 }
+        ],
+        "quantity": 150,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Stylish ultrabook with vibrant OLED display."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_1__5_9.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_4__6_7.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_6__2_47.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_5__7_7.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_9__4_37.png" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ROG Strix G16",
+        "color": "Black",
+        "discountedPrice": 45000000,
+        "price": 60000000,
+        "discountPersent": 25,
+        "size": [
+            { "name": "16 inch", "quantity": 80 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Gaming laptop with powerful GPU."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_15__7_61.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_11__5_85.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_14__6_38.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_10__4_70.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_12__5_83.png" }
+        ],
+        "brand": "Asus",
+        "title": "Asus VivoBook S15",
+        "color": "Gray",
+        "discountedPrice": 19000000,
+        "price": 24000000,
+        "discountPersent": 21,
+        "size": [
+            { "name": "15.6 inch", "quantity": 120 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Slim and lightweight for everyday use."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_2__3_24.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_3__2_24.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_9__1_103.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_8__1_89.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_6__120.png" }
+        ],
+        "brand": "Asus",
+        "title": "Asus TUF Gaming F15",
+        "color": "Black",
+        "discountedPrice": 32000000,
+        "price": 40000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 70 },
+            { "name": "17 inch", "quantity": 30 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Durable gaming laptop with robust performance."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Files/2022/01/12/1410487/asus-chromec-flip_1280x618-800-resize.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Files/2022/01/12/1410487/asus-chromebook-_1280x667-800-resize.jpg" },
+            { "src": "https://cdn.tgdd.vn/Files/2022/01/12/1410487/as_1280x522-800-resize.jpg" },
+            { "src": "https://cdn.tgdd.vn/Files/2022/01/12/1410487/fa_1280x707-800-resize.jpg" },
+            { "src": "https://cdn.tgdd.vn/Files/2022/01/12/1410487/key_1280x622-800-resize.jpg" }
+        ],
+        "brand": "Asus",
+        "title": "Asus Chromebook Flip CX5",
+        "color": "Black",
+        "discountedPrice": 12000000,
+        "price": 15000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "14 inch", "quantity": 90 }
+        ],
+        "quantity": 90,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Convertible Chromebook for work and play."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_15__7_17.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_19__2_9.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_15__7_17.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_20__4_11.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_18__4_9.png" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ExpertBook B9",
+        "color": "Black",
+        "discountedPrice": 35000000,
+        "price": 45000000,
+        "discountPersent": 22,
+        "size": [
+            { "name": "14 inch", "quantity": 50 },
+            { "name": "15.6 inch", "quantity": 30 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Lightweight business laptop with long battery life."
+    },
+    {
+        "imageUrl": "https://hanoilab.com/wp-content/uploads/2021/12/Zenbook-Pro-Duo-15-OLED-UX582.jpg",
+        "images": [
+            { "src": "https://hanoilab.com/wp-content/uploads/2021/12/Zenbook-Pro-Duo-15-OLED-UX582-7.jpg" },
+            { "src": "https://hanoilab.com/wp-content/uploads/2021/12/Zenbook-Pro-Duo-15-OLED-UX582-6.jpg" },
+            { "src": "https://hanoilab.com/wp-content/uploads/2021/12/Zenbook-Pro-Duo-15-OLED-UX582-4.jpg" },
+            { "src": "https://hanoilab.com/wp-content/uploads/2021/12/Zenbook-Pro-Duo-15-OLED-UX582-2.jpg" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ZenBook Pro Duo 15",
+        "color": "Black",
+        "discountedPrice": 52000000,
+        "price": 65000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 40 }
+        ],
+        "quantity": 40,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Dual-screen laptop for creative professionals."
+    },
+    {
+        "imageUrl": "https://laptop360.net/wp-content/uploads/2024/05/11073_asus_rog_flow_z13_gz301_1.jpg",
+        "images": [
+            { "src": "https://laptop360.net/wp-content/uploads/2024/05/Asus-ROG-Zephyrus-Flow-Z13-GZ301ZE-7-scaled.jpg" },
+            { "src": "https://laptop360.net/wp-content/uploads/2024/05/Asus-ROG-Zephyrus-Flow-Z13-GZ301ZE-1-scaled.jpg" },
+            { "src": "https://laptop360.net/wp-content/uploads/2024/05/Asus-ROG-Zephyrus-Flow-Z13-GZ301ZE-2-scaled.jpg" },
+            { "src": "https://laptop360.net/wp-content/uploads/2024/05/Asus-ROG-Zephyrus-Flow-Z13-GZ301ZE-5-scaled.jpg" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ROG Flow Z13",
+        "color": "Black",
+        "discountedPrice": 38000000,
+        "price": 48000000,
+        "discountPersent": 21,
+        "size": [
+            { "name": "13.4 inch", "quantity": 50 },
+            { "name": "14 inch", "quantity": 50 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Compact gaming laptop with detachable screen."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_8__1_62.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_4__1_102.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_3_73.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_1__1_119.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_2__2_56.png" }
+        ],
+        "brand": "Asus",
+        "title": "Asus VivoBook Flip 14",
+        "color": "Gray",
+        "discountedPrice": 18000000,
+        "price": 22000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "14 inch", "quantity": 80 },
+            { "name": "15.6 inch", "quantity": 40 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Versatile 2-in-1 laptop for everyday use."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0006_g14-2021-4_compressed.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0000_g14-2021-2_compressed.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0002_g14-2021-6_compressed.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0005_g14-2021-3_compressed.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0003_g14-2021-7_compressed.jpg" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ROG Zephyrus G14",
+        "color": "Black",
+        "discountedPrice": 34000000,
+        "price": 40000000,
+        "discountPersent": 15,
+        "size": [
+            { "name": "14 inch", "quantity": 60 }
+        ],
+        "quantity": 60,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Portable gaming laptop with high refresh rate display."
+    },
+    {
+        "imageUrl": "https://www.laptopvip.vn/images/ab__webp/detailed/37/proart-studiobook-pro-16-oled-w7604-1-www.laptopvip.vn-1718590778.webp",
+        "images": [
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/37/proart-studiobook-pro-16-oled-w7604-2-www.laptopvip.vn-1718590778.webp" },
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/37/proart-studiobook-pro-16-oled-w7604-3-www.laptopvip.vn-1718590778.webp" },
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/37/proart-studiobook-pro-16-oled-w7604-4-www.laptopvip.vn-1718590778.webp" },
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/37/proart-studiobook-pro-16-oled-w7604-5-www.laptopvip.vn-1718590778.webp" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ProArt Studiobook 16",
+        "color": "Black",
+        "discountedPrice": 60000000,
+        "price": 75000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "16 inch", "quantity": 30 },
+            { "name": "17 inch", "quantity": 30 }
+        ],
+        "quantity": 60,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Professional-grade laptop for creators."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-zenbook-flip-s-13-ux371ea_4__1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-zenbook-flip-s-13-ux371ea_6_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-zenbook-flip-s-13-ux371ea_3__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-zenbook-flip-s-13-ux371ea_2__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-zenbook-flip-s-13-ux371ea_9_.jpg" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ZenBook Flip S13",
+        "color": "Black",
+        "discountedPrice": 33000000,
+        "price": 40000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "13.3 inch", "quantity": 90 }
+        ],
+        "quantity": 90,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Premium convertible with ultra-thin design."
+    },
+    {
+        "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/laptop-gaming-asus-rog-zephyrus-duo-16-2023-gx650pz-nm031w-6.jpg?v=1711947035900",
+        "images": [
+            { "src": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/laptop-gaming-asus-rog-zephyrus-duo-16-2023-gx650pz-nm031w-4.jpg?v=1711947035900" },
+            { "src": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/laptop-gaming-asus-rog-zephyrus-duo-16-2023-gx650pz-nm031w-5.jpg?v=1711947035900" },
+            { "src": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/laptop-gaming-asus-rog-zephyrus-duo-16-2023-gx650pz-nm031w-1.jpg?v=1711947035900" },
+            { "src": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/laptop-gaming-asus-rog-zephyrus-duo-16-2023-gx650pz-nm031w-2.jpg?v=1711947035900" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ROG Zephyrus Duo 16",
+        "color": "Black",
+        "discountedPrice": 68000000,
+        "price": 85000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "16 inch", "quantity": 50 }
+        ],
+        "quantity": 50,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Dual-screen gaming laptop for extreme performance."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-vivobook-pro-m3401qa-km006w-6_2_1_2.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-vivobook-pro-m3401qa-km006w-1_1_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-vivobook-pro-m3401qa-km006w-5_1_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-vivobook-pro-m3401qa-km006w-3_1_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-vivobook-pro-m3401qa-km006w-2_1_1_1.jpg" }
+        ],
+        "brand": "Asus",
+        "title": "Asus VivoBook Pro 16X",
+        "color": "Gray",
+        "discountedPrice": 24000000,
+        "price": 30000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "16 inch", "quantity": 80 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "High-resolution display for creators."
+    },
+    {
+        "imageUrl": "https://sgp1.digitaloceanspaces.com/itechstore/itechstore/__sized__/items/01_XseX0sf-thumbnail-400x315-70.jpg",
+        "images": [
+            { "src": "https://sgp1.digitaloceanspaces.com/itechstore/itechstore/__sized__/items/01_XseX0sf-thumbnail-400x315-70.jpg" },
+            { "src": "https://sgp1.digitaloceanspaces.com/itechstore/itechstore/__sized__/items/01_XseX0sf-thumbnail-400x315-70.jpg" },
+            { "src": "https://sgp1.digitaloceanspaces.com/itechstore/itechstore/__sized__/items/01_XseX0sf-thumbnail-400x315-70.jpg" },
+            { "src": "https://sgp1.digitaloceanspaces.com/itechstore/itechstore/__sized__/items/01_XseX0sf-thumbnail-400x315-70.jpg" }
+        ],
+        "brand": "Asus",
+        "title": "Asus Chromebook C423",
+        "color": "Gray",
+        "discountedPrice": 10000000,
+        "price": 12000000,
+        "discountPersent": 16,
+        "size": [
+            { "name": "14 inch", "quantity": 100 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Affordable Chromebook for students."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-zenbook-s-13-oled-ux5304ma-nq117w.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-zenbook-s-13-oled-ux5304ma-nq117w_4_.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-zenbook-s-13-oled-ux5304ma-nq117w_1_.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-zenbook-s-13-oled-ux5304ma-nq117w_3_.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-asus-zenbook-s-13-oled-ux5304ma-nq117w_2_.png" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ZenBook 13 OLED",
+        "color": "Gray",
+        "discountedPrice": 26000000,
+        "price": 32000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "13.3 inch", "quantity": 60 },
+            { "name": "14 inch", "quantity": 40 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Compact and powerful ultrabook."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0004_41155_laptop_asus_tuf_dash_f15_f.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0003_41155_laptop_asus_tuf_dash_f15_f_4_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0000_41155_laptop_asus_tuf_dash_f15_f_1_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0001_41155_laptop_asus_tuf_dash_f15_f_2_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0002_41155_laptop_asus_tuf_dash_f15_f_3_.jpg" }
+        ],
+        "brand": "Asus",
+        "title": "Asus TUF Dash F15",
+        "color": "Gray",
+        "discountedPrice": 30000000,
+        "price": 36000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "15.6 inch", "quantity": 90 }
+        ],
+        "quantity": 90,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Durable gaming laptop with sleek design."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_19__34.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_30__17.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_29__16.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_24__24.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_21__33.png" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ROG Flow X16",
+        "color": "Black",
+        "discountedPrice": 55000000,
+        "price": 70000000,
+        "discountPersent": 21,
+        "size": [
+            { "name": "16 inch", "quantity": 70 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Versatile gaming laptop with 360° hinge."
+    },
+    {
+        "imageUrl": "https://laptop88.vn/media/product/7649_41ucbg8w80s__sl500_.jpg",
+        "images": [
+            { "src": "https://laptop88.vn/media/product/7649_ac_m___i_100__full_box_laptop_asus_vivobook_17_x712ja_211_intel_core_i7.jpg" },
+            { "src": "https://laptop88.vn/media/product/7649_506b52d1_0221_419b_a33f_e6c87a7adbef_1fe703a68d30172435470d60bd145973.jpeg" },
+            { "src": "https://laptop88.vn/media/product/7649_ac_m___i_100__full_box_laptop_asus_vivobook_17_x712ja_211_intel_core_i7.jpg" },
+            { "src": "https://laptop88.vn/media/product/7649_506b52d1_0221_419b_a33f_e6c87a7adbef_1fe703a68d30172435470d60bd145973.jpeg" }
+        ],
+        "brand": "Asus",
+        "title": "Asus VivoBook 17",
+        "color": "Gray",
+        "discountedPrice": 20000000,
+        "price": 25000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "17 inch", "quantity": 50 }
+        ],
+        "quantity": 50,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Large display for immersive productivity."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2_304_1.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/3/_/3_276_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/_/5_232_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/7/_/7_151_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/9/_/9_78_1.png" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ZenBook Pro 14 Duo OLED",
+        "color": "Black",
+        "discountedPrice": 48000000,
+        "price": 60000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "14 inch", "quantity": 40 }
+        ],
+        "quantity": 40,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Advanced dual-screen laptop for creators."
+    },
+    {
+        "imageUrl": "https://product.hstatic.net/200000507631/product/laptop_asus_expertbook_p2451fa_0812ee23269049669d6e8bfa1fe1ac33.png",
+        "images": [
+            { "src": "https://product.hstatic.net/200000507631/product/40334_laptop_asus_expertbook_p2451fa_bv3168t___3fa7e89ddf2d48f5b0eb9d74aed9cc23.png" },
+            { "src": "https://product.hstatic.net/200000507631/product/laptopasusexpertbookp2451fa_373e28c6573b41a28b5dc177053a5907.jpg" },
+            { "src": "https://product.hstatic.net/200000507631/product/laptopasusexpertbookp2451fa_373e28c6573b41a28b5dc177053a5907.jpg" },
+            { "src": "https://product.hstatic.net/200000507631/product/laptopasusexpertbookp2451fa_373e28c6573b41a28b5dc177053a5907.jpg" }
+        ],
+        "brand": "Asus",
+        "title": "Asus ExpertBook P2",
+        "color": "Black",
+        "discountedPrice": 20000000,
+        "price": 25000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "14 inch", "quantity": 80 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "asus",
+        "description": "Reliable business laptop with secure features."
+    }
+]

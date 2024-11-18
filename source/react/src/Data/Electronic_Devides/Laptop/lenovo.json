@@ -1,0 +1,722 @@
+[
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-legion-5-pro-16ach6h-82jq001vvn-1.jpg",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-legion-5-pro-16ach6h-82jq001vvn-4.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-legion-5-pro-16ach6h-82jq001vvn-5.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-legion-5-pro-16ach6h-82jq001vvn-2.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-legion-5-pro-16ach6h-82jq001vvn-3.jpg"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo Legion 5 Pro",
+        "color": "Gray",
+        "discountedPrice": 13000000,
+        "price": 17000000,
+        "discountPersent": 20,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 70
+            },
+            {
+                "name": "14 inch",
+                "quantity": 30
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Gaming laptop with high-performance graphics."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_6__146.png",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_1__2_61.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_9__1_121.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_10__2_99.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_5_59.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo Flex 5",
+        "color": "Gray",
+        "discountedPrice": 15000000,
+        "price": 18000000,
+        "discountPersent": 10,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 50
+            },
+            {
+                "name": "15.6 inch",
+                "quantity": 50
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Convertible laptop with touchscreen for flexible use."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2_519.png",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/_/1_541.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_428.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/_/5_375.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/_/6_316.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo ThinkPad X1 Extreme",
+        "color": "Black",
+        "discountedPrice": 25000000,
+        "price": 32000000,
+        "discountPersent": 30,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 90
+            },
+            {
+                "name": "14 inch",
+                "quantity": 10
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "High-end laptop with outstanding performance for professionals."
+    },
+    {
+        "imageUrl": "https://p2-ofp.static.pub//fes/cms/2024/09/19/fnt2tknhm91d57rw4zctdgqzqg2ppn361546.png",
+        "images": [
+            {
+                "src": "https://p2-ofp.static.pub//fes/cms/2024/09/19/fusp30bg2ln5o70jgwd0xcq3ddrz6b199865.png"
+            },
+            {
+                "src": "https://p2-ofp.static.pub//fes/cms/2024/09/19/0vdvk0j028uoljaqzn8klu7l02j5ap681019.png"
+            },
+            {
+                "src": "https://p4-ofp.static.pub//fes/cms/2024/09/19/2s5i9qn8adi3fek9hr3nws4svurevb070833.png"
+            },
+            {
+                "src": "https://p3-ofp.static.pub//fes/cms/2024/09/19/tmkdqcdlf7thxpdsr0ppsemz494gmf310325.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo Yoga 9i",
+        "color": "Gray",
+        "discountedPrice": 19000000,
+        "price": 24000000,
+        "discountPersent": 35,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 50
+            },
+            {
+                "name": "15.6 inch",
+                "quantity": 50
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Premium convertible laptop for creative professionals."
+    },
+    {
+        "imageUrl": "https://anphat.com.vn/media/product/50726_laptop_lenovo_thinkpad_t14s_gen_5_21ls0062vn__4_.jpg",
+        "images": [
+            {
+                "src": "https://anphat.com.vn/media/product/50726_laptop_lenovo_thinkpad_t14s_gen_5_21ls0062vn__1_.jpg"
+            },
+            {
+                "src": "https://anphat.com.vn/media/product/50726_laptop_lenovo_thinkpad_t14s_gen_5_21ls0062vn__3_.jpg"
+            },
+            {
+                "src": "https://anphat.com.vn/media/product/50726_laptop_lenovo_thinkpad_t14s_gen_5_21ls0062vn__2_.jpg"
+            },
+            {
+                "src": "https://anphat.com.vn/media/product/50726_laptop_lenovo_thinkpad_t14s_gen_5_21ls0062vn__4_.jpg"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo ThinkPad T14",
+        "color": "Black",
+        "discountedPrice": 18000000,
+        "price": 22000000,
+        "discountPersent": 20,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 70
+            },
+            {
+                "name": "14 inch",
+                "quantity": 30
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Reliable and powerful laptop for business and work."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2_190.png",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/3/_/3_172_2.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_165_2.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/_/5_151_2.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/_/6_130_2.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo IdeaPad 5 Pro",
+        "color": "Gray",
+        "discountedPrice": 16000000,
+        "price": 20000000,
+        "discountPersent": 25,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 50
+            },
+            {
+                "name": "15.6 inch",
+                "quantity": 50
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Premium laptop for work and entertainment."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_6__122.png",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_5__3_21.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_1__2_33.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_2__3_28.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_11__2_81.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo IdeaPad Slim 5",
+        "color": "Gray",
+        "discountedPrice": 13000000,
+        "price": 17000000,
+        "discountPersent": 15,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 40
+            },
+            {
+                "name": "15.6 inch",
+                "quantity": 60
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Affordable laptop for everyday tasks."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_29__5_4.png",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_30__4_3.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_25__2_9.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_26__2_7.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_22__3_9.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo Yoga Slim 7i",
+        "color": "Gray",
+        "discountedPrice": 19000000,
+        "price": 23000000,
+        "discountPersent": 20,
+        "size": [
+            {
+                "name": "13.3 inch",
+                "quantity": 80
+            },
+            {
+                "name": "14 inch",
+                "quantity": 20
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Thin and light laptop for work and play."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-thinkbook-15-g2-itl-20ve0076vn-4.jpg",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-thinkbook-15-g2-itl-20ve0076vn-3.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-thinkbook-15-g2-itl-20ve0076vn-2.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-thinkbook-15-g2-itl-20ve0076vn-6.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-thinkbook-15-g2-itl-20ve0076vn-5.jpg"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo ThinkBook 15",
+        "color": "Gray",
+        "discountedPrice": 12000000,
+        "price": 15000000,
+        "discountPersent": 18,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Business laptop with sleek design."
+    },
+    {
+        "imageUrl": "https://p1-ofp.static.pub//fes/cms/2024/09/12/q6fb2891avf5ok5et6ppuhuuilu0cq939626.png",
+        "images": [
+            {
+                "src": "https://p2-ofp.static.pub//fes/cms/2024/09/12/hdtezbo787yrezwa710a384b6d6v6x258771.png"
+            },
+            {
+                "src": "https://p2-ofp.static.pub//fes/cms/2024/09/12/sj4dejsjqfyd10jecnmdb8psxjh9la787724.png"
+            },
+            {
+                "src": "https://p3-ofp.static.pub//fes/cms/2024/09/12/r6qh9u1b9k43p8o18p690abqdszk94820322.png"
+            },
+            {
+                "src": "https://p2-ofp.static.pub//fes/cms/2024/09/12/58n3zfqc84m20rrhx44xti16yijf8l761454.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo Legion 7i",
+        "color": "Black",
+        "discountedPrice": 25000000,
+        "price": 30000000,
+        "discountPersent": 25,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "High-end gaming laptop with powerful specs."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_15__4_13.png",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_8__1_111.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_9__1_122.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_14__2_14.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_11__2_100.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo IdeaPad Gaming 3",
+        "color": "Black",
+        "discountedPrice": 14000000,
+        "price": 18000000,
+        "discountPersent": 22,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Affordable gaming laptop for casual players."
+    },
+    {
+        "imageUrl": "https://p1-ofp.static.pub//fes/cms/2024/03/28/l5pja2r0b3tya1492wbj2zlxtzavf4389628.png",
+        "images": [
+            {
+                "src": "https://p1-ofp.static.pub//fes/cms/2024/03/28/mhv0cied0sbxqwekct8fv3dp2ssone903966.png"
+            },
+            {
+                "src": "https://p2-ofp.static.pub//fes/cms/2024/03/28/nw3e0mmnqduxfxm347aefmq7l8319a860430.png"
+            },
+            {
+                "src": "https://p4-ofp.static.pub//fes/cms/2024/03/28/7gs0lnnmvbu3mlzxv3gomtjo4evnpq479811.png"
+            },
+            {
+                "src": "https://p4-ofp.static.pub//fes/cms/2024/03/28/yiez8sezhtgo0wm18xwhulxslhs4po492724.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo ThinkPad L15",
+        "color": "Black",
+        "discountedPrice": 11000000,
+        "price": 14000000,
+        "discountPersent": 15,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Affordable business laptop for daily tasks."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-ideapad-3-15itl6-82h801lmvn.jpg",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/7/570x470_laptop-lenovo-ideapad-3-15itl6-82h801lmvn-112919.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-lenovo-ideapad-3-15itl6-82h801lmvn-112918.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2.2_2.jpg"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2.2_2.jpg"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo IdeaPad 3",
+        "color": "Gray",
+        "discountedPrice": 10000000,
+        "price": 13000000,
+        "discountPersent": 23,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 60
+            },
+            {
+                "name": "15.6 inch",
+                "quantity": 40
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Affordable everyday laptop for students and professionals."
+    },
+    {
+        "imageUrl": "https://p3-ofp.static.pub/ShareResource/na/subseries/hero/lenovo-yoga-c940.png",
+        "images": [
+            {
+                "src": "https://p4-ofp.static.pub/fes/cms/2021/07/20/5maa8abmbnl5rwhobflgmws9dnkzor843548.png"
+            },
+            {
+                "src": "https://p4-ofp.static.pub/fes/cms/2021/07/20/e9y9f2qz3vuy0env92vqcp1pn2ozis844774.png"
+            },
+            {
+                "src": "https://p1-ofp.static.pub/fes/cms/2021/07/20/kncqdgq61vrcf5uck4m30c1lyrdfvf557146.png"
+            },
+            {
+                "src": "https://p1-ofp.static.pub/fes/cms/2021/07/20/h9wjr9oc4sh2bht1jajux1p4od7rsi350446.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo Yoga C940",
+        "color": "Gray",
+        "discountedPrice": 20000000,
+        "price": 26000000,
+        "discountPersent": 23,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 50
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "2-in-1 laptop with high-end performance."
+    },
+    {
+        "imageUrl": "https://saigonkts.com/wp-content/uploads/2024/08/thinkpad-p1-gen-7.jpg",
+        "images": [
+            {
+                "src": "https://saigonkts.com/wp-content/uploads/2024/08/1-3-510x510.png"
+            },
+            {
+                "src": "https://saigonkts.com/wp-content/uploads/2024/08/4-3-510x510.png"
+            },
+            {
+                "src": "https://saigonkts.com/wp-content/uploads/2024/08/3-3-510x510.png"
+            },
+            {
+                "src": "https://saigonkts.com/wp-content/uploads/2024/08/3-3-510x510.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo ThinkPad P Series",
+        "color": "Black",
+        "discountedPrice": 33000000,
+        "price": 40000000,
+        "discountPersent": 15,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 90
+            },
+            {
+                "name": "14 inch",
+                "quantity": 10
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Powerful workstation for professionals."
+    },
+    {
+        "imageUrl": "https://anphat.com.vn/media/product/47636_laptop_lenovo_legion_5_16irx9_83dg0051vn__3_.jpg",
+        "images": [
+            {
+                "src": "https://anphat.com.vn/media/product/47636_laptop_lenovo_legion_5_16irx9_83dg0051vn__1_.jpg"
+            },
+            {
+                "src": "https://anphat.com.vn/media/product/47636_laptop_lenovo_legion_5_16irx9_83dg0051vn__2_.jpg"
+            },
+            {
+                "src": "https://anphat.com.vn/media/product/47636_laptop_lenovo_legion_5_16irx9_83dg0051vn__2_.jpg"
+            },
+            {
+                "src": "https://anphat.com.vn/media/product/47636_laptop_lenovo_legion_5_16irx9_83dg0051vn__2_.jpg"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo Legion 5 Pro 2024",
+        "color": "Black",
+        "discountedPrice": 23000000,
+        "price": 29000000,
+        "discountPersent": 21,
+        "size": [
+            {
+                "name": "15.6 inch",
+                "quantity": 80
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Laptop gaming hiệu năng cao cho game thủ chuyên nghiệp."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_44__1_2.png",
+        "images": [
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_49__1_1.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_47__2.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_45__2.png"
+            },
+            {
+                "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_37__1_2.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo IdeaPad Flex 5",
+        "color": "Gray",
+        "discountedPrice": 18000000,
+        "price": 22000000,
+        "discountPersent": 18,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 75
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Laptop 2-in-1 với thiết kế linh hoạt và hiệu năng tốt."
+    },
+    {
+        "imageUrl": "https://minhvu.vn/thumb/lenovothinkpadx1carbonyoga/thinkpadx1carbongen9/lenovothinkpadx1carbongen9cu_480_360.jpg",
+        "images": [
+            {
+                "src": "https://minhvu.vn/thumb/lenovothinkpadx1carbonyoga/thinkpadx1carbongen9/lenovothinkpadx1carbongen9cu1_480_360.jpg"
+            },
+            {
+                "src": "https://minhvu.vn/thumb/lenovothinkpadx1carbonyoga/thinkpadx1carbongen9/lenovothinkpadx1carbongen9cu2_480_360.jpg"
+            },
+            {
+                "src": "https://minhvu.vn/thumb/lenovothinkpadx1carbonyoga/thinkpadx1carbongen9/lenovothinkpadx1carbongen9cu6_480_360.jpg"
+            },
+            {
+                "src": "https://minhvu.vn/thumb/lenovothinkpadx1carbonyoga/thinkpadx1carbongen9/lenovothinkpadx1carbongen9cu4_480_360.jpg"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo ThinkPad X1 Carbon Gen 9",
+        "color": "Black",
+        "discountedPrice": 35000000,
+        "price": 42000000,
+        "discountPersent": 17,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 90
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Laptop doanh nhân mỏng nhẹ, hiệu năng cao."
+    },
+    {
+        "imageUrl": "https://mac24h.vn/images/thumbnails/550/450/detailed/94/ThinkPad_T14_Gen_2_Mac24h_iuub-ej_azid-ya.png",
+        "images": [
+            {
+                "src": "https://mac24h.vn/images/thumbnails/550/450/detailed/94/ThinkPad_T14_Gen_2_Mac24h_iuub-ej_azid-ya.png"
+            },
+            {
+                "src": "https://mac24h.vn/images/thumbnails/550/450/detailed/94/ThinkPad_T14_Gen_2_Mac24h_iuub-ej_azid-ya.png"
+            },
+            {
+                "src": "https://mac24h.vn/images/thumbnails/550/450/detailed/94/ThinkPad_T14_Gen_2_Mac24h_iuub-ej_azid-ya.png"
+            },
+            {
+                "src": "https://mac24h.vn/images/thumbnails/550/450/detailed/94/ThinkPad_T14_Gen_2_Mac24h_iuub-ej_azid-ya.png"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo ThinkPad T14 Gen 2",
+        "color": "Black",
+        "discountedPrice": 25000000,
+        "price": 30000000,
+        "discountPersent": 17,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 100
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Laptop doanh nghiệp bền bỉ và hiệu suất ổn định."
+    },
+    {
+        "imageUrl": "https://laptopworld.vn/media/product/19678_lenovo_ideapad_slim_5_14q8x9__6.jpg",
+        "images": [
+            {
+                "src": "https://laptopworld.vn/media/product/19678_lenovo_ideapad_slim_5_14q8x9__5.jpg"
+            },
+            {
+                "src": "https://laptopworld.vn/media/product/19678_lenovo_ideapad_slim_5_14q8x9__4.jpg"
+            },
+            {
+                "src": "https://laptopworld.vn/media/product/19678_lenovo_ideapad_slim_5_14q8x9__2.jpg"
+            },
+            {
+                "src": "https://laptopworld.vn/media/product/19678_lenovo_ideapad_slim_5_14q8x9__4.jpg"
+            }
+        ],
+        "brand": "Lenovo",
+        "title": "Lenovo IdeaPad Slim 5 2024",
+        "color": "Gray",
+        "discountedPrice": 16000000,
+        "price": 20000000,
+        "discountPersent": 20,
+        "size": [
+            {
+                "name": "14 inch",
+                "quantity": 85
+            }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "lenovo",
+        "description": "Laptop mỏng nhẹ, hiệu suất ổn định cho công việc hàng ngày."
+    }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH3760_70V_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH3760_70V_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH3760_70V_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH3760_70V_24.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH3760_70V_31.webp" }
+    ],
+    "brand": "Couple TX",
+    "title": "Polos Classic Fit Polo Shirt",
+    "color": "White",
+    "discountedPrice": 450000,
+    "price": 600000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 25 },
+      { "name": "XL", "quantity": 60 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Classic fit polo shirt made from premium cotton fabric."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH2526_HBP_24.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH2526_HBP_25.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH2526_HBP_31.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH2526_HBP_32.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH2526_HBP_33.webp" }
+    ],
+    "brand": "Bobui",
+    "title": "Polos Slim Fit Polo Shirt",
+    "color": "Blue Navy",
+    "discountedPrice": 450000,
+    "price": 600000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "A slim-fit, stylish polo perfect for casual and formal wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71REF9PpuyL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/719hZRaYKuL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71l37IMF10L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61nhrU116nL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61UhFFxJqqL._AC_SY879_.jpg" }
+    ],
+    "brand": "Bobui",
+    "title": "Polos Modern Fit Polo Shirt",
+    "color": "Gray",
+    "discountedPrice": 450000,
+    "price": 600000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 35 },
+      { "name": "XL", "quantity": 45 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Modern fit polo crafted with breathable fabric."
+  },
+  {
+    "imageUrl": "https://i.ebayimg.com/images/g/g24AAOSw10Rl-ZMy/s-l1600.webp",
+    "images": [
+      { "src": "https://i.ebayimg.com/images/g/xsoAAOSwevVl-ZM1/s-l1600.webp" },
+      { "src": "https://i.ebayimg.com/images/g/ZEYAAOSwFxJl-ZM4/s-l1600.webp" },
+      { "src": "https://i.ebayimg.com/images/g/vBQAAOSwvIZl-ZM8/s-l1600.webp" },
+      { "src": "https://i.ebayimg.com/images/g/ZJkAAOSwEIll-ZM~/s-l1600.webp" }
+    ],
+    "brand": "MAY 10",
+    "title": "Polos Sporty Fit Polo Shirt",
+    "color": "Blue",
+    "discountedPrice": 450000,
+    "price": 600000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 45 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Athletic fit polo shirt with moisture-wicking technology."
+  },
+  {
+    "imageUrl": "https://i.ebayimg.com/images/g/C~MAAOSwGLhnIOzp/s-l1600.webp",
+    "images": [
+      { "src": "https://i.ebayimg.com/images/g/WZIAAOSwy3dnIOzz/s-l1600.webp" },
+      { "src": "https://i.ebayimg.com/images/g/gc8AAOSwuRtnIOzJ/s-l1600.webp" },
+      { "src": "https://i.ebayimg.com/images/g/GkIAAOSwHHxnIOzJ/s-l1600.webp" },
+      { "src": "https://i.ebayimg.com/images/g/-CMAAOSw525nIOzJ/s-l1600.webp" }
+    ],
+    "brand": "Lacoste",
+    "title": "Polos Casual Fit Polo Shirt",
+    "color": "Gray",
+    "discountedPrice": 450000,
+    "price": 600000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 40 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Casual and comfortable polo for everyday wear."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH1417_4PC_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH1417_4PC_20-1.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH1417_4PC_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH1417_4PC_24.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH1417_4PC_31.webp" }
+    ],
+    "brand": "Lacoste",
+    "title": "Classic Fit Monogram Jacquard Polo Shirt",
+    "color": "Black",
+    "discountedPrice": 450000,
+    "price": 600000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 35 },
+      { "name": "XL", "quantity": 45 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Business casual polo perfect for the office or formal events."
+  },
+  {
+    "imageUrl": "https://i.ebayimg.com/images/g/BTEAAOSws8llgYYA/s-l1600.webp",
+    "images": [
+      { "src": "https://i.ebayimg.com/images/g/BTEAAOSws8llgYYA/s-l1600.webp" },
+      { "src": "https://i.ebayimg.com/images/g/tgIAAOSwfPhlgYYA/s-l1600.webp" },
+      { "src": "https://i.ebayimg.com/images/g/W60AAOSwq~NlgYYA/s-l1600.webp" },
+      { "src": "https://i.ebayimg.com/images/g/jWUAAOSwLHBlgYYB/s-l1600.webp" }
+    ],
+    "brand": "Ralph Lauren",
+    "title": "Polos Striped Polo Shirt",
+    "color": "Khaki Print",
+    "discountedPrice": 450000,
+    "price": 600000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 25 },
+      { "name": "XL", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Striped pattern polo shirt for a bold, stylish look."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81U8-N6DpPL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71u+Wj3jlLL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81CIy5w4y0L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71l71qYaDjL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/814NI4v-2hL._AC_SY879_.jpg" }
+    ],
+    "brand": "Couple TX",
+    "title": "Knit Polo Shirts Short",
+    "color": "White",
+    "discountedPrice": 450000,
+    "price": 600000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 40 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Comfortable fit for all-day wear."
+  },
+  {
+    "imageUrl": "https://oldnavy.gap.com/webcontent/0056/353/809/cn56353809.jpg",
+    "images": [
+      { "src": "https://oldnavy.gap.com/webcontent/0056/353/809/cn56353809.jpg" },
+      { "src": "https://oldnavy.gap.com/webcontent/0056/353/873/cn56353873.jpg" },
+      { "src": "https://oldnavy.gap.com/webcontent/0056/353/889/cn56353889.jpg" },
+      { "src": "https://oldnavy.gap.com/webcontent/0056/267/984/cn56267984.jpg" }
+    ],
+    "brand": "Couple TX",
+    "title": "Polos Stretch Polo Shirt",
+    "color": "cream stripe",
+    "discountedPrice": 450000,
+    "price": 600000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Polo with added stretch for a perfect fit."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1212_JCH_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1212_JCH_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1212_JCH_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1212_JCH_24.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1212_JCH_31.webp" }
+    ],
+    "brand": "Ralph Lauren",
+    "title": "Classic Fit L.12.12 Original Piqué Polo Shirt",
+    "color": "Orange",
+    "discountedPrice": 470000,
+    "price": 650000,
+    "discountPercent": 28,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 50 }
+    ],
+    "quantity": 105,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Elegant black polo with a modern slim-fit design."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1264_EL8_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1264_EL8_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1264_EL8_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1264_EL8_24.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1264_EL8_31.webp" }
+    ],
+    "brand": "Lacoste",
+    "title": "Classic Fit L.12.12 Marl Polo Shirt",
+    "color": "Green",
+    "discountedPrice": 420000,
+    "price": 600000,
+    "discountPercent": 30,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 35 },
+      { "name": "XL", "quantity": 45 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Vibrant red polo perfect for adding a pop of color."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2723_70V_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2723_70V_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2723_70V_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2723_70V_24.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2723_70V_31.webp" }
+    ],
+    "brand": "MAY 10",
+    "title": "Classic Fit Signature Print L.12.12 Polo Shirt",
+    "color": "White",
+    "discountedPrice": 430000,
+    "price": 600000,
+    "discountPercent": 28,
+    "size": [
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 25 },
+      { "name": "XL", "quantity": 45 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Earth-tone green polo for a relaxed, natural look."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH6006_70V_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH6006_70V_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH6006_70V_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH6006_70V_24.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH6006_70V_31.webp" }
+    ],
+    "brand": "Couple TX",
+    "title": "French Made Classic Fit L.12.12 Polo Shirt",
+    "color": "White",
+    "discountedPrice": 450000,
+    "price": 620000,
+    "discountPercent": 27,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 55 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Bright orange polo designed for summer vibes."
+  },
+  {
+    "imageUrl": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llvi9x3wx80vcc@resize_w900_nl.webp",
+    "images": [
+      { "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llvi9x3whrkv78@resize_w900_nl.webp" },
+      { "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llvi9x3wx7tr78@resize_w900_nl.webp" },
+      { "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llvi9x3whrrzca@resize_w900_nl.webp" },
+      { "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llvi9x3wj6cfe0@resize_w900_nl.webp" }
+    ],
+    "brand": "Lacoste",
+    "title": "POLO Steel Gang Shirt",
+    "color": "White",
+    "discountedPrice": 480000,
+    "price": 650000,
+    "discountPercent": 26,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 25 },
+      { "name": "XL", "quantity": 50 }
+    ],
+    "quantity": 95,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Rich purple polo for a unique and sophisticated style."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1212_TTV_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1212_TTV_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1212_TTV_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1212_TTV_23.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/L1212_TTV_24.webp" }
+    ],
+    "brand": "Lacoste",
+    "title": "Classic Fit L.12.12 Original Piqué Polo Shirt",
+    "color": "Green",
+    "discountedPrice": 500000,
+    "price": 650000,
+    "discountPercent": 23,
+    "size": [
+      { "name": "M", "quantity": 10 },
+      { "name": "L", "quantity": 20 },
+      { "name": "XL", "quantity": 30 }
+    ],
+    "quantity": 60,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Soft and durable polo shirt made with premium cotton."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2856_BZD_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2856_BZD_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2856_BZD_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2856_BZD_24.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2856_BZD_31.webp" }
+    ],
+    "brand": "Ralph Lauren",
+    "title": "Classic Fit L.12.12 Badge Polo Shirt",
+    "color": "Bordeaux",
+    "discountedPrice": 520000,
+    "price": 700000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 25 },
+      { "name": "XL", "quantity": 40 }
+    ],
+    "quantity": 80,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Sophisticated design with a tailored fit for a stylish look."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH7430_166_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH7430_166_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH7430_166_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH7430_166_24.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH7430_166_31.webp" }
+    ],
+    "brand": "Bobui",
+    "title": "French Made Classic Fit L.12.12 Polo Shirt",
+    "color": "Navy Blue",
+    "discountedPrice": 480000,
+    "price": 600000,
+    "discountPercent": 20,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Lightweight and breathable fabric, ideal for summer days."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH3450_001_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH3450_001_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH3450_001_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH3450_001_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH3450_001_31.webp" }
+    ],
+    "brand": "Lacoste",
+    "title": "Lacoste x CLOT Loose Fit Ultra Dry Jersey Polo Shirt",
+    "color": "White",
+    "discountedPrice": 510000,
+    "price": 680000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 30 },
+      { "name": "XL", "quantity": 40 }
+    ],
+    "quantity": 85,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Classic knit design with a rich color for any occasion."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2847_IDY_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2847_IDY_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2847_IDY_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2847_IDY_24.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/PH2847_IDY_31.webp" }
+    ],
+    "brand": "Ralph Lauren",
+    "title": "Regular Fit L.12.12 Colourblock Polo Shirt",
+    "color": "white",
+    "discountedPrice": 490000,
+    "price": 620000,
+    "discountPercent": 21,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 35 },
+      { "name": "XL", "quantity": 45 }
+    ],
+    "quantity": 105,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Designed for all-day comfort with a relaxed fit."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH7497_I9D_20.webp",
+    "images": [
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH7497_I9D_21.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH7497_I9D_22.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH7497_I9D_24.webp" },
+      { "src": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/DH7497_I9D_31.webp" }
+    ],
+    "brand": "Ralph Lauren",
+    "title": "Regular Fit UV Protect Golf Polo Shirt",
+    "color": "Khaki Green",
+    "discountedPrice": 520000,
+    "price": 700000,
+    "discountPercent": 25,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 25 },
+      { "name": "XL", "quantity": 50 }
+    ],
+    "quantity": 90,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_polo",
+    "description": "Sporty and dynamic fit with quick-dry technology."
+  }
+]

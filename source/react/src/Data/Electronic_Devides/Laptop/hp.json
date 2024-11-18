@@ -1,0 +1,475 @@
+[
+    {
+        "imageUrl": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326268/hp-spectre-x360-14-eu0050tu-ultra-7-a19blpa-glr-2-638647607983741885-750x500.jpg",
+        "images": [
+            { "src": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326268/hp-spectre-x360-14-eu0050tu-ultra-7-a19blpa-glr-3-638647607989012980-750x500.jpg" },
+            { "src": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326268/hp-spectre-x360-14-eu0050tu-ultra-7-a19blpa-glr-4-638647607997805332-750x500.jpg" },
+            { "src": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326268/hp-spectre-x360-14-eu0050tu-ultra-7-a19blpa-glr-9-638647608026976125-750x500.jpg" },
+            { "src": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326268/hp-spectre-x360-14-eu0050tu-ultra-7-a19blpa-glr-14-638647608069710836-750x500.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP Spectre x360 14",
+        "color": "Black",
+        "discountedPrice": 30000000,
+        "price": 38000000,
+        "discountPersent": 21,
+        "size": [
+            { "name": "13.5 inch", "quantity": 60 },
+            { "name": "15 inch", "quantity": 40 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Premium 2-in-1 laptop with a stunning display."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/232172/hp-envy-13-ba1028tu-i5-2k0b2pa-2-1-750x500.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/232172/hp-envy-13-ba1028tu-i5-2k0b2pa-3-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/232172/hp-envy-13-ba1028tu-i5-2k0b2pa-4-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/232172/hp-envy-13-ba1028tu-i5-2k0b2pa-7-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/232172/hp-envy-13-ba1028tu-i5-2k0b2pa-9-1-750x500.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP Envy 13",
+        "color": "Yellow",
+        "discountedPrice": 24000000,
+        "price": 32000000,
+        "discountPersent": 25,
+        "size": [
+            { "name": "13.3 inch", "quantity": 80 },
+            { "name": "15.6 inch", "quantity": 70 }
+        ],
+        "quantity": 150,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Slim and powerful laptop with high-end features."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/_/1_468.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/3/_/3_401.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_361.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/_/5_314.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/_/6_267.png" }
+        ],
+        "brand": "HP",
+        "title": "HP Pavilion 15",
+        "color": "Gray",
+        "discountedPrice": 16800000,
+        "price": 28000000,
+        "discountPersent": 40,
+        "size": [
+            { "name": "14 inch", "quantity": 90 },
+            { "name": "15.6 inch", "quantity": 110 }
+        ],
+        "quantity": 200,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Affordable performance laptop for everyday use."
+    },
+    {
+        "imageUrl": "https://ttcenter.com.vn/uploads/product/7droww9u-1311-hp-omen-laptop-16-intel-core-i5-13500hx-16gb-ram-512gb-ssd-rtx-4060-8gb-16-qhd-240hz-newoutlet.jpg",
+        "images": [
+            { "src": "https://ttcenter.com.vn/uploads/photos/1712223902_2760_1d7f753a0bc7b97076bb3619ad1ada98.jpg" },
+            { "src": "https://ttcenter.com.vn/uploads/photos/1712223903_2760_258e3c829cb51300ea45bdbf7f4a21a9.jpg" },
+            { "src": "https://ttcenter.com.vn/uploads/photos/1712223903_2760_576e5550635fd8081c3d041e2b977bb8.jpg" },
+            { "src": "https://ttcenter.com.vn/uploads/photos/1712223903_2760_907e6c2cda1cdd1adc62ad8f2de583d0.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP Omen 16",
+        "color": "Black",
+        "discountedPrice": 32000000,
+        "price": 40000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 50 },
+            { "name": "16.1 inch", "quantity": 50 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Gaming powerhouse with advanced cooling."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/327409/hp-elitebook-630-g10-i7-9h1n9pt-4-750x500.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/327409/hp-elitebook-630-g10-i7-9h1n9pt-2-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/327409/hp-elitebook-630-g10-i7-9h1n9pt-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/327409/hp-elitebook-630-g10-i7-9h1n9pt-4-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/327409/hp-elitebook-630-g10-i7-9h1n9pt-6-750x500.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP EliteBook 840",
+        "color": "Gray",
+        "discountedPrice": 21000000,
+        "price": 35000000,
+        "discountPersent": 40,
+        "size": [
+            { "name": "13.3 inch", "quantity": 40 },
+            { "name": "14 inch", "quantity": 60 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Business laptop with enhanced security features."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/318163/hp-victus-15-fa1139tx-i5-8y6w3pa-glr-2-1-750x500.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/318163/hp-victus-15-fa1139tx-i5-8y6w3pa-glr-3-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/318163/hp-victus-15-fa1139tx-i5-8y6w3pa-glr-4-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/318163/hp-victus-15-fa1139tx-i5-8y6w3pa-glr-5-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/318163/hp-victus-15-fa1139tx-i5-8y6w3pa-glr-7-1-750x500.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP Victus 16",
+        "color": "Black",
+        "discountedPrice": 36000000,
+        "price": 45000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 40 },
+            { "name": "16.1 inch", "quantity": 60 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Gaming laptop with powerful graphics."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/291154/hp-probook-450-g9-i5-6m0y9pa-abc-glr-2-750x500.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/291154/hp-probook-450-g9-i5-6m0y9pa-abc-glr-3-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/291154/hp-probook-450-g9-i5-6m0y9pa-abc-glr-4-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/291154/hp-probook-450-g9-i5-6m0y9pa-abc-glr-8-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/291154/hp-probook-450-g9-i5-6m0y9pa-abc-glr-7-750x500.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP ProBook 450 G9",
+        "color": "Gray",
+        "discountedPrice": 21000000,
+        "price": 30000000,
+        "discountPersent": 30,
+        "size": [
+            { "name": "14 inch", "quantity": 100 },
+            { "name": "15.6 inch", "quantity": 80 }
+        ],
+        "quantity": 180,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Reliable laptop for small businesses."
+    },
+    {
+        "imageUrl": "https://www.laptopvip.vn/images/ab__webp/thumbnails/1100/900/detailed/32/c06986550-www.laptopvip.vn-1685157816.png.webp",
+        "images": [
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/32/c06986523-www.laptopvip.vn-1685157816.webp" },
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/32/c06986577-www.laptopvip.vn-1685157816.webp" },
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/32/c06986442-www.laptopvip.vn-1685157816.webp" },
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/32/c06986469-www.laptopvip.vn-1685157816.webp" }
+        ],
+        "brand": "HP",
+        "title": "HP ZBook Firefly 15 G8",
+        "color": "Gray",
+        "discountedPrice": 42000000,
+        "price": 52000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 70 },
+            { "name": "17 inch", "quantity": 30 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Powerful workstation for professionals."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_13_15.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_3__5_129.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_2__6_141.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_1__6_131.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop_hp_pavilion_x360_14-ek2017tu_9z2v5pa_-_2.png" }
+        ],
+        "brand": "HP",
+        "title": "HP Pavilion x360",
+        "color": "Gray",
+        "discountedPrice": 23000000,
+        "price": 28000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "14 inch", "quantity": 80 },
+            { "name": "15.6 inch", "quantity": 40 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Convertible laptop for versatility."
+    },
+    {
+        "imageUrl": "https://product.hstatic.net/1000369156/product/laptop_hp_chromebook_14a-na0051cl_9e7c6f7397fd4a128d925b0a04d0cfed.png",
+        "images": [
+            { "src": "https://product.hstatic.net/1000369156/product/2_525c9d9589c147f7875ea442fe64eff5.png" },
+            { "src": "https://product.hstatic.net/1000369156/product/3_57d7a015201f4a968a2b6f70ab9a766d.png" },
+            { "src": "https://product.hstatic.net/1000369156/product/6_bb9c58db864b4b85a45a4630243b1053.png" },
+            { "src": "https://product.hstatic.net/1000369156/product/5_9179caa66a5a475a8267a4fe351831ad.png" }
+        ],
+        "brand": "HP",
+        "title": "HP Chromebook 14",
+        "color": "White",
+        "discountedPrice": 10000000,
+        "price": 12000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "14 inch", "quantity": 90 }
+        ],
+        "quantity": 90,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Lightweight Chromebook for everyday tasks."
+    },
+    {
+        "imageUrl": "https://nhatminhlaptop.com/upload/products/2024-03-13-16-00-43/hpelitex360dragonflyg19-1.jpg",
+        "images": [
+            { "src": "https://nhatminhlaptop.com/Upload/FileAttach/hpelitex360dragonflyg11-2024-03-13-15-55-10.jpg" },
+            { "src": "https://nhatminhlaptop.com/Upload/FileAttach/hpelitex360dragonflyg13-2024-03-13-15-55-10.jpg" },
+            { "src": "https://nhatminhlaptop.com/Upload/FileAttach/hpelitex360dragonflyg14-2024-03-13-15-55-10.jpg" },
+            { "src": "https://nhatminhlaptop.com/Upload/FileAttach/hpelitex360dragonflyg12-2024-03-13-15-55-20.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP Elite Dragonfly",
+        "color": "Blue",
+        "discountedPrice": 35000000,
+        "price": 44000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "13.3 inch", "quantity": 100 },
+            { "name": "14 inch", "quantity": 50 }
+        ],
+        "quantity": 150,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Ultralight laptop for professionals."
+    },
+    {
+        "imageUrl": "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/2015/Tin-Tuc/Dung/0318/hpenvy/danh-gia-hp-envy-x2-11.jpg",
+        "images": [
+            { "src": "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/2015/Tin-Tuc/Dung/0318/hpenvy/danh-gia-hp-envy-x2-10.jpg" },
+            { "src": "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/2015/Tin-Tuc/Dung/0318/hpenvy/danh-gia-hp-envy-x2-6.jpg" },
+            { "src": "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/2015/Tin-Tuc/Dung/0318/hpenvy/danh-gia-hp-envy-x2-7.jpg" },
+            { "src": "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/2015/Tin-Tuc/Dung/0318/hpenvy/danh-gia-hp-envy-x2-8.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP ENVY x2",
+        "color": "Gray",
+        "discountedPrice": 28000000,
+        "price": 35000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "13 inch", "quantity": 50 },
+            { "name": "15 inch", "quantity": 50 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Hybrid laptop with LTE connectivity."
+    },
+    {
+        "imageUrl": "https://laptopminhman.com/upload/news/img_1805-0850.JPG",
+        "images": [
+            { "src": "https://laptopminhman.com/upload/news/img_1805-0850.JPG" },
+            { "src": "https://laptopminhman.com/upload/news/img_1805-0850.JPG" },
+            { "src": "https://laptopminhman.com/upload/news/img_1805-0850.JPG" },
+            { "src": "https://laptopminhman.com/upload/news/img_1805-0850.JPG" }
+        ],
+        "brand": "HP",
+        "title": "HP Stream 11",
+        "color": "Blue",
+        "discountedPrice": 8000000,
+        "price": 10000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "11.6 inch", "quantity": 70 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Compact and affordable for students."
+    },
+    {
+        "imageUrl": "https://product.hstatic.net/1000167396/product/tai_xuong__3__885f0ba87962463da1078d4f8ae20015_master.jpeg",
+        "images": [
+            { "src": "https://product.hstatic.net/1000167396/product/1609992741-laptop365_669256fab8fd4de8af3f61b4eae9dad3_master.jpg" },
+            { "src": "https://product.hstatic.net/1000167396/product/tai_xuong__1__12c9a0592e2d4cde9d1123d8ecf3421d_master.jpeg" },
+            { "src": "https://product.hstatic.net/1000167396/product/tai_xuong__2__4c7b5da941634263899ea669c8554b5c_master.jpeg" },
+            { "src": "https://product.hstatic.net/1000167396/product/pro_book_650_g8_a8afcad841444a25850bba32d85527b6_master.png" }
+        ],
+        "brand": "HP",
+        "title": "HP ProBook 650 G8",
+        "color": "Gray",
+        "discountedPrice": 25000000,
+        "price": 32000000,
+        "discountPersent": 22,
+        "size": [
+            { "name": "14 inch", "quantity": 60 },
+            { "name": "15.6 inch", "quantity": 80 }
+        ],
+        "quantity": 140,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Professional laptop for office tasks."
+    },
+    {
+        "imageUrl": "https://www.laptopsdirect.co.uk/Images/816R4EA_1_Supersize.jpg?v=15",
+        "images": [
+            { "src": "https://www.laptopsdirect.co.uk/Images/816R4EA_2_Supersize.jpg?v=13" },
+            { "src": "https://www.laptopsdirect.co.uk/Images/816R4EA_3_Supersize.jpg?v=11" },
+            { "src": "https://www.laptopsdirect.co.uk/Images/816R4EA_4_Supersize.jpg?v=9" },
+            { "src": "https://www.laptopsdirect.co.uk/Images/816R4EA_5_Supersize.jpg?v=7" }
+        ],
+        "brand": "HP",
+        "title": "HP 255 G9",
+        "color": "Gray",
+        "discountedPrice": 17000000,
+        "price": 20000000,
+        "discountPersent": 15,
+        "size": [
+            { "name": "15.6 inch", "quantity": 150 }
+        ],
+        "quantity": 150,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Affordable laptop for students and small businesses."
+    },
+    {
+        "imageUrl": "https://m.media-amazon.com/images/I/81skV7BufjL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "images": [
+            { "src": "https://m.media-amazon.com/images/I/81YWu8ohvbL._AC_SL1500_.jpg" },
+            { "src": "https://m.media-amazon.com/images/I/81xWpvGSfNL._AC_SL1500_.jpg" },
+            { "src": "https://m.media-amazon.com/images/I/81ikM81zLlS._AC_SL1500_.jpg" },
+            { "src": "https://m.media-amazon.com/images/I/81YTj+qtptL._AC_SL1500_.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP 15-dy2021nr",
+        "color": "Gray",
+        "discountedPrice": 20000000,
+        "price": 25000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 120 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Stylish and efficient for daily tasks."
+    },
+    {
+        "imageUrl": "https://laptop88.vn/media/product/7906_14760_hp_omen_16_2023_2__1_.jpg",
+        "images": [
+            { "src": "https://laptop88.vn/media/product/7906_14760_hp_omen_16_2023_3.jpg" },
+            { "src": "https://laptop88.vn/media/product/7906_14760_hp_omen_16_2023_4__1_.jpg" },
+            { "src": "https://laptop88.vn/media/product/7906_14760_hp_omen_16_2023_5.jpg" },
+            { "src": "https://laptop88.vn/media/product/7906_14760_hp_omen_16_2023_4.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP OMEN 17",
+        "color": "Black",
+        "discountedPrice": 50000000,
+        "price": 60000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "17.3 inch", "quantity": 50 }
+        ],
+        "quantity": 50,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Ultimate gaming experience on a large display."
+    },
+    {
+        "imageUrl": "https://laptop3mien.vn/wp-content/uploads/2022/09/HP-ZBook-Fury-16-G9-Laptop3mien.vn-1.jpg",
+        "images": [
+            { "src": "https://laptop3mien.vn/wp-content/uploads/2022/09/HP-ZBook-Fury-16-G9-Laptop3mien.vn-6.jpg" },
+            { "src": "https://laptop3mien.vn/wp-content/uploads/2022/09/HP-ZBook-Fury-16-G9-Laptop3mien.vn-5.jpg" },
+            { "src": "https://laptop3mien.vn/wp-content/uploads/2022/09/HP-ZBook-Fury-16-G9-Laptop3mien.vn-4.jpg" },
+            { "src": "https://laptop3mien.vn/wp-content/uploads/2022/09/HP-ZBook-Fury-16-G9-Laptop3mien.vn-2.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP ZBook Fury 16 G9",
+        "color": "Gray",
+        "discountedPrice": 62000000,
+        "price": 78000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "16 inch", "quantity": 40 },
+            { "name": "17.3 inch", "quantity": 60 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "High-performance mobile workstation."
+    },
+    {
+        "imageUrl": "https://laptopworld.vn/media/product/19138_hp_spectre_x360_2in1_14_eu0013dx__3.jpg",
+        "images": [
+            { "src": "https://laptopworld.vn/media/product/19138_hp_spectre_x360_2in1_14_eu0013dx__3.jpg" },
+            { "src": "https://laptopworld.vn/media/product/19138_hp_spectre_x360_2in1_14_eu0013dx__logo.jpg" },
+            { "src": "https://laptopworld.vn/media/product/19138_hp_spectre_x360_2in1_14_eu0013dx__2.jpg" },
+            { "src": "https://laptopworld.vn/media/product/19138_hp_spectre_x360_2in1_14_eu0013dx__4.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP Spectre x360 14",
+        "color": "Black",
+        "discountedPrice": 38000000,
+        "price": 46000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "14 inch", "quantity": 90 }
+        ],
+        "quantity": 90,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Luxury convertible with premium features."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/230555/hp-envy-15-ep1045tx-i7-231v7pa-3-750x500.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/230555/hp-envy-15-ep1045tx-i7-231v7pa-4-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/230555/hp-envy-15-ep1045tx-i7-231v7pa-2-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/230555/hp-envy-15-ep1045tx-i7-231v7pa-1-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/230555/hp-envy-15-ep1045tx-i7-231v7pa-4-750x500.jpg" }
+        ],
+        "brand": "HP",
+        "title": "HP ENVY 15",
+        "color": "Yellow",
+        "discountedPrice": 42000000,
+        "price": 50000000,
+        "discountPersent": 16,
+        "size": [
+            { "name": "15.6 inch", "quantity": 60 }
+        ],
+        "quantity": 60,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "hp",
+        "description": "Creative powerhouse for professionals."
+    }
+]

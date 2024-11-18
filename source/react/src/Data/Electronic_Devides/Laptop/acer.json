@@ -1,0 +1,463 @@
+[
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_5__3_16_2_2_1.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_3__2_23_2_1_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_4__3_21_2_1_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_2__3_23_2_1_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_1__2_29_2_1_1.png" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Swift 3",
+        "color": "Gray",
+        "discountedPrice": 18000000,
+        "price": 22000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "14 inch", "quantity": 100 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Lightweight ultrabook with exceptional performance."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/314630/acer-aspire-5-a515-58gm-51lb-i5-nxkq4sv002-glr-3-750x500.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/314630/acer-aspire-5-a515-58gm-51lb-i5-nxkq4sv002-glr-4-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/314630/acer-aspire-5-a515-58gm-51lb-i5-nxkq4sv002-glr-5-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/314630/acer-aspire-5-a515-58gm-51lb-i5-nxkq4sv002-glr-7-750x500.jpg" },
+            { "src": "https://cdn.tgdd.vn/Products/Images/44/314630/acer-aspire-5-a515-58gm-51lb-i5-nxkq4sv002-glr-9-750x500.jpg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Aspire 5",
+        "color": "Black",
+        "discountedPrice": 15000000,
+        "price": 20000000,
+        "discountPersent": 25,
+        "size": [
+            { "name": "15.6 inch", "quantity": 120 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Affordable laptop for everyday tasks."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-predator-helios-300_5_.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-predator-helios-300_4_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-predator-helios-300_2_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-predator-helios-300_3_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-predator-helios-300_4_.jpg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Predator Helios 300",
+        "color": "Black",
+        "discountedPrice": 37000000,
+        "price": 45000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "15.6 inch", "quantity": 80 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Powerful gaming laptop with advanced cooling."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/8/28_1_17.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/9/29_1_17.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/3/6/36_1_11.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/3/4/34_1_12.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/3/2/32_1_11.jpg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Nitro 5",
+        "color": "Black",
+        "discountedPrice": 28000000,
+        "price": 35000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 90 }
+        ],
+        "quantity": 90,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Gaming laptop with immersive visuals and sound."
+    },
+    {
+        "imageUrl": "https://lapvip.vn/upload/products/thumb_800x0/acer-chromebook-spin-713-cp713-2w-5874-2021-1711082413.jpg",
+        "images": [
+            { "src": "https://lapvip.vn/upload/products/thumb_800x0/acer-chromebook-spin-713-cp713-2w-5874-20216-1711082410.jpg" },
+            { "src": "https://lapvip.vn/upload/products/thumb_800x0/acer-chromebook-spin-713-cp713-2w-5874-20213-1711082410.jpg" },
+            { "src": "https://lapvip.vn/upload/products/thumb_800x0/acer-chromebook-spin-713-cp713-2w-5874-20214-1711082410.jpg" },
+            { "src": "https://lapvip.vn/upload/products/thumb_800x0/acer-chromebook-spin-713-cp713-2w-5874-20215-1711082410.jpg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Chromebook Spin 713",
+        "color": "Gray",
+        "discountedPrice": 12000000,
+        "price": 15000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "13.5 inch", "quantity": 70 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Convertible Chromebook with long battery life."
+    },
+    {
+        "imageUrl": "https://laptopre.vn/upload/picture/picture-01672374911.jpg",
+        "images": [
+            { "src": "https://laptopre.vn/upload/picture/picture-11672374911.jpg" },
+            { "src": "https://laptopre.vn/upload/picture/picture-11672374911.jpg" },
+            { "src": "https://laptopre.vn/upload/picture/picture-21672374911.jpg" },
+            { "src": "https://laptopre.vn/upload/picture/picture-31672374911.jpg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer ConceptD 3",
+        "color": "White",
+        "discountedPrice": 32000000,
+        "price": 40000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 50 }
+        ],
+        "quantity": 50,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Creator-focused laptop with accurate colors."
+    },
+    {
+        "imageUrl": "https://www.acervietnam.com.vn/wp-content/uploads/2021/02/thumbnail-3-1.png",
+        "images": [
+            { "src": "https://www.acervietnam.com.vn/wp-content/uploads/2021/02/thumbnail-5-1.png" },
+            { "src": "https://www.acervietnam.com.vn/wp-content/uploads/2021/02/thumbnail-4-1.png" },
+            { "src": "https://www.acervietnam.com.vn/wp-content/uploads/2021/02/thumbnail-2-2.png" },
+            { "src": "https://www.acervietnam.com.vn/wp-content/uploads/2021/02/thumbnail-2-2.png" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Enduro N3",
+        "color": "Black",
+        "discountedPrice": 30000000,
+        "price": 40000000,
+        "discountPersent": 25,
+        "size": [
+            { "name": "14 inch", "quantity": 40 }
+        ],
+        "quantity": 40,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Rugged laptop for demanding environments."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/s/dsdf_18__2.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/s/dsdf_20__1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/s/dsdf_21__1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/s/dsdf_19__1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-swift-go-14-ai-sfg14-73-71zx_-_2024-10-16t222425.544.png" }
+        ],
+        "brand": "Acer",
+        "title": "Acer TravelMate P2",
+        "color": "Black",
+        "discountedPrice": 22000000,
+        "price": 26000000,
+        "discountPersent": 15,
+        "size": [
+            { "name": "14 inch", "quantity": 100 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Business laptop with excellent connectivity."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0002_6969_63271_laptop_acer_swift_x_s.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0001_6969_63271_laptop_acer_swift_x_s_2_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0000_6969_63271_laptop_acer_swift_x_s_1_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-swift-x-sfx16-51g-516q-nx-ayksv-002-10.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/0/_0000_6969_63271_laptop_acer_swift_x_s_1_.jpg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Swift X",
+        "color": "Gray",
+        "discountedPrice": 26000000,
+        "price": 32000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "14 inch", "quantity": 70 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Powerful laptop for creatives on the go."
+    },
+    {
+        "imageUrl": "https://www.laptopvip.vn/images/ab__webp/detailed/33/acer-aspire-vero-evo-av14-51-fingerprint-backlit-on-wallpaper-win11-cobb-www.laptopvip.vn-1692606479.webp",
+        "images": [
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/33/acer-aspire-vero-evo-av14-51-fingerprint-backlit-cobblestone-gray-06-1-www.laptopvip.vn-1692606479.webp" },
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/33/acer-aspire-vero-evo-av14-51-fingerprint-backlit-on-wallpaper-cobbleston-www.laptopvip.vn-1692606479.webp" },
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/33/acer-aspire-vero-evo-av14-51-fingerprint-backlit-wallpaper-cobblestone-g-www.laptopvip.vn-1692606479.webp" },
+            { "src": "https://www.laptopvip.vn/images/ab__webp/detailed/33/acer-aspire-vero-evo-av14-51-fingerprint-backlit-cobblestone-gray-08-1-www.laptopvip.vn-1692606479.webp" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Aspire Vero",
+        "color": "Gray",
+        "discountedPrice": 20000000,
+        "price": 25000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "15.6 inch", "quantity": 60 }
+        ],
+        "quantity": 60,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Eco-friendly laptop made from recycled materials."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-swift-5-sf514-55t-51nz-1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-swift-5-sf514-55t-51nz-2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-swift-5-sf514-55t-51nz-3.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-swift-5-sf514-55t-51nz-4.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/a/laptop-acer-swift-5-sf514-55t-51nz-3-ksp.jpg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Swift 5",
+        "color": "Gray",
+        "discountedPrice": 29000000,
+        "price": 36000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "14 inch", "quantity": 80 },
+            { "name": "15.6 inch", "quantity": 60 }
+        ],
+        "quantity": 140,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Ultra-light and portable laptop with excellent performance."
+    },
+    {
+        "imageUrl": "https://cdn.tgdd.vn/Files/2021/10/14/1390326/acer-chromebook-2_1280x720-800-resize.jpg",
+        "images": [
+            { "src": "https://cdn.tgdd.vn/Files/2021/10/14/1390326/acer-chromebook-spin-cb514-2ht-03_1280x1014-800-resize.jpg" },
+            { "src": "https://cdn.tgdd.vn/Files/2021/10/14/1390326/acer-chromebook-spin-cb514-2ht-072_1280x1280-800-resize.jpg" },
+            { "src": "https://cdn.tgdd.vn/Files/2021/10/14/1390326/acer-chromebook-515-cb515-1wt-03_1280x1280-800-resize.jpg" },
+            { "src": "https://cdn.tgdd.vn/Files/2021/10/14/1390326/acer-chromebook-515-cb515-1wt-04_1280x1280-800-resize.jpg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Chromebook 514",
+        "color": "Gray",
+        "discountedPrice": 12000000,
+        "price": 15000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "14 inch", "quantity": 70 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Stylish Chromebook with long battery life and great display."
+    },
+    {
+        "imageUrl": "https://lh3.googleusercontent.com/ITuM-86ObB_Q_pELdb6s3xjIvvECtOl2IxJJ9_4RUSaYmzOMEprg8EOQ-VKdFOeI3SFNL-fpnFL7KQggDoo84bXE2WIB_cDe=w1000-rw",
+        "images": [
+            { "src": "https://lh3.googleusercontent.com/QgyT9fB879ELmTVifbGqKWX9g07TeQ6QUxMhBRcI6q7nlJyqpSnmh9L2nIdQR1Pfesf9FFmJ7VCLjpET0BrnYXRx3DaKHB7k0g=w1000-rw" },
+            { "src": "https://lh3.googleusercontent.com/zpqPNYQHrVN8NGALoJbu2RBE5tqQEah_XQFaFceDMNmP81HZjvOeCk82AMi-XFeAKyOyzOC8j78TOivwnVR3MKsY67Ae0_eevw=w1000-rw" },
+            { "src": "https://lh3.googleusercontent.com/s3mgvrWmESD41Vo_SWfsoNj7fUGD75Wx_mbyt3A4p35Inbz6ZLdNV6AL04lZF2-KroSl3Y4tnOD6DbfJ-6oUSV_QzJ8U3qQ9=w1000-rw" },
+            { "src": "https://lh3.googleusercontent.com/0aAtoPP6U6sFoe2aDqBycVLIK5lY_J4io8ZNxmF-kyC4pNTrmI-jgaAiWhZWMCLi8svtQQ09H1U8zsLLYGTsIAw63iY-XaT2=w1000-rw" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Aspire 7",
+        "color": "Black",
+        "discountedPrice": 25000000,
+        "price": 31000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "15.6 inch", "quantity": 100 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Versatile laptop suitable for both work and gaming."
+    },
+    {
+        "imageUrl": "https://lh3.googleusercontent.com/eSTPgChkodGi0H_f0Qp6bvPGDejkhMJTvpmNR-doH0qdNBrFXGcbft7N_BJxoKcfoZ_r1U8M9CcX-Ms9Yw=w1000-rw",
+        "images": [
+            { "src": "https://lh3.googleusercontent.com/Hcc_YTKwT_Y7QOtU0sABk0dQsnjE8W8VBQihROyCxDZDj64E9Z2fcUtLgewSWUFHIm_R5P-Ag8SnJU1SZ5E=w1000-rw" },
+            { "src": "https://lh3.googleusercontent.com/G2Lzh73CNCn72Qa3vJ971_95Cfe5IZe3MiYWMrrTfH72DcdZgCrxmnjhZL-WtNZNQ5hQpsMwmBE9C_otvXM=w1000-rw" },
+            { "src": "https://lh3.googleusercontent.com/n1s7xic4Yg7uTMQADWsfxUy275vn1ry_WEvcqqtyE-0eDGF-Lla70DLrj6efo9u2p1Ki5pc2odfoH7Vtig=w1000-rw" },
+            { "src": "https://lh3.googleusercontent.com/aJVbz-9zV56ehadP6dKrAu8wVjpiBOrbKIELv_KYO2LzQ52AUbrZAxSZtcXzxFuV2ePnn1pjk5v9rSnuqpMN=w1000-rw" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Spin 5",
+        "color": "Gray",
+        "discountedPrice": 32000000,
+        "price": 40000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "13.5 inch", "quantity": 50 }
+        ],
+        "quantity": 50,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "2-in-1 convertible laptop with high-resolution touchscreen."
+    },
+    {
+        "imageUrl": "https://laptoptitan.vn/wp-content/uploads/2023/08/Acer-Predator-Triton-500-PT-515-52-01.jpg",
+        "images": [
+            { "src": "https://laptoptitan.vn/wp-content/uploads/2023/08/Acer-Predator-Triton-500-PT515-52-02.jpg" },
+            { "src": "https://laptoptitan.vn/wp-content/uploads/2023/08/Acer-Predator-Triton-500-PT515-52-03.jpg" },
+            { "src": "https://laptoptitan.vn/wp-content/uploads/2023/08/Acer-Predator-Triton-500-PT515-52-04.jpg" },
+            { "src": "https://laptoptitan.vn/wp-content/uploads/2023/08/Acer-Predator-Triton-500-PT515-52-05.jpg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Predator Triton 500",
+        "color": "Black",
+        "discountedPrice": 50000000,
+        "price": 62000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "15.6 inch", "quantity": 30 }
+        ],
+        "quantity": 30,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "High-performance gaming laptop with RTX graphics."
+    },
+    {
+        "imageUrl": "https://laptopkimcuong.com/upload/sanpham/large/878-aspire-e15-e5-575-core-i5-7200u-15-6in-fhd-1.jpg",
+        "images": [
+            { "src": "https://laptopkimcuong.com/upload/sanpham/large/878-aspire-e15-e5-575-core-i5-7200u-15-6in-fhd-5.jpg" },
+            { "src": "https://laptopkimcuong.com/upload/sanpham/large/878-aspire-e15-e5-575-core-i5-7200u-15-6in-fhd-4.jpg" },
+            { "src": "https://laptopkimcuong.com/upload/sanpham/large/878-aspire-e15-e5-575-core-i5-7200u-15-6in-fhd-3.jpg" },
+            { "src": "https://laptopkimcuong.com/upload/sanpham/large/878-aspire-e15-e5-575-core-i5-7200u-15-6in-fhd-2.jpg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Aspire E 15",
+        "color": "Black",
+        "discountedPrice": 15000000,
+        "price": 20000000,
+        "discountPersent": 25,
+        "size": [
+            { "name": "15.6 inch", "quantity": 120 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Affordable and reliable laptop for students and professionals."
+    },
+    {
+        "imageUrl": "https://hanoicomputercdn.com/media/product/56768_conceptd_7_ezel__7_.png",
+        "images": [
+            { "src": "https://hanoicomputercdn.com/media/product/56768_conceptd_7_ezel__8_.png" },
+            { "src": "https://hanoicomputercdn.com/media/product/56768_conceptd_7_ezel__5_.png" },
+            { "src": "https://hanoicomputercdn.com/media/product/56768_conceptd_7_ezel__3_.png" },
+            { "src": "https://hanoicomputercdn.com/media/product/56768_conceptd_7_ezel__1_.png" }
+        ],
+        "brand": "Acer",
+        "title": "Acer ConceptD 7",
+        "color": "White",
+        "discountedPrice": 54000000,
+        "price": 65000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "15.6 inch", "quantity": 20 }
+        ],
+        "quantity": 20,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Workstation-grade laptop for creatives with a 4K display."
+    },
+    {
+        "imageUrl": "https://static-ecpa.acer.com/media/catalog/product/e/n/enduro-urban-n3-eun314-51w-bl1-wallpaper-win11-1000main.png?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500&format=jpeg",
+        "images": [
+            { "src": "https://static-ecpa.acer.com/media/catalog/product/e/n/enduro-urban-n3-eun314-51w-bl-gallery-07_2.png?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500&format=jpeg" },
+            { "src": "https://static-ecpa.acer.com/media/catalog/product/e/n/enduro-urban-n3-eun314-51w-bl-gallery-02_1.png?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500&format=jpeg" },
+            { "src": "https://static-ecpa.acer.com/media/catalog/product/e/n/enduro-urban-n3-eun314-51w-bl-gallery-03_2.png?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500&format=jpeg" },
+            { "src": "https://static-ecpa.acer.com/media/catalog/product/e/n/enduro-urban-n3-eun314-51w-bl-gallery-04_2.png?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500&format=jpeg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Enduro Urban N3",
+        "color": "Blue",
+        "discountedPrice": 25000000,
+        "price": 30000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "14 inch", "quantity": 60 }
+        ],
+        "quantity": 60,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Durable laptop designed for outdoor usage."
+    },
+    {
+        "imageUrl": "https://static-ecapac.acer.com/media/catalog/product/m/a/main_1_dq.bkpsg.001.png?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500&format=jpeg",
+        "images": [
+            { "src": "https://static-ecapac.acer.com/media/catalog/product/a/c/acer-aspire-c24-1851-wallpaper-win11-black-03.tif-custom_dq.bkpsg.001.png?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500&format=jpeg" },
+            { "src": "https://static-ecapac.acer.com/media/catalog/product/a/c/acer-aspire-c24-1851-wallpaper-win11-black-02.tif-custom_dq.bkpsg.001.png?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500&format=jpeg" },
+            { "src": "https://static-ecapac.acer.com/media/catalog/product/a/c/acer-aspire-c24-1851-black-06.tif-custom_dq.bkpsg.001.png?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500&format=jpeg" },
+            { "src": "https://static-ecapac.acer.com/media/catalog/product/a/c/acer-aspire-c24-1851-black-06.tif-custom_dq.bkpsg.001.png?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500&format=jpeg" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Aspire C 24",
+        "color": "Black",
+        "discountedPrice": 18000000,
+        "price": 23000000,
+        "discountPersent": 22,
+        "size": [
+            { "name": "24 inch", "quantity": 80 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "All-in-One PC",
+        "thirdLavelCategory": "acer",
+        "description": "Slim all-in-one desktop PC for home use."
+    },
+    {
+        "imageUrl": "https://i5.walmartimages.com/seo/Acer-Chromebook-315-15-6-inch-Laptop-Intel-Processor-N4500-4GB-RAM-64GB-eMMC-Pure-Silver_7956e75e-1d28-444d-ac76-c63cbbbb744e.90a9c0f5e8e74d63881221f2d9de45f8.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF",
+        "images": [
+            { "src": "https://i5.walmartimages.com/asr/00562811-8af6-44a9-b68e-56fe5dd87f12.21cc44a6342ec6fc430f4beafdb1e880.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF" },
+            { "src": "https://i5.walmartimages.com/asr/aa56eb6f-7913-4f03-865b-226d67db13fe.56feecb11c084f5145b20abdae7aa3db.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF" },
+            { "src": "https://i5.walmartimages.com/asr/5c6197c8-42a6-4294-8616-b17694bb5d90.de52fa1f280750cc1324c5bfa7107547.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF" },
+            { "src": "https://i5.walmartimages.com/asr/3ba08ea0-0327-4340-84f7-4b3de3ad99a4.58969c0a764bbde6c394c67e4bdde64a.png?odnHeight=117&odnWidth=117&odnBg=FFFFFF" }
+        ],
+        "brand": "Acer",
+        "title": "Acer Chromebook 315",
+        "color": "Gray",
+        "discountedPrice": 10000000,
+        "price": 12000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "15.6 inch", "quantity": 90 }
+        ],
+        "quantity": 90,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Laptop",
+        "thirdLavelCategory": "acer",
+        "description": "Entry-level Chromebook for casual use."
+    }
+]

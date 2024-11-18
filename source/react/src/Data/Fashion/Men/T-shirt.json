@@ -1,0 +1,502 @@
+[
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51aPaivXlRL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/51Rm1WGh98L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61ZOLdpKBiL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61VwGDu7sIL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51aXwQeRaJL._AC_SX679_.jpg" }
+    ],
+    "brand": "Nike",
+    "title": "Nike Sportswear Graphic T-Shirt",
+    "color": "Black",
+    "discountedPrice": 400000,
+    "price": 500000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 20 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 65,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Classic graphic T-shirt with Nike's signature logo, perfect for everyday wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71zRMNf2uvL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71ftRanuVEL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61-XLPyIFxL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61pPn29mNuL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/812t-ZdhHWL._AC_SX679_.jpg" }
+    ],
+    "brand": "Adidas",
+    "title": "Adidas Originals Trefoil T-Shirt",
+    "color": "Black",
+    "discountedPrice": 550000,
+    "price": 650000,
+    "discountPersent": 15,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 18 },
+      { "name": "XL", "quantity": 12 }
+    ],
+    "quantity": 55,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Stylish black T-shirt with the iconic Adidas Trefoil logo for a casual, sporty look."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/612OCczgZHL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61vICa-RObL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/619qK4jHKOL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/616XoNfjJcL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61ta135jAML._AC_SX679_.jpg" }
+    ],
+    "brand": "Puma",
+    "title": "Puma Essential Logo T-Shirt",
+    "color": "Black",
+    "discountedPrice": 450000,
+    "price": 550000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 22 },
+      { "name": "L", "quantity": 17 },
+      { "name": "XL", "quantity": 13 }
+    ],
+    "quantity": 52,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Comfortable gray T-shirt featuring the Puma logo, perfect for casual wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61TCh7zVLhL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71mE+x0s12L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/41JmsL4c+cL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/414G0v3kLxL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/617e0EjvJIL._AC_SX679_.jpg" }
+    ],
+    "brand": "H&M",
+    "title": "H&M Basic Cotton T-Shirt",
+    "color": "Carbon",
+    "discountedPrice": 300000,
+    "price": 400000,
+    "discountPersent": 25,
+    "size": [
+      { "name": "M", "quantity": 28 },
+      { "name": "L", "quantity": 22 },
+      { "name": "XL", "quantity": 18 }
+    ],
+    "quantity": 68,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "A simple and soft cotton T-shirt from H&M, offering comfort and style in navy blue."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/614rbIVRUJL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61qW-ntuywL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61tVI9j0mmL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61QhpXRIx1L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61SR+quC5OL._AC_SX679_.jpg" }
+    ],
+    "brand": "Uniqlo",
+    "title": "Uniqlo U Crew Neck T-Shirt",
+    "color": "Black",
+    "discountedPrice": 350000,
+    "price": 450000,
+    "discountPersent": 22,
+    "size": [
+      { "name": "M", "quantity": 24 },
+      { "name": "L", "quantity": 19 },
+      { "name": "XL", "quantity": 14 }
+    ],
+    "quantity": 57,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Minimalist crew neck T-shirt in beige from Uniqlo's U collection, made from high-quality cotton."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81vtwq0pBJL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/816xm1ElvrL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71gkmhMTuBL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81aNCNShCuL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71piNS43N5L._AC_SY879_.jpg" }
+    ],
+    "brand": "Levi's",
+    "title": "Levi's Graphic Logo T-Shirt",
+    "color": "Blue",
+    "discountedPrice": 600000,
+    "price": 750000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 21 },
+      { "name": "L", "quantity": 17 },
+      { "name": "XL", "quantity": 12 }
+    ],
+    "quantity": 50,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "A bold red T-shirt from Levi's with a large logo for a modern, stylish look."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61OX0HTY1iL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61w4UtT3vxL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61-sHHHjFmL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/718fwq1FQvL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/614w-ida1XL._AC_SX679_.jpg" }
+    ],
+    "brand": "Tommy Hilfiger",
+    "title": "Tommy Hilfiger Signature T-Shirt",
+    "color": "White",
+    "discountedPrice": 650000,
+    "price": 800000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 18 },
+      { "name": "XL", "quantity": 14 }
+    ],
+    "quantity": 57,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Timeless white T-shirt from Tommy Hilfiger with their signature logo."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61O-XKVMnaL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61o2AL5yQJL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81kdy94Af1L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71p6glr5NeL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71cgFnrPrmL._AC_SX679_.jpg" }
+    ],
+    "brand": "Calvin Klein",
+    "title": "Calvin Klein Cotton T-Shirt",
+    "color": "Green",
+    "discountedPrice": 750000,
+    "price": 900000,
+    "discountPersent": 16,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Soft and comfortable cotton T-shirt in black from Calvin Klein."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/912xMYLg4CL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81TlsRXpILL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71AT-burlgL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81R2MgRH-2L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/711eei-BtnL._AC_SX679_.jpg" }
+    ],
+    "brand": "Superdry",
+    "title": "Superdry Vintage T-Shirt",
+    "color": "Green",
+    "discountedPrice": 550000,
+    "price": 650000,
+    "discountPersent": 15,
+    "size": [
+      { "name": "M", "quantity": 23 },
+      { "name": "L", "quantity": 17 },
+      { "name": "XL", "quantity": 11 }
+    ],
+    "quantity": 51,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Vintage-inspired gray T-shirt from Superdry with bold graphics and a retro vibe."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81YtS62wlJL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71UPVP0GMmL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71QnPn19iuL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61jYkcAIBvL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71Q6KN2RMaL._AC_SX679_.jpg" }
+    ],
+    "brand": "Hollister",
+    "title": "Hollister Graphic Tee",
+    "color": "A-Grey",
+    "discountedPrice": 470000,
+    "price": 560000,
+    "discountPersent": 16,
+    "size": [
+      { "name": "M", "quantity": 26 },
+      { "name": "L", "quantity": 19 },
+      { "name": "XL", "quantity": 14 }
+    ],
+    "quantity": 59,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Light blue graphic tee from Hollister with a beach-inspired design."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51tdFc5IV+L._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/710fJbvfZqL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61uDGVdsmuL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61g0s888nTL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/712osaolwRL._AC_SY879_.jpg" }
+    ],
+    "brand": "Zara",
+    "title": "Zara Basic Printed T-Shirt",
+    "color": "White",
+    "discountedPrice": 350000,
+    "price": 420000,
+    "discountPersent": 16,
+    "size": [
+      { "name": "M", "quantity": 27 },
+      { "name": "L", "quantity": 22 },
+      { "name": "XL", "quantity": 13 }
+    ],
+    "quantity": 62,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Minimalist printed T-shirt from Zara in a neutral beige color, versatile for everyday wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71N24N34VzL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/615sCPFTuzL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61aB+D2lbzL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71t0UgtW6dL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61XiiDUxepL._AC_SX679_.jpg" }
+    ],
+    "brand": "Tommy Jeans",
+    "title": "Tommy Jeans Logo T-Shirt",
+    "color": "Blue",
+    "discountedPrice": 580000,
+    "price": 700000,
+    "discountPersent": 17,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 16 },
+      { "name": "XL", "quantity": 12 }
+    ],
+    "quantity": 48,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Classic red T-shirt from Tommy Jeans with their iconic logo printed on the chest."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61DdJac24cL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/51xJgrVxoQL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/514nSz26ZgL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61V7saCPPiL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71QZ7U70gNL._AC_SY879_.jpg" }
+    ],
+    "brand": "Gap",
+    "title": "Gap Essential T-Shirt",
+    "color": "Black",
+    "discountedPrice": 400000,
+    "price": 500000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 18 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 58,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Soft and comfortable essential T-shirt in light gray from Gap."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71Xi9fdcM1L._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/517YKuPVuxL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51EcyjII5UL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51ftXYY4qvL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71HGuGSQP1L._AC_SY879_.jpg" }
+    ],
+    "brand": "H&M",
+    "title": "H&M Slim Fit T-Shirt",
+    "color": "Chill",
+    "discountedPrice": 300000,
+    "price": 400000,
+    "discountPersent": 25,
+    "size": [
+      { "name": "M", "quantity": 28 },
+      { "name": "L", "quantity": 22 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 65,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Slim fit olive green T-shirt made from soft cotton for a fitted look."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71235G+XPjL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71IoMnOlRaL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71DPZeC2STL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71gOddBTgOL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71d-50MsdaL._AC_SY879_.jpg" }
+    ],
+    "brand": "Zara",
+    "title": "Zara Basic Crew Neck T-Shirt",
+    "color": "White Blue Red",
+    "discountedPrice": 350000,
+    "price": 420000,
+    "discountPersent": 16,
+    "size": [
+      { "name": "M", "quantity": 24 },
+      { "name": "L", "quantity": 18 },
+      { "name": "XL", "quantity": 12 }
+    ],
+    "quantity": 54,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Basic crew neck T-shirt in charcoal gray, perfect for layering or wearing alone."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51aPaivXlRL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/51Rm1WGh98L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51Rm1WGh98L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51Rm1WGh98L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51Rm1WGh98L._AC_SX679_.jpg" }
+    ],
+    "brand": "Polo Ralph Lauren",
+    "title": "Polo Ralph Lauren Classic Fit T-Shirt",
+    "color": "Black",
+    "discountedPrice": 950000,
+    "price": 1200000,
+    "discountPersent": 21,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 12 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 37,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Premium navy blue T-shirt from Polo Ralph Lauren with the signature embroidered pony logo."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51r5fQamsjL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61Qvfcn+HEL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61RfYqLKKTL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61BRzMJcUtL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81OTUu0a-tL._AC_SX679_.jpg" }
+    ],
+    "brand": "Jack & Jones",
+    "title": "Jack & Jones Basic Cotton T-Shirt",
+    "color": "White",
+    "discountedPrice": 400000,
+    "price": 500000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 16 },
+      { "name": "XL", "quantity": 12 }
+    ],
+    "quantity": 48,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "A soft and breathable basic cotton T-shirt in dark green, perfect for casual looks."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71Lu3wR025L._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71zg+DfcFML._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71BFTK1hOuL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/715PY9w1nML._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71ftClsSYBL._AC_SY879_.jpg" }
+    ],
+    "brand": "Tommy Hilfiger",
+    "title": "Tommy Hilfiger Essential T-Shirt",
+    "color": "Coffe",
+    "discountedPrice": 750000,
+    "price": 900000,
+    "discountPersent": 16,
+    "size": [
+      { "name": "M", "quantity": 22 },
+      { "name": "L", "quantity": 18 },
+      { "name": "XL", "quantity": 14 }
+    ],
+    "quantity": 54,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Essential white T-shirt from Tommy Hilfiger with the iconic logo embroidered on the chest."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71qXfLRW-YL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71QXsGEa+ML._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71HLb9GmYvL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71SEePn3CyL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81HRZPcpgeL._AC_SX679_.jpg" }
+    ],
+    "brand": "Levi's",
+    "title": "Levi's Graphic Logo T-Shirt",
+    "color": "Black",
+    "discountedPrice": 600000,
+    "price": 750000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 18 },
+      { "name": "XL", "quantity": 13 }
+    ],
+    "quantity": 56,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Classic black T-shirt featuring Levi's bold graphic logo for a timeless look."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/51nBcPH0gxL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61wWNxTn8FL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61ldW-YEo8L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61fDEL0hZhL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61Ysa1ooYRL._AC_SY879_.jpg" }
+    ],
+    "brand": "American Eagle",
+    "title": "American Eagle Soft Touch T-Shirt",
+    "color": "Blue",
+    "discountedPrice": 450000,
+    "price": 550000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 26 },
+      { "name": "L", "quantity": 20 },
+      { "name": "XL", "quantity": 15 }
+    ],
+    "quantity": 61,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "men_t-shirt",
+    "description": "Soft touch light gray T-shirt from American Eagle, providing a perfect balance of comfort and style."
+  }
+]

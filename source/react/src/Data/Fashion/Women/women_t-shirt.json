@@ -1,0 +1,382 @@
+[
+  {
+    "imageUrl": "https://int.kadriyebasturk.com/cdn/shop/files/basic-cotton-t-shirt-ecru-11910.jpg?v=1721825553",
+    "brand": "Zara",
+    "title": "Basic Cotton T-Shirt",
+    "color": "White",
+    "discountedPrice": 200000,
+    "price": 250000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Simple and classic cotton t-shirt for everyday wear."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCc7QMOMT66dVYBEDsjgOgGFANTonrTRHXg&s",
+    "brand": "H&M",
+    "title": "V-Neck T-Shirt",
+    "color": "Black",
+    "discountedPrice": 180000,
+    "price": 220000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "S", "quantity": 15 },
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Classic black V-neck t-shirt with a slim fit."
+  },
+  {
+    "imageUrl": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/424873/item/vngoods_31_424873_3x4.jpg?width=494",
+    "brand": "Uniqlo",
+    "title": "Crew Neck T-Shirt",
+    "color": "Gray",
+    "discountedPrice": 170000,
+    "price": 210000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Comfortable crew neck t-shirt, perfect for layering."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLA6r_3q3BekpLV0_J0A0dUpHQ1ZySK1SxA&s",
+    "brand": "Pull&Bear",
+    "title": "Graphic Print T-Shirt",
+    "color": "Pink",
+    "discountedPrice": 250000,
+    "price": 300000,
+    "discountPersent": 17,
+    "size": [
+      { "name": "S", "quantity": 25 },
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Trendy graphic print t-shirt with a relaxed fit."
+  },
+  {
+    "imageUrl": "https://www.xtees.com/uploads/products/images/primary/custom-printed-women-t-shirt-dress_1701178256.jpg",
+    "brand": "Levi's",
+    "title": "Logo Print T-Shirt",
+    "color": "Red",
+    "discountedPrice": 350000,
+    "price": 420000,
+    "discountPersent": 17,
+    "size": [
+      { "name": "S", "quantity": 10 },
+      { "name": "M", "quantity": 40 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Classic Levi's t-shirt with bold logo print."
+  },
+  {
+    "imageUrl": "https://shop.mango.com/assets/rcs/pics/static/T7/fotos/S/77034014_02.jpg?imwidth=2048&imdensity=1&ts=1720442695775",
+    "brand": "Massimo Dutti",
+    "title": "Striped T-Shirt",
+    "color": "White",
+    "discountedPrice": 320000,
+    "price": 400000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Navy and white striped t-shirt for a casual look."
+  },
+  {
+    "imageUrl": "https://www.xtees.com/uploads/products/images/primary/golden-yellow-plain-women-crop-tops_1611961298.jpg",
+    "brand": "Bershka",
+    "title": "Crop T-Shirt",
+    "color": "Yellow",
+    "discountedPrice": 180000,
+    "price": 220000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "S", "quantity": 15 },
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Trendy cropped t-shirt with a fun and flirty vibe."
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/ep-material/images/ldf/ldf-desktop/TF1605_YZP_20.webp",
+    "brand": "COS",
+    "title": "Relaxed Fit T-Shirt",
+    "color": "Green",
+    "discountedPrice": 270000,
+    "price": 330000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Beige relaxed fit t-shirt, ideal for everyday wear."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuc9MyJvVVqJPLezQFmohUa0QC1YoIac3Z3A&s",
+    "brand": "Stradivarius",
+    "title": "Tie-Dye T-Shirt",
+    "color": "Pastel Mix",
+    "discountedPrice": 290000,
+    "price": 370000,
+    "discountPersent": 22,
+    "size": [
+      { "name": "S", "quantity": 25 },
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Colorful tie-dye t-shirt for a retro look."
+  },
+  {
+    "imageUrl": "https://cutestuff.co.in/cdn/shop/products/strongwomenslaygirl.png?v=1679291531",
+    "brand": "& Other Stories",
+    "title": "Oversized T-Shirt",
+    "color": "Green",
+    "discountedPrice": 280000,
+    "price": 350000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Mint green oversized t-shirt for a relaxed style."
+  },
+  {
+    "imageUrl": "https://i5.walmartimages.com/seo/Hanes-Essentials-Women-s-T-Shirt-100-Cotton-Classic-Fit-Tee_ddf9b849-5859-4738-bd76-7718b6b97a1f.da7ffe3d31d2966a6dc9cc2607a3cddd.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+    "brand": "Gap",
+    "title": "Classic Fit T-Shirt",
+    "color": "Gray",
+    "discountedPrice": 220000,
+    "price": 280000,
+    "discountPersent": 21,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Soft gray t-shirt with a classic fit, suitable for all-day comfort."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNhJdKzDnXpZ5nAlPZcrBEwbwMYG4Cuk33w&s",
+    "brand": "Forever 21",
+    "title": "Ribbed Crop T-Shirt",
+    "color": "White",
+    "discountedPrice": 190000,
+    "price": 240000,
+    "discountPersent": 21,
+    "size": [
+      { "name": "S", "quantity": 15 },
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Trendy ribbed crop t-shirt in a soft lavender shade."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwFqJ1AJS_puQelHnP2XEd01VKegN3dZOhQ&s",
+    "brand": "Mango",
+    "title": "Pocket T-Shirt",
+    "color": "White",
+    "discountedPrice": 250000,
+    "price": 310000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "S", "quantity": 18 },
+      { "name": "M", "quantity": 32 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Olive green t-shirt with a stylish pocket detail."
+  },
+  {
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/e7a89a98-970b-4a6a-8857-e72aa7b16bf4/AS+W+NSW+TEE+ESSNTL+LBR.png",
+    "brand": "Nike",
+    "title": "Sportswear T-Shirt",
+    "color": "White",
+    "discountedPrice": 300000,
+    "price": 380000,
+    "discountPersent": 21,
+    "size": [
+      { "name": "S", "quantity": 10 },
+      { "name": "M", "quantity": 40 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Classic Nike sportswear t-shirt with a subtle logo design."
+  },
+  {
+    "imageUrl": "https://assets.adidas.com/images/w_600,f_auto,q_auto/cdcc44dcea1d443a88538528e22af60a_9366/Adicolor_Trefoil_Boxy_Tee_Green_IN8434_21_model.jpg",
+    "brand": "Adidas",
+    "title": "Trefoil Logo T-Shirt",
+    "color": "Green",
+    "discountedPrice": 340000,
+    "price": 420000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "S", "quantity": 12 },
+      { "name": "M", "quantity": 38 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Pink t-shirt featuring the iconic Adidas trefoil logo."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoOmycI_FAwxkaarN6oHu_02X30QJjEAO5Ew&s",
+    "brand": "New Look",
+    "title": "Floral Print T-Shirt",
+    "color": "White",
+    "discountedPrice": 210000,
+    "price": 270000,
+    "discountPersent": 22,
+    "size": [
+      { "name": "S", "quantity": 22 },
+      { "name": "M", "quantity": 28 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Light blue t-shirt with a delicate floral print design."
+  },
+  {
+    "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/679784/02/mod01/fnd/SEA/fmt/png/ESS+-ANIMAL-Women's-Graphic-Tee",
+    "brand": "Puma",
+    "title": "Graphic Tee",
+    "color": "White",
+    "discountedPrice": 260000,
+    "price": 320000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Charcoal graphic tee with a modern, minimalist design."
+  },
+  {
+    "imageUrl": "https://cdnp.sanmar.com/medias/sys_master/images/images/h6a/h21/10599294992414/10178-Lilac-1-DT7501LilacModelFront-1200W.jpg",
+    "brand": "Banana Republic",
+    "title": "Scoop Neck T-Shirt",
+    "color": "Pink",
+    "discountedPrice": 280000,
+    "price": 350000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "S", "quantity": 25 },
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Teal scoop neck t-shirt with a flattering fit."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9pMcIeGI31q-7xu37xYZxFDpKJVY-rBLCmw&s",
+    "brand": "Urban Outfitters",
+    "title": "Vintage Graphic T-Shirt",
+    "color": "Red",
+    "discountedPrice": 300000,
+    "price": 370000,
+    "discountPersent": 19,
+    "size": [
+      { "name": "S", "quantity": 15 },
+      { "name": "M", "quantity": 35 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Vintage-inspired graphic t-shirt in a unique burnt orange shade."
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZAM2GrOliKOxZxYS4EPsNcg-TYBXL5FepA&s",
+    "brand": "ASOS",
+    "title": "Boxy Fit T-Shirt",
+    "color": "Black",
+    "discountedPrice": 240000,
+    "price": 300000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "S", "quantity": 20 },
+      { "name": "M", "quantity": 30 },
+      { "name": "L", "quantity": 50 }
+    ],
+    "quantity": 100,
+    "topLavelCategory": "Fashion",
+    "secondLavelCategory": "Women",
+    "thirdLavelCategory": "women_t-shirt",
+    "description": "Olive green boxy fit t-shirt for a relaxed silhouette."
+  }
+]

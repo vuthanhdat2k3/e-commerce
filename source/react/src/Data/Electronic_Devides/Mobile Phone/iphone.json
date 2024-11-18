@@ -1,0 +1,314 @@
+[
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-15-pro-max_3.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-15-pro-max_4__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-15-pro-max_5__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-15-pro-max_6__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-15-pro-max_7__1.jpg" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone 15 Pro Max",
+        "color": "Gray",
+        "discountedPrice": 42000000,
+        "price": 49000000,
+        "discountPersent": 14,
+        "size": [
+            { "name": "256GB", "quantity": 50 },
+            { "name": "512GB", "quantity": 30 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Latest flagship iPhone with A17 Pro chip and 120Hz display."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-15-plus_1__1.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/v/n/vn_iphone_15_pink_pdp_image_position-2_design_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/v/n/vn_iphone_15_pink_pdp_image_position-3_design_detail_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/v/n/vn1b93_1_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/v/n/vn_iphone_15_pink_pdp_image_position-5_colors_2.jpg" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone 15",
+        "color": "Gray",
+        "discountedPrice": 30000000,
+        "price": 35000000,
+        "discountPersent": 14,
+        "size": [
+            { "name": "128GB", "quantity": 60 },
+            { "name": "256GB", "quantity": 40 }
+        ],
+        "quantity": 100,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Lightweight and sleek iPhone with stunning performance."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/_/b_c_1_9.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/_/x_m_24.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/v/_/v_ng_18.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-14-pro_2__5.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/5/2522.png" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone 14 Pro Max",
+        "color": "Purple",
+        "discountedPrice": 36000000,
+        "price": 42000000,
+        "discountPersent": 15,
+        "size": [
+            { "name": "256GB", "quantity": 40 },
+            { "name": "1TB", "quantity": 20 }
+        ],
+        "quantity": 60,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "High-end iPhone with superior camera and ProMotion display."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/h/photo_2022-09-28_21-58-51.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-14-128gb-2.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-chip-slider_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-14-128gb-7.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_14_128gb_-_4.png" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone 14",
+        "color": "Blue",
+        "discountedPrice": 25000000,
+        "price": 30000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "128GB", "quantity": 50 },
+            { "name": "256GB", "quantity": 30 }
+        ],
+        "quantity": 80,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Affordable iPhone with powerful A15 Bionic chip."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/_/1_359_1.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2_337_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/3/_/3_306_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_se_2022.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/c/lcimg-beede483-355b-48bb-b07a-51285393a10311.jpg" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone SE (3rd Gen)",
+        "color": "Black",
+        "discountedPrice": 15000000,
+        "price": 18000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "64GB", "quantity": 70 },
+            { "name": "128GB", "quantity": 50 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Compact iPhone with A15 Bionic chip and classic design."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/3/13_4_7_2_4.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/1/11_3_12_2_1_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/5/15_2_7_2_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/2/12_3_8_2_5.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/4/14_1_9_2_6.jpg" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone 13 Mini",
+        "color": "Red",
+        "discountedPrice": 20000000,
+        "price": 24000000,
+        "discountPersent": 16,
+        "size": [
+            { "name": "128GB", "quantity": 80 },
+            { "name": "256GB", "quantity": 40 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Compact and powerful iPhone with great battery life."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/_/1_66_6_2_4.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_36_3_2_5.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/3/_/3_51_1_2_6.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2_61_8_2_5.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/0/600_iphone-13-pro-256gb-xanh-la_5_1.jpg" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone 13 Pro",
+        "color": "Beige",
+        "discountedPrice": 32000000,
+        "price": 38000000,
+        "discountPersent": 16,
+        "size": [
+            { "name": "128GB", "quantity": 60 },
+            { "name": "256GB", "quantity": 30 }
+        ],
+        "quantity": 90,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Pro-grade iPhone with exceptional camera and performance."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_185_2.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/_/1_251_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2_240_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/3/_/3_223_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone12_3_1.jpg" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone 12 Pro Max",
+        "color": "Gray",
+        "discountedPrice": 28000000,
+        "price": 33000000,
+        "discountPersent": 15,
+        "size": [
+            { "name": "128GB", "quantity": 70 },
+            { "name": "512GB", "quantity": 20 }
+        ],
+        "quantity": 90,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Large screen iPhone with durable Ceramic Shield."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-12-mini-green-select-2020_3_1_2_3_1.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-12-den-new-600x600-200x200-1_14.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-12-mini-mau-tim-3-600x600_13.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/ip12-2_13.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-12-xanh-duong-new-600x600-200x200-1_17.jpg" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone 12 Mini",
+        "color": "Green",
+        "discountedPrice": 18000000,
+        "price": 21000000,
+        "discountPersent": 14,
+        "size": [
+            { "name": "64GB", "quantity": 100 },
+            { "name": "128GB", "quantity": 50 }
+        ],
+        "quantity": 150,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Pocket-friendly iPhone with bright Super Retina XDR display."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_xr_blue-back_09122018_carousel.jpg.large_6_1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_xr_black-back_09122018_carousel.jpg.large_5_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_xr_64gb_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_xr_coral-back_09122018_carousel.jpg.large_6_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_xr_white-back_09122018_carousel.jpg.large_1__4.jpg" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone XR",
+        "color": "Yellow",
+        "discountedPrice": 14000000,
+        "price": 17000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "64GB", "quantity": 120 },
+            { "name": "128GB", "quantity": 80 }
+        ],
+        "quantity": 200,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Colorful iPhone with Liquid Retina HD display."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-11-pro-max-gold-select-2019_1_1_3_2_6.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-11-pro-max-gold-select-2019_1_1_3_2_6.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-11-pro-max-space-select-2019_1_1_3_2_6.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-11-pro-max-silver-select-2019_1_1_3_2_7.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-11-pro-max-midnight-green-select-2019_1_1_3_2_6.png" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone 11 Pro Max",
+        "color": "Gray",
+        "discountedPrice": 24000000,
+        "price": 29000000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "64GB", "quantity": 50 },
+            { "name": "256GB", "quantity": 40 }
+        ],
+        "quantity": 90,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Powerful iPhone with triple-camera system and long battery life."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-11.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2_242.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/6/_/6_130.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_187.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/_/1_253.jpg" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone 11",
+        "color": "White",
+        "discountedPrice": 18000000,
+        "price": 22000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "64GB", "quantity": 70 },
+            { "name": "128GB", "quantity": 50 }
+        ],
+        "quantity": 120,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Stylish iPhone with A13 Bionic chip and dual-camera system."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/s/dscf0274_13_3_1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_xs_max_64gb_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_xs_max_256gb_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_xs_max_512gb_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/s/dscf2429_13_3_1.jpg" }
+        ],
+        "brand": "iPhone",
+        "title": "iPhone XS Max",
+        "color": "White",
+        "discountedPrice": 20000000,
+        "price": 25000000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "64GB", "quantity": 40 },
+            { "name": "256GB", "quantity": 30 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Iphone",
+        "description": "Premium iPhone with edge-to-edge OLED display."
+    }
+]

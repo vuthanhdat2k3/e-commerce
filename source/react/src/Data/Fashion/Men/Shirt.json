@@ -1,0 +1,502 @@
+[
+  {
+    "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473532/item/goods_00_473532_3x4.jpg?width=369",
+    "images": [
+      { "src": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/473532/sub/vngoods_473532_sub23_3x4.jpg?width=369" },
+      { "src": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/473532/sub/vngoods_473532_sub24_3x4.jpg?width=369" },
+      { "src": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/473532/sub/vngoods_473532_sub25_3x4.jpg?width=369" },
+      { "src": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/473532/sub/vngoods_473532_sub26_3x4.jpg?width=369" }
+    ],
+    "brand": "Uniqlo",
+    "title": "Super Non Iron Slim Fit Shirt | Jersey",
+    "color": "White",
+    "discountedPrice": 499000,
+    "price": 699000,
+    "discountPersent": 29,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A lightweight linen shirt, perfect for summer outings."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71Slr1B5jYL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71VeOBEMDXL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71xvtmEFfBL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71sASUYI+aL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71gcshbFqmL._AC_SY879_.jpg" }
+    ],
+    "brand": "Zara",
+    "title": "Classic Denim Shirt",
+    "color": "Ligh Grey",
+    "discountedPrice": 899000,
+    "price": 1099000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 12 },
+      { "name": "L", "quantity": 8 },
+      { "name": "XL", "quantity": 5 }
+    ],
+    "quantity": 25,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A sturdy denim shirt with a rugged style, ideal for active men."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/9129ynRG6WL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61oZ5a-KLtL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61oZ5a-KLtL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91SU2wpBhEL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91SU2wpBhEL._AC_SY879_.jpg" }
+    ],
+    "brand": "H&M",
+    "title": "Plaid Flannel Shirt",
+    "color": "Red White",
+    "discountedPrice": 349000,
+    "price": 499000,
+    "discountPersent": 30,
+    "size": [
+      { "name": "M", "quantity": 18 },
+      { "name": "L", "quantity": 14 },
+      { "name": "XL", "quantity": 8 }
+    ],
+    "quantity": 40,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A cozy flannel shirt with a classic plaid design, great for autumn and winter."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71WUa1uaCkL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71paHBaUOjL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71dEibY7tXL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71ea8g4cZ6L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71JDaoCr7-L._AC_SY879_.jpg" }
+    ],
+    "brand": "Levi's",
+    "title": "Cotton Long Sleeve Shirt",
+    "color": "Wine Res",
+    "discountedPrice": 799000,
+    "price": 999000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 10 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 5 }
+    ],
+    "quantity": 25,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A simple yet stylish cotton shirt that pairs well with any outfit."
+  },
+  {
+    "imageUrl": "https://i.etsystatic.com/8014658/r/il/4052fd/4243088127/il_1588xN.4243088127_csl8.jpg",
+    "images": [
+      { "src": "https://i.etsystatic.com/8014658/r/il/bcca77/4243080349/il_1588xN.4243080349_nefu.jpg" },
+      { "src": "https://i.etsystatic.com/8014658/r/il/ffbc0b/4195419814/il_1588xN.4195419814_o5g8.jpg" },
+      { "src": "https://i.etsystatic.com/8014658/r/il/4d9bd7/4195420060/il_1588xN.4195420060_b91s.jpg" },
+      { "src": "https://i.etsystatic.com/8014658/r/il/4d9bd7/4195420060/il_1588xN.4195420060_b91s.jpg" }
+    ],
+    "brand": "Massimo Dutti",
+    "title": "Floral Print Shirt",
+    "color": "Pink",
+    "discountedPrice": 1199000,
+    "price": 1599000,
+    "discountPersent": 25,
+    "size": [
+      { "name": "M", "quantity": 5 },
+      { "name": "L", "quantity": 7 },
+      { "name": "XL", "quantity": 3 }
+    ],
+    "quantity": 15,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A premium-quality shirt with unique floral prints for a sophisticated look."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/7104SjbR1WL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81dgNwalABL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61tGUcVQrdL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/611IPi4J8HL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71KVoZvfckL._AC_SX679_.jpg" }
+    ],
+    "brand": "Topman",
+    "title": "Casual Short Sleeve Shirt",
+    "color": "White",
+    "discountedPrice": 499000,
+    "price": 649000,
+    "discountPersent": 23,
+    "size": [
+      { "name": "M", "quantity": 25 },
+      { "name": "L", "quantity": 18 },
+      { "name": "XL", "quantity": 12 }
+    ],
+    "quantity": 55,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A breathable short-sleeve shirt, perfect for casual summer wear."
+  },
+  {
+    "imageUrl": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1177322_alternate10?$rl_4x5_pdp$",
+    "images": [
+      { "src": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1177322_alternate5?$rl_4x5_zoom$" },
+      { "src": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1177322_alternate4?$rl_4x5_zoom$" },
+      { "src": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1177322_alternate3?$rl_4x5_zoom$" },
+      { "src": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1177322_alternate1?$rl_4x5_zoom$" }
+    ],
+    "brand": "Gap",
+    "title": "Slim Fit Oxford Shirt",
+    "color": "Pink",
+    "discountedPrice": 899000,
+    "price": 1199000,
+    "discountPersent": 25,
+    "size": [
+      { "name": "M", "quantity": 15 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 5 }
+    ],
+    "quantity": 30,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A versatile slim-fit Oxford shirt suitable for both office and casual wear."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81s47bEHJKL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71ABEh7joWL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71ABEh7joWL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81gTxVzBapL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71Hzkl6DH+L._AC_SY879_.jpg" }
+    ],
+    "brand": "Tommy Hilfiger",
+    "title": "Red Kap Men's Industrial Work Shirt",
+    "color": "Black",
+    "discountedPrice": 1399000,
+    "price": 1799000,
+    "discountPersent": 22,
+    "size": [
+      { "name": "M", "quantity": 10 },
+      { "name": "L", "quantity": 8 },
+      { "name": "XL", "quantity": 7 }
+    ],
+    "quantity": 25,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "An elegant striped cotton shirt with premium stitching for formal occasions."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61m62OzjWEL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71NEn+MJ-XL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51jxg4iRJ5L._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61p1BtlrtSL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61p1BtlrtSL._AC_SX679_.jpg" }
+    ],
+    "brand": "Hugo Boss",
+    "title": "Business Wedding Button Down Shirts",
+    "color": "white",
+    "discountedPrice": 2499000,
+    "price": 2999000,
+    "discountPersent": 17,
+    "size": [
+      { "name": "M", "quantity": 5 },
+      { "name": "L", "quantity": 4 },
+      { "name": "XL", "quantity": 3 }
+    ],
+    "quantity": 12,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A sleek tailored shirt crafted for a sophisticated modern look."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71SBFcsVBgL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/715HONwMQnL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81cGaGIcKaL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71eGSRaYpZL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/919WXQM90FL._AC_SY879_.jpg" }
+    ],
+    "brand": "Ralph Lauren",
+    "title": "LETSEE Mens Casual Button Down Shirt",
+    "color": "Dark Grey",
+    "discountedPrice": 2199000,
+    "price": 2699000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 8 },
+      { "name": "L", "quantity": 6 },
+      { "name": "XL", "quantity": 4 }
+    ],
+    "quantity": 18,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A timeless Polo shirt with a soft pastel finish, exuding charm and sophistication."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61r8plTB5zL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/615reJzvbCL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61SVCozpUEL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51HQWp-kYTL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/51z2HBb9z9L._AC_SX679_.jpg" }
+    ],
+    "brand": "Calvin Klein",
+    "title": "Mens Slim Fit Long Sleeve Dress Shirts",
+    "color": "White",
+    "discountedPrice": 1599000,
+    "price": 2099000,
+    "discountPersent": 24,
+    "size": [
+      { "name": "M", "quantity": 10 },
+      { "name": "L", "quantity": 8 },
+      { "name": "XL", "quantity": 6 }
+    ],
+    "quantity": 24,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A high-performance shirt designed for both style and functionality."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/61N1PICdRcL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/61vKAp2eXPL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81xJPwkcfCL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81FN72BocTL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71s7ylclwIL._AC_SX679_.jpg" }
+    ],
+    "brand": "Banana Republic",
+    "title": "Silk Blend Shirt",
+    "color": "Black",
+    "discountedPrice": 1899000,
+    "price": 2399000,
+    "discountPersent": 21,
+    "size": [
+      { "name": "M", "quantity": 7 },
+      { "name": "L", "quantity": 5 },
+      { "name": "XL", "quantity": 3 }
+    ],
+    "quantity": 15,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A luxurious silk blend shirt with a soft and breathable texture."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/91yuQ3m+cvL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/91oVJC4DNiL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81sCMm2QpQL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/9149phA07hL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81ShnPT7vmL._AC_SX679_.jpg" }
+    ],
+    "brand": "Express",
+    "title": "Long Sleeve Plaid Button Down Casual Shirt",
+    "color": "Cedarwood Plaid",
+    "discountedPrice": 899000,
+    "price": 1299000,
+    "discountPersent": 31,
+    "size": [
+      { "name": "M", "quantity": 12 },
+      { "name": "L", "quantity": 9 },
+      { "name": "XL", "quantity": 6 }
+    ],
+    "quantity": 27,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A sharp fitted dress shirt with a tailored cut for a modern appearance."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/91xszuIZ7kL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/91wiYGj1+GL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91BrVmvkOoL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71FcBboffgL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61+vUvAaIJL._AC_SX679_.jpg" }
+    ],
+    "brand": "Armani Exchange",
+    "title": "Textured Slim Shirt",
+    "color": "Olive Beige Brown",
+    "discountedPrice": 2799000,
+    "price": 3499000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 6 },
+      { "name": "L", "quantity": 5 },
+      { "name": "XL", "quantity": 4 }
+    ],
+    "quantity": 15,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A stylish slim-fit shirt with a unique textured fabric for a premium feel."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81ygt5a2XhL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71R+UqoNkfL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81i4NvdaKIL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71FhmHCBtAL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91ZOszXYWKL._AC_SY879_.jpg" }
+    ],
+    "brand": "Diesel",
+    "title": "Ripped Casual Shirt",
+    "color": "Solid Hunter Green",
+    "discountedPrice": 1599000,
+    "price": 1999000,
+    "discountPersent": 20,
+    "size": [
+      { "name": "M", "quantity": 12 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 8 }
+    ],
+    "quantity": 30,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A distressed casual shirt with a modern, edgy style, perfect for street fashion."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81r2AjxisiL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81mPbsXimTL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/815TLDxbX8L._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71aCy9+tTTL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81oKtG7l8IL._AC_SY879_.jpg" }
+    ],
+    "brand": "Diesel",
+    "title": "Classic Plaid Shirt",
+    "color": "Coffee",
+    "discountedPrice": 1199000,
+    "price": 1599000,
+    "discountPersent": 25,
+    "size": [
+      { "name": "M", "quantity": 14 },
+      { "name": "L", "quantity": 10 },
+      { "name": "XL", "quantity": 7 }
+    ],
+    "quantity": 31,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A classic plaid shirt that adds a pop of color to any wardrobe."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/816fhPoCRyS._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81XB7H9X+AS._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81NkFSWlZrS._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71a7sXi+9BS._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/61uDSNpArYS._AC_SX679_.jpg" }
+    ],
+    "brand": "Tommy Bahama",
+    "title": "Tropical Print Shirt",
+    "color": "Washed Black",
+    "discountedPrice": 1299000,
+    "price": 1699000,
+    "discountPersent": 24,
+    "size": [
+      { "name": "M", "quantity": 11 },
+      { "name": "L", "quantity": 9 },
+      { "name": "XL", "quantity": 6 }
+    ],
+    "quantity": 26,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A relaxed tropical print shirt, perfect for beach parties or summer vacations."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/81ygt5a2XhL._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71R+UqoNkfL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81i4NvdaKIL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71FhmHCBtAL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71FhmHCBtAL._AC_SY879_.jpg" }
+    ],
+    "brand": "Mango",
+    "title": "Button-Up Shirt",
+    "color": "Dark Green",
+    "discountedPrice": 849000,
+    "price": 1199000,
+    "discountPersent": 29,
+    "size": [
+      { "name": "M", "quantity": 20 },
+      { "name": "L", "quantity": 15 },
+      { "name": "XL", "quantity": 10 }
+    ],
+    "quantity": 45,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A versatile button-up shirt with a dark green finish, perfect for casual or semi-formal events."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/819x8fdol2L._AC_SX679_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/81qACnJNspL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/91VOfw4L7tL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81-XsKdVJeL._AC_SX679_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/31Qr4g6bQJL._AC_.jpg" }
+    ],
+    "brand": "J.Crew",
+    "title": "Chino Shirt",
+    "color": "Purpule",
+    "discountedPrice": 999000,
+    "price": 1299000,
+    "discountPersent": 23,
+    "size": [
+      { "name": "M", "quantity": 8 },
+      { "name": "L", "quantity": 7 },
+      { "name": "XL", "quantity": 5 }
+    ],
+    "quantity": 20,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A chino shirt with a relaxed fit, ideal for both casual and semi-formal looks."
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/I/71VL7Zx56BL._AC_SY879_.jpg",
+    "images": [
+      { "src": "https://m.media-amazon.com/images/I/71nd2+4qXpL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/81CV4YP82aL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71jsBJKxquL._AC_SY879_.jpg" },
+      { "src": "https://m.media-amazon.com/images/I/71HQqBedIqL._AC_SY879_.jpg" }
+    ],
+    "brand": "Polo Ralph Lauren",
+    "title": "Tartan Plaid Shirt",
+    "color": "White",
+    "discountedPrice": 1799000,
+    "price": 2199000,
+    "discountPersent": 18,
+    "size": [
+      { "name": "M", "quantity": 6 },
+      { "name": "L", "quantity": 5 },
+      { "name": "XL", "quantity": 4 }
+    ],
+    "quantity": 15,
+    "topLavelCategory": "fashion",
+    "secondLavelCategory": "men",
+    "thirdLavelCategory": "shirt",
+    "description": "A premium tartan plaid shirt for a stylish, classic appearance."
+  }
+]

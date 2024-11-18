@@ -1,0 +1,313 @@
+[
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a54-4g-black-600x600_2_2.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a54-4g-blue-200x200_2_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a54-12_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a54-14_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a54-15_1_1.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo A54",
+        "color": "Black",
+        "discountedPrice": 4700000,
+        "price": 5900000,
+        "discountPersent": 20,
+        "size": [
+            { "name": "64GB", "quantity": 150 },
+            { "name": "128GB", "quantity": 100 }
+        ],
+        "quantity": 250,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Affordable smartphone with a large 5000mAh battery and 13MP camera."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno-6.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/e/reno6_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/e/reno6--23.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/e/reno6-24.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno6-600x600.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo Reno6",
+        "color": "Blue",
+        "discountedPrice": 11500000,
+        "price": 13900000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "128GB", "quantity": 80 },
+            { "name": "256GB", "quantity": 60 }
+        ],
+        "quantity": 140,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Premium phone with 64MP AI camera and AMOLED display."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f19-pro.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f19-pro.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f19-pro.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f19-pro.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f19-pro.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo F19 Pro",
+        "color": "White",
+        "discountedPrice": 8500000,
+        "price": 10500000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "128GB", "quantity": 120 },
+            { "name": "256GB", "quantity": 80 }
+        ],
+        "quantity": 200,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Stylish smartphone with MediaTek Dimensity 800U processor and 48MP quad-camera."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/y/xy3vibvf60ujroha_1_1_1_1_1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/c/o/combo_a95_-_en_-_cmyk_2_2_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/8/h/8hvmtoulnfxtlff6_1_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/y/n/ynphrszbacbhdamp_1_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/a/3/a3q7sovrw9rbupiw_1_1_1.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo A95",
+        "color": "Purple",
+        "discountedPrice": 7000000,
+        "price": 8500000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "128GB", "quantity": 140 },
+            { "name": "256GB", "quantity": 110 }
+        ],
+        "quantity": 250,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Smartphone with 5000mAh battery, AMOLED screen, and 48MP camera."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno-5_2__1_1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno-5_1__1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno-5_3_.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno5-11.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno5-bac-3-org.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo Reno5 Pro",
+        "color": "Black",
+        "discountedPrice": 13000000,
+        "price": 16000000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "128GB", "quantity": 90 },
+            { "name": "256GB", "quantity": 70 }
+        ],
+        "quantity": 160,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Sleek and powerful with 65W SuperVOOC charging and 64MP quad-camera."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a74_6__1.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a74_7__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a74_8__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a74_9__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a74-black-10-200x200.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo A74 5G",
+        "color": "Blue",
+        "discountedPrice": 8000000,
+        "price": 9800000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "128GB", "quantity": 110 },
+            { "name": "256GB", "quantity": 80 }
+        ],
+        "quantity": 190,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "5G phone with Snapdragon 480 chipset and 48MP camera."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-find-x3-pro-5g-1_2.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-find-x3-pro-5g-2_2.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-find-x3-pro_1_1.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-find-x3-pro_5__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-find-x3-pro_2__1.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo Find X3 Pro",
+        "color": "Black",
+        "discountedPrice": 22000000,
+        "price": 27000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "256GB", "quantity": 70 }
+        ],
+        "quantity": 70,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Flagship phone with Snapdragon 888, 50MP camera, and 65W fast charging."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f17-pro.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f17-pro.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f17-pro.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f17-pro.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f17-pro.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo F17 Pro",
+        "color": "Blue",
+        "discountedPrice": 9000000,
+        "price": 11000000,
+        "discountPersent": 18,
+        "size": [
+            { "name": "128GB", "quantity": 100 },
+            { "name": "256GB", "quantity": 60 }
+        ],
+        "quantity": 160,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Stylish mid-range phone with dual selfie cameras and 48MP quad-camera."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a74-black-10-200x200.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a74_9__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a74_9__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a74_9__1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a74_9__1.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo A74",
+        "color": "Black",
+        "discountedPrice": 8500000,
+        "price": 10500000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "128GB", "quantity": 130 },
+            { "name": "256GB", "quantity": 90 }
+        ],
+        "quantity": 220,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Smartphone with 48MP quad-camera, 5000mAh battery, and Snapdragon 662."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a15s-2_2.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a15s-1_3.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a15s-1_4.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a15s-5.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a15s-2_3.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo A15s",
+        "color": "Blue",
+        "discountedPrice": 4500000,
+        "price": 5600000,
+        "discountPersent": 19,
+        "size": [
+            { "name": "64GB", "quantity": 140 },
+            { "name": "128GB", "quantity": 100 }
+        ],
+        "quantity": 240,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Budget phone with 13MP triple camera and 4230mAh battery."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f19.jpg",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f19.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f19.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f19.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-f19.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo F19",
+        "color": "Purple",
+        "discountedPrice": 9500000,
+        "price": 11500000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "128GB", "quantity": 110 },
+            { "name": "256GB", "quantity": 90 }
+        ],
+        "quantity": 200,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Mid-range phone with 48MP camera and 30W VOOC Flash Charging."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/c/o/combo_-_a93-white_2.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/c/o/combo_-_a93-black_2.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a93-11.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a93-14.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a93-15.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo A93",
+        "color": "White",
+        "discountedPrice": 8900000,
+        "price": 10800000,
+        "discountPersent": 17,
+        "size": [
+            { "name": "128GB", "quantity": 100 },
+            { "name": "256GB", "quantity": 70 }
+        ],
+        "quantity": 170,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Lightweight phone with dual front cameras and 48MP rear camera."
+    },
+    {
+        "imageUrl": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a31-den_2.png",
+        "images": [
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo_a31__0004_layer_3_1_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-a31-trang_2.png" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo_a31__0005_layer_2_1_1_1.jpg" },
+            { "src": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo_a31__0001_layer_6_1_1_1.jpg" }
+        ],
+        "brand": "Oppo",
+        "title": "Oppo A31",
+        "color": "Lake Green",
+        "discountedPrice": 5000000,
+        "price": 6300000,
+        "discountPersent": 21,
+        "size": [
+            { "name": "64GB", "quantity": 150 },
+            { "name": "128GB", "quantity": 120 }
+        ],
+        "quantity": 270,
+        "topLavelCategory": "Electronic Devices",
+        "secondLavelCategory": "Mobile Phone",
+        "thirdLavelCategory": "Oppo",
+        "description": "Affordable phone with 12MP triple camera and 4230mAh battery."
+    }
+]
