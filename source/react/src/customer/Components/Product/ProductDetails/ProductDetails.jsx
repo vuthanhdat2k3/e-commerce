@@ -51,7 +51,9 @@ export default function ProductDetails() {
   const currentRating = reviews?.length
     ? reviews.reduce((sum, review) => sum + review.rating, 0) / reviews.length
     : 0;
-  // console.log('reviews', reviews);
+  const positiveReviews = customersProduct?.product?.reviews?.filter((review) => review.sentiment === "POSITIVE")
+  const negativeReviews = customersProduct?.product?.reviews?.filter((review) => review.sentiment === "NEGATIVE")
+  // console.log('positive', positiveReviews);
 
   const handleSetActiveImage = (image) => {
     setActiveImage(image);
@@ -379,17 +381,17 @@ export default function ProductDetails() {
                 </div>
               </Grid>
 
-              {/* <Grid item xs={5}>
+              <Grid item xs={5}>
                 <h1 className="text-xl font-semibold pb-1">Product Ratings</h1>
                 <div className="flex items-center space-x-3 pb-10">
                   <Rating
                     name="read-only"
-                    value={4.6}
-                    precision={0.5}
+                    value={currentRating}
+                    precision={0.1}
                     readOnly
                   />
 
-                  <p className="opacity-60">42807 Ratings</p>
+                  <p className="opacity-60">{reviews?.length} Ratings</p>
                 </div>
                 <Box>
                   <Grid
@@ -399,23 +401,23 @@ export default function ProductDetails() {
                     gap={2}
                   >
                     <Grid xs={2}>
-                      <p className="p-0">Excellent</p>
+                      <p className="p-0">Positive</p>
                     </Grid>
                     <Grid xs={7}>
                       <LinearProgress
                         className=""
                         sx={{ bgcolor: "#d0d0d0", borderRadius: 4, height: 7 }}
                         variant="determinate"
-                        value={40}
+                        value={positiveReviews?.length / reviews?.length * 100 || 0}
                         color="success"
                       />
                     </Grid>
                     <Grid xs={2}>
-                      <p className="opacity-50 p-2">19259</p>
+                      <p className="opacity-50 p-2">{positiveReviews?.length}</p>
                     </Grid>
                   </Grid>
                 </Box>
-                <Box>
+                {/* <Box>
                   <Grid
                     container
                     justifyContent="center"
@@ -493,7 +495,7 @@ export default function ProductDetails() {
                       <p className="opacity-50 p-2">19259</p>
                     </Grid>
                   </Grid>
-                </Box>
+                </Box> */}
                 <Box>
                   <Grid
                     container
@@ -502,23 +504,23 @@ export default function ProductDetails() {
                     gap={2}
                   >
                     <Grid xs={2}>
-                      <p className="p-0">Poor</p>
+                      <p className="p-0">Negative</p>
                     </Grid>
                     <Grid xs={7}>
                       <LinearProgress
                         className=""
                         sx={{ bgcolor: "#d0d0d0", borderRadius: 4, height: 7 }}
                         variant="determinate"
-                        value={10}
+                        value={negativeReviews?.length / reviews?.length * 100 || 0}
                         color="error"
                       />
                     </Grid>
                     <Grid xs={2}>
-                      <p className="opacity-50 p-2">19259</p>
+                      <p className="opacity-50 p-2">{negativeReviews?.length}</p>
                     </Grid>
                   </Grid>
                 </Box>
-              </Grid> */}
+              </Grid>
             </Grid>
           </div>
         </section>

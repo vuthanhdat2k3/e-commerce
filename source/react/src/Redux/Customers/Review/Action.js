@@ -25,6 +25,7 @@ export const createReview = (resData) => {
         payload: response.data
       });
       console.log("create review ",response.data)
+      window.location.href = `/product/${resData.productId}`;
     } catch (error) {
       dispatch({
         type: CREATE_REVIEW_FAILURE,

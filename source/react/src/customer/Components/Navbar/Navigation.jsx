@@ -84,6 +84,7 @@ export default function Navigation() {
       {/* Mobile menu */}
       <Transition.Root show={open} as={Fragment}>
         <Dialog as="div" className="relative z-40 lg:hidden" onClose={setOpen}>
+          {/* Background Overlay */}
           <Transition.Child
             as={Fragment}
             enter="transition-opacity ease-linear duration-300"
@@ -96,6 +97,7 @@ export default function Navigation() {
             <div className="fixed inset-0 bg-black bg-opacity-25" />
           </Transition.Child>
 
+          {/* Sidebar */}
           <div className="fixed inset-0 z-40 flex">
             <Transition.Child
               as={Fragment}
@@ -107,6 +109,7 @@ export default function Navigation() {
               leaveTo="-translate-x-full"
             >
               <Dialog.Panel className="relative flex w-full max-w-xs flex-col overflow-y-auto bg-white pb-12 shadow-xl">
+                {/* Close Button */}
                 <div className="flex px-4 pb-2 pt-5">
                   <button
                     type="button"
@@ -118,7 +121,7 @@ export default function Navigation() {
                   </button>
                 </div>
 
-                {/* Links */}
+                {/* Category Tabs */}
                 <Tab.Group as="div" className="mt-2">
                   <div className="border-b border-gray-200">
                     <Tab.List className="-mb-px flex space-x-8 px-4">
@@ -130,7 +133,7 @@ export default function Navigation() {
                               selected
                                 ? "border-indigo-600 text-indigo-600"
                                 : "border-transparent text-gray-900",
-                              "flex-1 whitespace-nowrap border-b-2 px-1 py-4 text-base font-medium border-none"
+                              "flex-1 whitespace-nowrap border-b-2 px-1 py-4 text-base font-medium"
                             )
                           }
                         >
@@ -145,6 +148,7 @@ export default function Navigation() {
                         key={category.name}
                         className="space-y-10 px-4 pb-8 pt-10"
                       >
+                        {/* Featured Items */}
                         <div className="grid grid-cols-2 gap-x-4">
                           {category.featured.map((item) => (
                             <div
@@ -162,10 +166,6 @@ export default function Navigation() {
                                 href={item.href}
                                 className="mt-6 block font-medium text-gray-900"
                               >
-                                <span
-                                  className="absolute inset-0 z-10"
-                                  aria-hidden="true"
-                                />
                                 {item.name}
                               </a>
                               <p aria-hidden="true" className="mt-1">
@@ -174,6 +174,7 @@ export default function Navigation() {
                             </div>
                           ))}
                         </div>
+                        {/* Sections */}
                         {category.sections.map((section) => (
                           <div key={section.name}>
                             <p
@@ -182,7 +183,6 @@ export default function Navigation() {
                             >
                               {section.name}
                             </p>
-                            {/* eslint-disable-next-line jsx-a11y/no-redundant-roles */}
                             <ul
                               role="list"
                               aria-labelledby={`${category.id}-${section.id}-heading-mobile`}
@@ -190,9 +190,12 @@ export default function Navigation() {
                             >
                               {section.items.map((item) => (
                                 <li key={item.name} className="flow-root">
-                                  <p className="-m-2 block p-2 text-gray-500">
-                                    {"item.name"}
-                                  </p>
+                                  <a
+                                    href={item.href}
+                                    className="-m-2 block p-2 text-gray-500"
+                                  >
+                                    {item.name}
+                                  </a>
                                 </li>
                               ))}
                             </ul>
@@ -203,23 +206,11 @@ export default function Navigation() {
                   </Tab.Panels>
                 </Tab.Group>
 
-                {/* <div className="space-y-6 border-t border-gray-200 px-4 py-6">
-                  {navigation.pages.map((page) => (
-                    <div key={page.name} className="flow-root">
-                      <a
-                        href={page.href}
-                        className="-m-2 block p-2 font-medium text-gray-900"
-                      >
-                        {page.name}
-                      </a>
-                    </div>
-                  ))}
-                </div> */}
-
+                {/* Sign In */}
                 <div className="space-y-6 border-t border-gray-200 px-4 py-6">
                   <div className="flow-root">
                     <a
-                      href="/"
+                      onClick={handleOpen}
                       className="-m-2 block p-2 font-medium text-gray-900"
                     >
                       Sign in
@@ -227,17 +218,17 @@ export default function Navigation() {
                   </div>
                 </div>
 
+                {/* Currency */}
                 <div className="border-t border-gray-200 px-4 py-6">
                   <a href="/" className="-m-2 flex items-center p-2">
                     <img
                       src="https://tailwindui.com/img/flags/flag-canada.svg"
-                      alt=""
+                      alt="Canada Flag"
                       className="block h-auto w-5 flex-shrink-0"
                     />
                     <span className="ml-3 block text-base font-medium text-gray-900">
                       CAD
                     </span>
-                    <span className="sr-only">, change currency</span>
                   </a>
                 </div>
               </Dialog.Panel>
@@ -248,7 +239,7 @@ export default function Navigation() {
 
       <header className="relative bg-white">
         <p className="flex h-10 items-center justify-center bg-indigo-600 px-4 text-sm font-medium text-white sm:px-6 lg:px-8">
-            Hotline: (84+)1234-567-891
+          Hotline: (84+)1234-567-891
         </p>
         <nav aria-label="Top" className="mx-auto">
           <div className="border-b border-gray-200">
@@ -463,10 +454,12 @@ export default function Navigation() {
 
                 {/* Search */}
                 <div className="flex items-center lg:ml-6">
-                
-                  <p onClick={()=>navigate("/products/search")} className="p-2 text-gray-400 hover:text-gray-500">
+                  <p
+                    onClick={() => navigate("/products/search")}
+                    className="p-2 text-gray-400 hover:text-gray-500"
+                  >
                     <span className="sr-only">Search</span>
-                    
+
                     <MagnifyingGlassIcon
                       className="h-6 w-6"
                       aria-hidden="true"

@@ -52,7 +52,7 @@ const RateProduct = () => {
     console.log(formData);
     dispatch(createReview({ review: formData.title, rating: rating, productId }));
     setFormData({ title: "", description: "" });
-    navigate(`/product/${productId}`);
+    // navigate(`/product/${productId}`);
   };
 
   useEffect(() => {

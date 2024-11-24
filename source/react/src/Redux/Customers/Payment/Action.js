@@ -28,7 +28,7 @@ import {
 
       // Thêm reqData làm payload, cấu hình config ở tham số thứ ba
       const { data } = await axios.post(
-        `http://localhost:5454/payment/vn-pay/${reqData.orderId}?bankCode=NCB`,
+        `${API_BASE_URL}/payment/vn-pay/${reqData.orderId}?bankCode=NCB`,
         reqData,
         config
       );

@@ -88,7 +88,7 @@ const Order = () => {
           <Box className="space-y-5 ">
           {Array.isArray(filteredOrders) && filteredOrders.length > 0 ? (
               filteredOrders.map((order) => {
-                return order?.orderItems?.map((item, index) => (
+                return order.orderStatus !== "PENDING" && order?.orderItems?.map((item, index) => (
                   <OrderCard item={item} order={order} key={index} />
                 ));
               })

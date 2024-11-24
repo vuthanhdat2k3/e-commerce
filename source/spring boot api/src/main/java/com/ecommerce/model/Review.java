@@ -29,6 +29,9 @@ public class Review {
 	@ManyToOne
 	@JoinColumn(name="user_id")
 	private User user;
+
+	@Column(name = "sentiment")
+	private String sentiment;
 	
 	private LocalDateTime createdAt;
 

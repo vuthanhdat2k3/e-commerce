@@ -14,7 +14,10 @@ const Cart = () => {
   // console.log("cart ",cart)
 
   useEffect(() => {
-    dispatch(getCart(jwt));
+    if(!jwt){
+      navigate("/login");
+    }
+    else dispatch(getCart(jwt));
   }, [jwt,dispatch]);
   console.log("cart-log",cart.cart);
   
